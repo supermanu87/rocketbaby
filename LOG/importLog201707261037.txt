@@ -1,0 +1,6 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-07-26 8:37:27
+File importLog201707261037.txt was successfully deleted - 2017-07-26 8:37:27
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-07-26 8:37:36
+File importLog201707261037.txt was successfully deleted - 2017-07-26 8:37:36
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-07-26 8:37:40
+File importLog201707261037.txt was successfully deleted - 2017-07-26 8:37:40

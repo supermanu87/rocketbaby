@@ -1,0 +1,32 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-07-28 8:45:30
+File importLog201707281045.txt was successfully deleted - 2017-07-28 8:45:30
+
+START FOR RIC_2017072721001500.csv - 2017-07-28 8:45:30
+SUCCESS: Import data about "RIC_2017072721001500.csv" was successfully added to "input_file" table. - 2017-07-28 8:45:30
+WARRING: Nothing was added to "ric" table from "RIC_2017072721001500.csv" file! - 2017-07-28 8:45:30
+
+START FOR CANCELLATI_20170728192000.xlsx - 2017-07-28 8:45:30
+SUCCESS: Import data about "CANCELLATI_20170728192000.xlsx" was successfully added to "input_file" table. - 2017-07-28 8:45:30
+SUCCESS: Import data from "CANCELLATI_20170728192000.xlsx" was successfully added to "cancellati" table. - 2017-07-28 8:45:30
+
+START FOR SHOPIFY_20170728115900.xlsx - 2017-07-28 8:45:30
+SUCCESS: Import data about "SHOPIFY_20170728115900.xlsx" was successfully added to "input_file" table. - 2017-07-28 8:45:30
+PHP Notice:  Error: Duplicate entry '#34607-RB3A021135' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '34607', LineitemQuantity = '3', PaymentMethod = '14', OrderSku = '#34607-RB3A021135', File = '24668', Vendor = '305', CreatedAt = '2017-07-27 08:53:21', LineitemName = 'Moschettone Porta Borse per il Passeggino Cuore Argento e Rosso', LineitemSku = 'RB3A021135' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-28 8:45:30
+ERROR: Unknown error during add information to "shopify" table. - 2017-07-28 8:45:30
+PHP Notice:  Error: Duplicate entry '#34606-RB3A019515' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '34606', LineitemQuantity = '1', PaymentMethod = '17', OrderSku = '#34606-RB3A019515', File = '24668', Vendor = '158', CreatedAt = '2017-07-27 08:37:34', LineitemName = 'Borsa Fasciatoio e Lettino da Viaggio 3 in 1 Beige', LineitemSku = 'RB3A019515' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-28 8:45:30
+ERROR: Unknown error during add information to "shopify" table. - 2017-07-28 8:45:30
+PHP Notice:  Error: Duplicate entry '#34605-RB3A021119' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '34605', LineitemQuantity = '1', PaymentMethod = '15', OrderSku = '#34605-RB3A021119', File = '24668', Vendor = '316', CreatedAt = '2017-07-27 08:30:45', LineitemName = 'Polipo Fontana Sciacquabimbo', LineitemSku = 'RB3A021119' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-28 8:45:30
+ERROR: Unknown error during add information to "shopify" table. - 2017-07-28 8:45:30
+PHP Notice:  Error: Duplicate entry '#34604-RB3A010889' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '34604', LineitemQuantity = '1', PaymentMethod = '15', OrderSku = '#34604-RB3A010889', File = '24668', Vendor = '244', CreatedAt = '2017-07-27 08:18:29', LineitemName = 'Copripiumino Wild animals Cool', LineitemSku = 'RB3A010889' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-28 8:45:30
+ERROR: Unknown error during add information to "shopify" table. - 2017-07-28 8:45:30
+PHP Notice:  Error: Duplicate entry '#34603-RB3A019663' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '34603', LineitemQuantity = '1', PaymentMethod = '17', OrderSku = '#34603-RB3A019663', File = '24668', Vendor = '199', CreatedAt = '2017-07-27 04:39:13', LineitemName = 'Frisbee Arrotolabile Salvaspazio Blu', LineitemSku = 'RB3A019663' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-28 8:45:30
+ERROR: Unknown error during add information to "shopify" table. - 2017-07-28 8:45:30
+PHP Notice:  Error: Duplicate entry '#34603-RB3A018962' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '34603', LineitemQuantity = '1', PaymentMethod = '16', OrderSku = '#34603-RB3A018962', File = '24668', Vendor = '196', CreatedAt = '2017-07-27 04:39:13', LineitemName = 'Cappello da Sole Blu con Squali Baby - 0-3 Mesi', LineitemSku = 'RB3A018962' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-28 8:45:30
+ERROR: Unknown error during add information to "shopify" table. - 2017-07-28 8:45:30
+PHP Notice:  Error: Duplicate entry '#34603-RB3A008943' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '34603', LineitemQuantity = '1', PaymentMethod = '16', OrderSku = '#34603-RB3A008943', File = '24668', Vendor = '185', CreatedAt = '2017-07-27 04:39:13', LineitemName = 'Piatto dinosauri', LineitemSku = 'RB3A008943' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-28 8:45:30
+ERROR: Unknown error during add information to "shopify" table. - 2017-07-28 8:45:30
+WARRING: Import data from "SHOPIFY_20170728115900.xlsx" was added to "shopify" with some errors! - 2017-07-28 8:45:30
+SUCCESS: Truncate table DBPO - 2017-07-28 8:45:30
+
+START FOR DBPO_20170728095600.xlsx - 2017-07-28 8:45:30
+SUCCESS: Import data about "DBPO_20170728095600.xlsx" was successfully added to "input_file" table. - 2017-07-28 8:45:30

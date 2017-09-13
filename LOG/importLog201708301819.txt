@@ -1,0 +1,9 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-08-30 16:19:12
+File importLog201708301819.txt was successfully deleted - 2017-08-30 16:19:12
+The file name for /var/www/html/rocketbaby/IN/STK_2017082921150900.csv was change to /var/www/html/rocketbaby/IN/STK_2017082921150900_1.csv - 2017-08-30 16:19:12
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-08-30 16:19:17
+File importLog201708301819.txt was successfully deleted - 2017-08-30 16:19:17
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-08-30 16:19:34
+File importLog201708301819.txt was successfully deleted - 2017-08-30 16:19:34
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-08-30 16:19:41
+File importLog201708301819.txt was successfully deleted - 2017-08-30 16:19:41

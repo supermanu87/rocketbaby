@@ -1,0 +1,7 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-07-25 21:04:46
+File importLog201707252304.txt was successfully deleted - 2017-07-25 21:04:46
+
+START FOR RIC_ord.xlsx - 2017-07-25 21:04:46
+SUCCESS: Import data about "RIC_ord.xlsx" was successfully added to "input_file" table. - 2017-07-25 21:04:46
+WARRING: Nothing was added to "ric" table from "RIC_ord.xlsx" file! - 2017-07-25 21:04:47
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_ord.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_ord.xlsx" - 2017-07-25 21:04:47

@@ -1,0 +1,14 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-07-26 8:24:53
+File importLog201707261024.txt was successfully deleted - 2017-07-26 8:24:53
+
+START FOR SPE_2017072518053500.csv - 2017-07-26 8:24:53
+SUCCESS: Import data about "SPE_2017072518053500.csv" was successfully added to "input_file" table. - 2017-07-26 8:24:53
+SUCCESS: Import data from "SPE_2017072518053500.csv" was successfully added to "spe" table. - 2017-07-26 8:24:54
+
+START FOR CAMBI_20170726114800.xlsx - 2017-07-26 8:24:54
+SUCCESS: Import data about "CAMBI_20170726114800.xlsx" was successfully added to "input_file" table. - 2017-07-26 8:24:54
+SUCCESS: Import data from "CAMBI_20170726114800.xlsx" was successfully added to "cambi" table. - 2017-07-26 8:24:54
+SUCCESS: Truncate table DBPO - 2017-07-26 8:24:54
+
+START FOR DBPO_20170726095600.xlsx - 2017-07-26 8:24:54
+SUCCESS: Import data about "DBPO_20170726095600.xlsx" was successfully added to "input_file" table. - 2017-07-26 8:24:54

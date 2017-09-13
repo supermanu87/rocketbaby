@@ -1,0 +1,6 @@
+Selezionata tabella simfdb - 2017-07-11 8:39:12
+SUCCES: Export file  "simfdb_201707110839.xlsx" was saved! - 2017-07-11 8:39:13
+Selezionata tabella soldout - 2017-07-11 8:39:19
+SUCCES: Export file  "soldout_201707110839.xlsx" was saved! - 2017-07-11 8:39:20
+Selezionata tabella spe - 2017-07-11 8:39:25
+SUCCES: Export file  "spe_201707110839.xlsx" was saved! - 2017-07-11 8:39:35

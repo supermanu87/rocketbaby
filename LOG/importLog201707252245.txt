@@ -1,0 +1,6 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-07-25 20:45:18
+File importLog201707252245.txt was successfully deleted - 2017-07-25 20:45:18
+
+START FOR RIC_ord.xlsx - 2017-07-25 20:45:18
+SUCCESS: Import data about "RIC_ord.xlsx" was successfully added to "input_file" table. - 2017-07-25 20:45:18
+PHP Notice:  Undefined variable: str in /var/www/html/rocketbaby/import_20170523.php on line 540 - 2017-07-25 20:45:18

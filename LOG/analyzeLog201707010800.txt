@@ -1,0 +1,13 @@
+ANALYZE PROCEDURE WAS STARTED!!! - 2017-07-01 8:00:13
+File analyzeLog201707010800.txt was successfully deleted - 2017-07-01 8:00:13
+SUCCESS: Import data from dashboard table was successfully copy to dashboard_archive - 2017-07-01 8:00:13
+SUCCESS: truncate dashboard table - 2017-07-01 8:00:13
+SUCCESS: set autoincrement=1 for dashbpard table - 2017-07-01 8:00:13
+SUCCESS: Analyze was generated to "dashboard" table! - 2017-07-01 8:00:20
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 186 - 2017-07-01 8:00:24
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 196 - 2017-07-01 8:00:26
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 205 - 2017-07-01 8:01:45
+SUCCES: File analyze "dashboard_20170701080013.xlsx" was saved! - 2017-07-01 8:02:31
+SUCCESS: Export info about "dashboard_20170701080013.xlsx" was successfully added to "input_file" table. - 2017-07-01 8:02:31
+SUCCESS: Export data about "dashboard_20170701080013.xlsx" was successfully added to "dashboard_files" table. - 2017-07-01 8:02:32
+Message has been sent successfully\n - 2017-07-01 8:02:32

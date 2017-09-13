@@ -1,0 +1,4 @@
+Selezionata tabella stk - 2017-08-30 15:31:32
+ERROR: The "stk" table return null rows! - 2017-08-30 15:31:32
+Selezionata tabella brt - 2017-08-30 15:31:38
+SUCCES: Export file  "brt_201708301531.xlsx" was saved! - 2017-08-30 15:31:55

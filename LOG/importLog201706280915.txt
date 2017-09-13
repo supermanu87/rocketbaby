@@ -1,0 +1,733 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-06-28 9:15:13
+File importLog201706280915.txt was successfully deleted - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017020918052200.csv was change to /var/www/html/rocketbaby/IN/SPE_2017020918052200_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017042718053800.csv was change to /var/www/html/rocketbaby/IN/SPE_2017042718053800_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017011018055800.csv was change to /var/www/html/rocketbaby/IN/SPE_2017011018055800_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017060618054400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017060618054400_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017041218053400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017041218053400_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017061218053900.csv was change to /var/www/html/rocketbaby/IN/SPE_2017061218053900_1.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017051118053700.csv was change to /var/www/html/rocketbaby/IN/SPE_2017051118053700_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017010218053200.csv was change to /var/www/html/rocketbaby/IN/SPE_2017010218053200_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017052218053500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017052218053500_3.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017022118052400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017022118052400_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017052518053600.csv was change to /var/www/html/rocketbaby/IN/SPE_2017052518053600_3.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017030218052400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017030218052400_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017061618053900.csv was change to /var/www/html/rocketbaby/IN/SPE_2017061618053900_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017030618052800.csv was change to /var/www/html/rocketbaby/IN/SPE_2017030618052800_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017031618052500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017031618052500_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017053118054000.csv was change to /var/www/html/rocketbaby/IN/SPE_2017053118054000_3.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017031018052700.csv was change to /var/www/html/rocketbaby/IN/SPE_2017031018052700_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017010518053300.csv was change to /var/www/html/rocketbaby/IN/SPE_2017010518053300_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017032018053000.csv was change to /var/www/html/rocketbaby/IN/SPE_2017032018053000_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017062318053200.csv was change to /var/www/html/rocketbaby/IN/SPE_2017062318053200_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017050918053400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017050918053400_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017041118053100.csv was change to /var/www/html/rocketbaby/IN/SPE_2017041118053100_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017033118054900.csv was change to /var/www/html/rocketbaby/IN/SPE_2017033118054900_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017021718052800.csv was change to /var/www/html/rocketbaby/IN/SPE_2017021718052800_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017032418052700.csv was change to /var/www/html/rocketbaby/IN/SPE_2017032418052700_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017031418052600.csv was change to /var/www/html/rocketbaby/IN/SPE_2017031418052600_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017053018053800.csv was change to /var/www/html/rocketbaby/IN/SPE_2017053018053800_3.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017041318053500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017041318053500_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017022718052400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017022718052400_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017051618053300.csv was change to /var/www/html/rocketbaby/IN/SPE_2017051618053300_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017020618054300.csv was change to /var/www/html/rocketbaby/IN/SPE_2017020618054300_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017011318054300.csv was change to /var/www/html/rocketbaby/IN/SPE_2017011318054300_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017031318053000.csv was change to /var/www/html/rocketbaby/IN/SPE_2017031318053000_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017031518052600.csv was change to /var/www/html/rocketbaby/IN/SPE_2017031518052600_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017052318053600.csv was change to /var/www/html/rocketbaby/IN/SPE_2017052318053600_3.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017060518053800.csv was change to /var/www/html/rocketbaby/IN/SPE_2017060518053800_3.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017021018052500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017021018052500_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017020718052300.csv was change to /var/www/html/rocketbaby/IN/SPE_2017020718052300_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017050418053800.csv was change to /var/www/html/rocketbaby/IN/SPE_2017050418053800_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017040718053600.csv was change to /var/www/html/rocketbaby/IN/SPE_2017040718053600_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017030918053000.csv was change to /var/www/html/rocketbaby/IN/SPE_2017030918053000_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017062018053800.csv was change to /var/www/html/rocketbaby/IN/SPE_2017062018053800_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017032118052700.csv was change to /var/www/html/rocketbaby/IN/SPE_2017032118052700_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017032218053100.csv was change to /var/www/html/rocketbaby/IN/SPE_2017032218053100_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017011218053700.csv was change to /var/www/html/rocketbaby/IN/SPE_2017011218053700_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017050518060100.csv was change to /var/www/html/rocketbaby/IN/SPE_2017050518060100_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017030318052400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017030318052400_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017021418052600.csv was change to /var/www/html/rocketbaby/IN/SPE_2017021418052600_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017050218053400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017050218053400_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017061418053800.csv was change to /var/www/html/rocketbaby/IN/SPE_2017061418053800_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017060718053400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017060718053400_3.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017052618053400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017052618053400_3.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017051518053500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017051518053500_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017022218052500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017022218052500_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017012418053200.csv was change to /var/www/html/rocketbaby/IN/SPE_2017012418053200_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017010418053000.csv was change to /var/www/html/rocketbaby/IN/SPE_2017010418053000_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017011818053800.csv was change to /var/www/html/rocketbaby/IN/SPE_2017011818053800_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017050818060100.csv was change to /var/www/html/rocketbaby/IN/SPE_2017050818060100_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017041418052700.csv was change to /var/www/html/rocketbaby/IN/SPE_2017041418052700_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017012618052700.csv was change to /var/www/html/rocketbaby/IN/SPE_2017012618052700_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017030118052300.csv was change to /var/www/html/rocketbaby/IN/SPE_2017030118052300_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017042818054400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017042818054400_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017020218053100.csv was change to /var/www/html/rocketbaby/IN/SPE_2017020218053100_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017051218053600.csv was change to /var/www/html/rocketbaby/IN/SPE_2017051218053600_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017062618053700.csv was change to /var/www/html/rocketbaby/IN/SPE_2017062618053700_1.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017060118053300.csv was change to /var/www/html/rocketbaby/IN/SPE_2017060118053300_3.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017012718053100.csv was change to /var/www/html/rocketbaby/IN/SPE_2017012718053100_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017050318053500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017050318053500_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017020318053200.csv was change to /var/www/html/rocketbaby/IN/SPE_2017020318053200_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017012018053300.csv was change to /var/www/html/rocketbaby/IN/SPE_2017012018053300_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017022418053800.csv was change to /var/www/html/rocketbaby/IN/SPE_2017022418053800_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017022818052900.csv was change to /var/www/html/rocketbaby/IN/SPE_2017022818052900_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017013018052700.csv was change to /var/www/html/rocketbaby/IN/SPE_2017013018052700_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017042118054000.csv was change to /var/www/html/rocketbaby/IN/SPE_2017042118054000_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017040318052700.csv was change to /var/www/html/rocketbaby/IN/SPE_2017040318052700_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017011718053900.csv was change to /var/www/html/rocketbaby/IN/SPE_2017011718053900_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017030818053300.csv was change to /var/www/html/rocketbaby/IN/SPE_2017030818053300_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017040518053400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017040518053400_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017021518052700.csv was change to /var/www/html/rocketbaby/IN/SPE_2017021518052700_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017042018053700.csv was change to /var/www/html/rocketbaby/IN/SPE_2017042018053700_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017052418053500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017052418053500_3.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017020118055000.csv was change to /var/www/html/rocketbaby/IN/SPE_2017020118055000_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017032818053300.csv was change to /var/www/html/rocketbaby/IN/SPE_2017032818053300_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017040418053400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017040418053400_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017051718053600.csv was change to /var/www/html/rocketbaby/IN/SPE_2017051718053600_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017042418053600.csv was change to /var/www/html/rocketbaby/IN/SPE_2017042418053600_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017032918053100.csv was change to /var/www/html/rocketbaby/IN/SPE_2017032918053100_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017033018053000.csv was change to /var/www/html/rocketbaby/IN/SPE_2017033018053000_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017062118053800.csv was change to /var/www/html/rocketbaby/IN/SPE_2017062118053800_1.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017061918053500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017061918053500_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017032318052700.csv was change to /var/www/html/rocketbaby/IN/SPE_2017032318052700_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017041018053500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017041018053500_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017021618052500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017021618052500_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017051018053500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017051018053500_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017012518053100.csv was change to /var/www/html/rocketbaby/IN/SPE_2017012518053100_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017061318053800.csv was change to /var/www/html/rocketbaby/IN/SPE_2017061318053800_1.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017011118053400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017011118053400_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017041818053500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017041818053500_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017042618055400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017042618055400_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017060818054200.csv was change to /var/www/html/rocketbaby/IN/SPE_2017060818054200_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017051818053500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017051818053500_3.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017012318053600.csv was change to /var/www/html/rocketbaby/IN/SPE_2017012318053600_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017032718060000.csv was change to /var/www/html/rocketbaby/IN/SPE_2017032718060000_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017041918053600.csv was change to /var/www/html/rocketbaby/IN/SPE_2017041918053600_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017020818052300.csv was change to /var/www/html/rocketbaby/IN/SPE_2017020818052300_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017022318052400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017022318052400_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017062218054100.csv was change to /var/www/html/rocketbaby/IN/SPE_2017062218054100_1.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017060918053900.csv was change to /var/www/html/rocketbaby/IN/SPE_2017060918053900_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017030718052500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017030718052500_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017031718052800.csv was change to /var/www/html/rocketbaby/IN/SPE_2017031718052800_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017022018052300.csv was change to /var/www/html/rocketbaby/IN/SPE_2017022018052300_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017013118053600.csv was change to /var/www/html/rocketbaby/IN/SPE_2017013118053600_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017052918054300.csv was change to /var/www/html/rocketbaby/IN/SPE_2017052918054300_3.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017011618054700.csv was change to /var/www/html/rocketbaby/IN/SPE_2017011618054700_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017061518054000.csv was change to /var/www/html/rocketbaby/IN/SPE_2017061518054000_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017021318052500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017021318052500_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017010318054400.csv was change to /var/www/html/rocketbaby/IN/SPE_2017010318054400_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017051918053600.csv was change to /var/www/html/rocketbaby/IN/SPE_2017051918053600_3.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017011918053600.csv was change to /var/www/html/rocketbaby/IN/SPE_2017011918053600_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017040618053200.csv was change to /var/www/html/rocketbaby/IN/SPE_2017040618053200_2.csv - 2017-06-28 9:15:13
+The file name for /var/www/html/rocketbaby/IN/SPE_2017010918053500.csv was change to /var/www/html/rocketbaby/IN/SPE_2017010918053500_2.csv - 2017-06-28 9:15:13
+
+START FOR SPE_2017022118052400_2.csv - 2017-06-28 9:15:13
+SUCCESS: Import data about "SPE_2017022118052400_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:13
+SUCCESS: Import data from "SPE_2017022118052400_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:13
+
+START FOR SPE_2017041218053400_2.csv - 2017-06-28 9:15:13
+SUCCESS: Import data about "SPE_2017041218053400_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:13
+SUCCESS: Import data from "SPE_2017041218053400_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:13
+
+START FOR SPE_2017042418053600_2.csv - 2017-06-28 9:15:13
+SUCCESS: Import data about "SPE_2017042418053600_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:13
+SUCCESS: Import data from "SPE_2017042418053600_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:13
+
+START FOR SPE_2017051218053600_2.csv - 2017-06-28 9:15:13
+SUCCESS: Import data about "SPE_2017051218053600_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:13
+SUCCESS: Import data from "SPE_2017051218053600_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:13
+
+START FOR SPE_2017021318052500_2.csv - 2017-06-28 9:15:13
+SUCCESS: Import data about "SPE_2017021318052500_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:13
+SUCCESS: Import data from "SPE_2017021318052500_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:13
+
+START FOR SPE_2017041818053500_2.csv - 2017-06-28 9:15:13
+SUCCESS: Import data about "SPE_2017041818053500_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:13
+SUCCESS: Import data from "SPE_2017041818053500_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:13
+
+START FOR SPE_2017030318052400_2.csv - 2017-06-28 9:15:13
+SUCCESS: Import data about "SPE_2017030318052400_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:13
+SUCCESS: Import data from "SPE_2017030318052400_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:14
+
+START FOR SPE_2017040418053400_2.csv - 2017-06-28 9:15:14
+SUCCESS: Import data about "SPE_2017040418053400_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:14
+SUCCESS: Import data from "SPE_2017040418053400_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:14
+
+START FOR SPE_2017052618053400_3.csv - 2017-06-28 9:15:14
+SUCCESS: Import data about "SPE_2017052618053400_3.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:14
+SUCCESS: Import data from "SPE_2017052618053400_3.csv" was successfully added to "spe" table. - 2017-06-28 9:15:14
+
+START FOR SPE_2017042018053700_2.csv - 2017-06-28 9:15:14
+SUCCESS: Import data about "SPE_2017042018053700_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:14
+SUCCESS: Import data from "SPE_2017042018053700_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:14
+
+START FOR SPE_2017041918053600_2.csv - 2017-06-28 9:15:14
+SUCCESS: Import data about "SPE_2017041918053600_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:14
+SUCCESS: Import data from "SPE_2017041918053600_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:14
+
+START FOR SPE_2017050918053400_2.csv - 2017-06-28 9:15:14
+SUCCESS: Import data about "SPE_2017050918053400_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:14
+SUCCESS: Import data from "SPE_2017050918053400_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:14
+
+START FOR SPE_2017040718053600_2.csv - 2017-06-28 9:15:14
+SUCCESS: Import data about "SPE_2017040718053600_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:14
+SUCCESS: Import data from "SPE_2017040718053600_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:14
+
+START FOR SPE_2017031718052800_2.csv - 2017-06-28 9:15:14
+SUCCESS: Import data about "SPE_2017031718052800_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:14
+SUCCESS: Import data from "SPE_2017031718052800_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:15
+
+START FOR SPE_2017052918054300_3.csv - 2017-06-28 9:15:15
+SUCCESS: Import data about "SPE_2017052918054300_3.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:15
+SUCCESS: Import data from "SPE_2017052918054300_3.csv" was successfully added to "spe" table. - 2017-06-28 9:15:15
+
+START FOR SPE_2017021518052700_2.csv - 2017-06-28 9:15:15
+SUCCESS: Import data about "SPE_2017021518052700_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:15
+SUCCESS: Import data from "SPE_2017021518052700_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:15
+
+START FOR SPE_2017030118052300_2.csv - 2017-06-28 9:15:15
+SUCCESS: Import data about "SPE_2017030118052300_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:15
+SUCCESS: Import data from "SPE_2017030118052300_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:15
+
+START FOR SPE_2017042818054400_2.csv - 2017-06-28 9:15:15
+SUCCESS: Import data about "SPE_2017042818054400_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:15
+SUCCESS: Import data from "SPE_2017042818054400_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:15
+
+START FOR SPE_2017011018055800_2.csv - 2017-06-28 9:15:15
+SUCCESS: Import data about "SPE_2017011018055800_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:15
+SUCCESS: Import data from "SPE_2017011018055800_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:15
+
+START FOR SPE_2017011618054700_2.csv - 2017-06-28 9:15:15
+SUCCESS: Import data about "SPE_2017011618054700_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:15
+SUCCESS: Import data from "SPE_2017011618054700_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:15
+
+START FOR SPE_2017022818052900_2.csv - 2017-06-28 9:15:15
+SUCCESS: Import data about "SPE_2017022818052900_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:15
+SUCCESS: Import data from "SPE_2017022818052900_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:15
+
+START FOR SPE_2017062018053800_2.csv - 2017-06-28 9:15:15
+SUCCESS: Import data about "SPE_2017062018053800_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:15
+SUCCESS: Import data from "SPE_2017062018053800_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:15
+
+START FOR SPE_2017061518054000_2.csv - 2017-06-28 9:15:15
+SUCCESS: Import data about "SPE_2017061518054000_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:15
+SUCCESS: Import data from "SPE_2017061518054000_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:15
+
+START FOR SPE_2017031418052600_2.csv - 2017-06-28 9:15:15
+SUCCESS: Import data about "SPE_2017031418052600_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:15
+SUCCESS: Import data from "SPE_2017031418052600_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:16
+
+START FOR SPE_2017060918053900_2.csv - 2017-06-28 9:15:16
+SUCCESS: Import data about "SPE_2017060918053900_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:16
+SUCCESS: Import data from "SPE_2017060918053900_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:16
+
+START FOR SPE_2017040318052700_2.csv - 2017-06-28 9:15:16
+SUCCESS: Import data about "SPE_2017040318052700_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:16
+SUCCESS: Import data from "SPE_2017040318052700_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:16
+
+START FOR SPE_2017032718060000_2.csv - 2017-06-28 9:15:16
+SUCCESS: Import data about "SPE_2017032718060000_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:16
+SUCCESS: Import data from "SPE_2017032718060000_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:16
+
+START FOR SPE_2017032418052700_2.csv - 2017-06-28 9:15:16
+SUCCESS: Import data about "SPE_2017032418052700_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:16
+SUCCESS: Import data from "SPE_2017032418052700_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:16
+
+START FOR SPE_2017061218053900_1.csv - 2017-06-28 9:15:16
+SUCCESS: Import data about "SPE_2017061218053900_1.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:16
+SUCCESS: Import data from "SPE_2017061218053900_1.csv" was successfully added to "spe" table. - 2017-06-28 9:15:16
+
+START FOR SPE_2017020718052300_2.csv - 2017-06-28 9:15:16
+SUCCESS: Import data about "SPE_2017020718052300_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:16
+SUCCESS: Import data from "SPE_2017020718052300_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:17
+
+START FOR SPE_2017032318052700_2.csv - 2017-06-28 9:15:17
+SUCCESS: Import data about "SPE_2017032318052700_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:17
+SUCCESS: Import data from "SPE_2017032318052700_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:17
+
+START FOR SPE_2017030618052800_2.csv - 2017-06-28 9:15:17
+SUCCESS: Import data about "SPE_2017030618052800_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:17
+SUCCESS: Import data from "SPE_2017030618052800_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:17
+
+START FOR SPE_2017052318053600_3.csv - 2017-06-28 9:15:17
+SUCCESS: Import data about "SPE_2017052318053600_3.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:17
+SUCCESS: Import data from "SPE_2017052318053600_3.csv" was successfully added to "spe" table. - 2017-06-28 9:15:17
+
+START FOR SPE_2017020618054300_2.csv - 2017-06-28 9:15:17
+SUCCESS: Import data about "SPE_2017020618054300_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:17
+SUCCESS: Import data from "SPE_2017020618054300_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:17
+
+START FOR SPE_2017060818054200_2.csv - 2017-06-28 9:15:17
+SUCCESS: Import data about "SPE_2017060818054200_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:17
+SUCCESS: Import data from "SPE_2017060818054200_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:17
+
+START FOR SPE_2017012018053300_2.csv - 2017-06-28 9:15:17
+SUCCESS: Import data about "SPE_2017012018053300_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:17
+SUCCESS: Import data from "SPE_2017012018053300_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:17
+
+START FOR SPE_2017042618055400_2.csv - 2017-06-28 9:15:17
+SUCCESS: Import data about "SPE_2017042618055400_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:17
+SUCCESS: Import data from "SPE_2017042618055400_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:17
+
+START FOR SPE_2017050418053800_2.csv - 2017-06-28 9:15:17
+SUCCESS: Import data about "SPE_2017050418053800_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:17
+SUCCESS: Import data from "SPE_2017050418053800_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:17
+
+START FOR SPE_2017011118053400_2.csv - 2017-06-28 9:15:17
+SUCCESS: Import data about "SPE_2017011118053400_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:17
+SUCCESS: Import data from "SPE_2017011118053400_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:17
+
+START FOR SPE_2017032018053000_2.csv - 2017-06-28 9:15:17
+SUCCESS: Import data about "SPE_2017032018053000_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:17
+SUCCESS: Import data from "SPE_2017032018053000_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:18
+
+START FOR SPE_2017030918053000_2.csv - 2017-06-28 9:15:18
+SUCCESS: Import data about "SPE_2017030918053000_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:18
+SUCCESS: Import data from "SPE_2017030918053000_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:18
+
+START FOR SPE_2017051818053500_3.csv - 2017-06-28 9:15:18
+SUCCESS: Import data about "SPE_2017051818053500_3.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:18
+SUCCESS: Import data from "SPE_2017051818053500_3.csv" was successfully added to "spe" table. - 2017-06-28 9:15:18
+
+START FOR SPE_2017042118054000_2.csv - 2017-06-28 9:15:18
+SUCCESS: Import data about "SPE_2017042118054000_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:18
+SUCCESS: Import data from "SPE_2017042118054000_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:18
+
+START FOR SPE_2017061318053800_1.csv - 2017-06-28 9:15:18
+SUCCESS: Import data about "SPE_2017061318053800_1.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:18
+SUCCESS: Import data from "SPE_2017061318053800_1.csv" was successfully added to "spe" table. - 2017-06-28 9:15:18
+
+START FOR SPE_2017020918052200_2.csv - 2017-06-28 9:15:18
+SUCCESS: Import data about "SPE_2017020918052200_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:18
+SUCCESS: Import data from "SPE_2017020918052200_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:18
+
+START FOR SPE_2017062218054100_1.csv - 2017-06-28 9:15:18
+SUCCESS: Import data about "SPE_2017062218054100_1.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:18
+SUCCESS: Import data from "SPE_2017062218054100_1.csv" was successfully added to "spe" table. - 2017-06-28 9:15:18
+
+START FOR SPE_2017061918053500_2.csv - 2017-06-28 9:15:18
+SUCCESS: Import data about "SPE_2017061918053500_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:18
+SUCCESS: Import data from "SPE_2017061918053500_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:18
+
+START FOR SPE_2017031318053000_2.csv - 2017-06-28 9:15:18
+SUCCESS: Import data about "SPE_2017031318053000_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:18
+SUCCESS: Import data from "SPE_2017031318053000_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:18
+
+START FOR SPE_2017022718052400_2.csv - 2017-06-28 9:15:18
+SUCCESS: Import data about "SPE_2017022718052400_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:18
+SUCCESS: Import data from "SPE_2017022718052400_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:18
+
+START FOR SPE_2017060518053800_3.csv - 2017-06-28 9:15:18
+SUCCESS: Import data about "SPE_2017060518053800_3.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:18
+SUCCESS: Import data from "SPE_2017060518053800_3.csv" was successfully added to "spe" table. - 2017-06-28 9:15:18
+
+START FOR SPE_2017032918053100_2.csv - 2017-06-28 9:15:18
+SUCCESS: Import data about "SPE_2017032918053100_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:18
+SUCCESS: Import data from "SPE_2017032918053100_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:19
+
+START FOR SPE_2017050818060100_2.csv - 2017-06-28 9:15:19
+SUCCESS: Import data about "SPE_2017050818060100_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:19
+SUCCESS: Import data from "SPE_2017050818060100_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:19
+
+START FOR SPE_2017041018053500_2.csv - 2017-06-28 9:15:19
+SUCCESS: Import data about "SPE_2017041018053500_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:19
+SUCCESS: Import data from "SPE_2017041018053500_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:19
+
+START FOR SPE_2017031618052500_2.csv - 2017-06-28 9:15:19
+SUCCESS: Import data about "SPE_2017031618052500_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:19
+SUCCESS: Import data from "SPE_2017031618052500_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:19
+
+START FOR SPE_2017011718053900_2.csv - 2017-06-28 9:15:19
+SUCCESS: Import data about "SPE_2017011718053900_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:19
+SUCCESS: Import data from "SPE_2017011718053900_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:19
+
+START FOR SPE_2017050218053400_2.csv - 2017-06-28 9:15:19
+SUCCESS: Import data about "SPE_2017050218053400_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:19
+SUCCESS: Import data from "SPE_2017050218053400_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:19
+
+START FOR SPE_2017010318054400_2.csv - 2017-06-28 9:15:19
+SUCCESS: Import data about "SPE_2017010318054400_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:19
+SUCCESS: Import data from "SPE_2017010318054400_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:19
+
+START FOR SPE_2017011318054300_2.csv - 2017-06-28 9:15:19
+SUCCESS: Import data about "SPE_2017011318054300_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:19
+SUCCESS: Import data from "SPE_2017011318054300_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:19
+
+START FOR SPE_2017010918053500_2.csv - 2017-06-28 9:15:19
+SUCCESS: Import data about "SPE_2017010918053500_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:19
+SUCCESS: Import data from "SPE_2017010918053500_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:20
+
+START FOR SPE_2017053118054000_3.csv - 2017-06-28 9:15:20
+SUCCESS: Import data about "SPE_2017053118054000_3.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:20
+SUCCESS: Import data from "SPE_2017053118054000_3.csv" was successfully added to "spe" table. - 2017-06-28 9:15:20
+
+START FOR SPE_2017012518053100_2.csv - 2017-06-28 9:15:20
+SUCCESS: Import data about "SPE_2017012518053100_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:20
+SUCCESS: Import data from "SPE_2017012518053100_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:20
+
+START FOR SPE_2017041418052700_2.csv - 2017-06-28 9:15:20
+SUCCESS: Import data about "SPE_2017041418052700_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:20
+SUCCESS: Import data from "SPE_2017041418052700_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:20
+
+START FOR SPE_2017041318053500_2.csv - 2017-06-28 9:15:20
+SUCCESS: Import data about "SPE_2017041318053500_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:20
+SUCCESS: Import data from "SPE_2017041318053500_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:20
+
+START FOR SPE_2017012318053600_2.csv - 2017-06-28 9:15:20
+SUCCESS: Import data about "SPE_2017012318053600_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:20
+SUCCESS: Import data from "SPE_2017012318053600_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:20
+
+START FOR SPE_2017010518053300_2.csv - 2017-06-28 9:15:20
+SUCCESS: Import data about "SPE_2017010518053300_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:20
+SUCCESS: Import data from "SPE_2017010518053300_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:20
+
+START FOR SPE_2017051118053700_2.csv - 2017-06-28 9:15:20
+SUCCESS: Import data about "SPE_2017051118053700_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:20
+SUCCESS: Import data from "SPE_2017051118053700_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:20
+
+START FOR SPE_2017062718053700.csv - 2017-06-28 9:15:20
+SUCCESS: Import data about "SPE_2017062718053700.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:20
+SUCCESS: Import data from "SPE_2017062718053700.csv" was successfully added to "spe" table. - 2017-06-28 9:15:21
+
+START FOR SPE_2017020318053200_2.csv - 2017-06-28 9:15:21
+SUCCESS: Import data about "SPE_2017020318053200_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:21
+SUCCESS: Import data from "SPE_2017020318053200_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:21
+
+START FOR SPE_2017051918053600_3.csv - 2017-06-28 9:15:21
+SUCCESS: Import data about "SPE_2017051918053600_3.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:21
+SUCCESS: Import data from "SPE_2017051918053600_3.csv" was successfully added to "spe" table. - 2017-06-28 9:15:21
+
+START FOR SPE_2017011818053800_2.csv - 2017-06-28 9:15:21
+SUCCESS: Import data about "SPE_2017011818053800_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:21
+SUCCESS: Import data from "SPE_2017011818053800_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:21
+
+START FOR SPE_2017062118053800_1.csv - 2017-06-28 9:15:21
+SUCCESS: Import data about "SPE_2017062118053800_1.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:21
+SUCCESS: Import data from "SPE_2017062118053800_1.csv" was successfully added to "spe" table. - 2017-06-28 9:15:21
+
+START FOR SPE_2017061418053800_2.csv - 2017-06-28 9:15:21
+SUCCESS: Import data about "SPE_2017061418053800_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:21
+SUCCESS: Import data from "SPE_2017061418053800_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:22
+
+START FOR SPE_2017062618053700_1.csv - 2017-06-28 9:15:22
+SUCCESS: Import data about "SPE_2017062618053700_1.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:22
+SUCCESS: Import data from "SPE_2017062618053700_1.csv" was successfully added to "spe" table. - 2017-06-28 9:15:22
+
+START FOR SPE_2017012718053100_2.csv - 2017-06-28 9:15:22
+SUCCESS: Import data about "SPE_2017012718053100_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:22
+SUCCESS: Import data from "SPE_2017012718053100_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:22
+
+START FOR SPE_2017031018052700_2.csv - 2017-06-28 9:15:22
+SUCCESS: Import data about "SPE_2017031018052700_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:22
+SUCCESS: Import data from "SPE_2017031018052700_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:22
+
+START FOR SPE_2017032218053100_2.csv - 2017-06-28 9:15:22
+SUCCESS: Import data about "SPE_2017032218053100_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:22
+SUCCESS: Import data from "SPE_2017032218053100_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:22
+
+START FOR SPE_2017030718052500_2.csv - 2017-06-28 9:15:22
+SUCCESS: Import data about "SPE_2017030718052500_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:22
+SUCCESS: Import data from "SPE_2017030718052500_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:22
+
+START FOR SPE_2017022218052500_2.csv - 2017-06-28 9:15:22
+SUCCESS: Import data about "SPE_2017022218052500_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:22
+SUCCESS: Import data from "SPE_2017022218052500_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:22
+
+START FOR SPE_2017062318053200_2.csv - 2017-06-28 9:15:22
+SUCCESS: Import data about "SPE_2017062318053200_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:22
+SUCCESS: Import data from "SPE_2017062318053200_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:22
+
+START FOR SPE_2017060118053300_3.csv - 2017-06-28 9:15:22
+SUCCESS: Import data about "SPE_2017060118053300_3.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:22
+SUCCESS: Import data from "SPE_2017060118053300_3.csv" was successfully added to "spe" table. - 2017-06-28 9:15:22
+
+START FOR SPE_2017013018052700_2.csv - 2017-06-28 9:15:22
+SUCCESS: Import data about "SPE_2017013018052700_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:22
+SUCCESS: Import data from "SPE_2017013018052700_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:22
+
+START FOR SPE_2017040518053400_2.csv - 2017-06-28 9:15:22
+SUCCESS: Import data about "SPE_2017040518053400_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:22
+SUCCESS: Import data from "SPE_2017040518053400_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:22
+
+START FOR SPE_2017050318053500_2.csv - 2017-06-28 9:15:22
+SUCCESS: Import data about "SPE_2017050318053500_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:22
+SUCCESS: Import data from "SPE_2017050318053500_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:23
+
+START FOR SPE_2017021418052600_2.csv - 2017-06-28 9:15:23
+SUCCESS: Import data about "SPE_2017021418052600_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:23
+SUCCESS: Import data from "SPE_2017021418052600_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:23
+
+START FOR SPE_2017013118053600_2.csv - 2017-06-28 9:15:23
+SUCCESS: Import data about "SPE_2017013118053600_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:23
+SUCCESS: Import data from "SPE_2017013118053600_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:23
+
+START FOR SPE_2017052218053500_3.csv - 2017-06-28 9:15:23
+SUCCESS: Import data about "SPE_2017052218053500_3.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:23
+SUCCESS: Import data from "SPE_2017052218053500_3.csv" was successfully added to "spe" table. - 2017-06-28 9:15:23
+
+START FOR SPE_2017060718053400_3.csv - 2017-06-28 9:15:23
+SUCCESS: Import data about "SPE_2017060718053400_3.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:23
+SUCCESS: Import data from "SPE_2017060718053400_3.csv" was successfully added to "spe" table. - 2017-06-28 9:15:23
+
+START FOR SPE_2017051618053300_2.csv - 2017-06-28 9:15:23
+SUCCESS: Import data about "SPE_2017051618053300_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:23
+SUCCESS: Import data from "SPE_2017051618053300_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:23
+
+START FOR SPE_2017061618053900_2.csv - 2017-06-28 9:15:23
+SUCCESS: Import data about "SPE_2017061618053900_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:23
+SUCCESS: Import data from "SPE_2017061618053900_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:23
+
+START FOR SPE_2017010218053200_2.csv - 2017-06-28 9:15:23
+SUCCESS: Import data about "SPE_2017010218053200_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:23
+SUCCESS: Import data from "SPE_2017010218053200_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:23
+
+START FOR SPE_2017053018053800_3.csv - 2017-06-28 9:15:23
+SUCCESS: Import data about "SPE_2017053018053800_3.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:23
+SUCCESS: Import data from "SPE_2017053018053800_3.csv" was successfully added to "spe" table. - 2017-06-28 9:15:23
+
+START FOR SPE_2017033118054900_2.csv - 2017-06-28 9:15:23
+SUCCESS: Import data about "SPE_2017033118054900_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:23
+SUCCESS: Import data from "SPE_2017033118054900_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:24
+
+START FOR SPE_2017032818053300_2.csv - 2017-06-28 9:15:24
+SUCCESS: Import data about "SPE_2017032818053300_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:24
+SUCCESS: Import data from "SPE_2017032818053300_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:24
+
+START FOR SPE_2017022418053800_2.csv - 2017-06-28 9:15:24
+SUCCESS: Import data about "SPE_2017022418053800_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:24
+SUCCESS: Import data from "SPE_2017022418053800_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:24
+
+START FOR SPE_2017022018052300_2.csv - 2017-06-28 9:15:24
+SUCCESS: Import data about "SPE_2017022018052300_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:24
+SUCCESS: Import data from "SPE_2017022018052300_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:24
+
+START FOR SPE_2017031518052600_2.csv - 2017-06-28 9:15:24
+SUCCESS: Import data about "SPE_2017031518052600_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:24
+SUCCESS: Import data from "SPE_2017031518052600_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:24
+
+START FOR SPE_2017041118053100_2.csv - 2017-06-28 9:15:24
+SUCCESS: Import data about "SPE_2017041118053100_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:24
+SUCCESS: Import data from "SPE_2017041118053100_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:24
+
+START FOR SPE_2017011218053700_2.csv - 2017-06-28 9:15:24
+SUCCESS: Import data about "SPE_2017011218053700_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:24
+SUCCESS: Import data from "SPE_2017011218053700_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:24
+
+START FOR SPE_2017021018052500_2.csv - 2017-06-28 9:15:24
+SUCCESS: Import data about "SPE_2017021018052500_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:24
+SUCCESS: Import data from "SPE_2017021018052500_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:24
+
+START FOR SPE_2017021618052500_2.csv - 2017-06-28 9:15:24
+SUCCESS: Import data about "SPE_2017021618052500_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:24
+SUCCESS: Import data from "SPE_2017021618052500_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:24
+
+START FOR SPE_2017010418053000_2.csv - 2017-06-28 9:15:24
+SUCCESS: Import data about "SPE_2017010418053000_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:24
+SUCCESS: Import data from "SPE_2017010418053000_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:24
+
+START FOR SPE_2017051718053600_2.csv - 2017-06-28 9:15:24
+SUCCESS: Import data about "SPE_2017051718053600_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:24
+SUCCESS: Import data from "SPE_2017051718053600_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:24
+
+START FOR SPE_2017020218053100_2.csv - 2017-06-28 9:15:24
+SUCCESS: Import data about "SPE_2017020218053100_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:24
+SUCCESS: Import data from "SPE_2017020218053100_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:24
+
+START FOR SPE_2017052418053500_3.csv - 2017-06-28 9:15:24
+SUCCESS: Import data about "SPE_2017052418053500_3.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:24
+SUCCESS: Import data from "SPE_2017052418053500_3.csv" was successfully added to "spe" table. - 2017-06-28 9:15:25
+
+START FOR SPE_2017012618052700_2.csv - 2017-06-28 9:15:25
+SUCCESS: Import data about "SPE_2017012618052700_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:25
+SUCCESS: Import data from "SPE_2017012618052700_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:25
+
+START FOR SPE_2017011918053600_2.csv - 2017-06-28 9:15:25
+SUCCESS: Import data about "SPE_2017011918053600_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:25
+SUCCESS: Import data from "SPE_2017011918053600_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:25
+
+START FOR SPE_2017020118055000_2.csv - 2017-06-28 9:15:25
+SUCCESS: Import data about "SPE_2017020118055000_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:25
+SUCCESS: Import data from "SPE_2017020118055000_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:25
+
+START FOR SPE_2017050518060100_2.csv - 2017-06-28 9:15:25
+SUCCESS: Import data about "SPE_2017050518060100_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:25
+SUCCESS: Import data from "SPE_2017050518060100_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:25
+
+START FOR SPE_2017060618054400_2.csv - 2017-06-28 9:15:25
+SUCCESS: Import data about "SPE_2017060618054400_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:25
+SUCCESS: Import data from "SPE_2017060618054400_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:25
+
+START FOR SPE_2017051518053500_2.csv - 2017-06-28 9:15:25
+SUCCESS: Import data about "SPE_2017051518053500_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:25
+SUCCESS: Import data from "SPE_2017051518053500_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:26
+
+START FOR SPE_2017051018053500_2.csv - 2017-06-28 9:15:26
+SUCCESS: Import data about "SPE_2017051018053500_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:26
+SUCCESS: Import data from "SPE_2017051018053500_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:26
+
+START FOR SPE_2017020818052300_2.csv - 2017-06-28 9:15:26
+SUCCESS: Import data about "SPE_2017020818052300_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:26
+SUCCESS: Import data from "SPE_2017020818052300_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:26
+
+START FOR SPE_2017040618053200_2.csv - 2017-06-28 9:15:26
+SUCCESS: Import data about "SPE_2017040618053200_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:26
+SUCCESS: Import data from "SPE_2017040618053200_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:26
+
+START FOR SPE_2017042718053800_2.csv - 2017-06-28 9:15:26
+SUCCESS: Import data about "SPE_2017042718053800_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:26
+SUCCESS: Import data from "SPE_2017042718053800_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:26
+
+START FOR SPE_2017021718052800_2.csv - 2017-06-28 9:15:26
+SUCCESS: Import data about "SPE_2017021718052800_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:26
+SUCCESS: Import data from "SPE_2017021718052800_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:26
+
+START FOR SPE_2017052518053600_3.csv - 2017-06-28 9:15:26
+SUCCESS: Import data about "SPE_2017052518053600_3.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:26
+SUCCESS: Import data from "SPE_2017052518053600_3.csv" was successfully added to "spe" table. - 2017-06-28 9:15:26
+
+START FOR SPE_2017030218052400_2.csv - 2017-06-28 9:15:26
+SUCCESS: Import data about "SPE_2017030218052400_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:26
+SUCCESS: Import data from "SPE_2017030218052400_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:26
+
+START FOR SPE_2017030818053300_2.csv - 2017-06-28 9:15:26
+SUCCESS: Import data about "SPE_2017030818053300_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:26
+SUCCESS: Import data from "SPE_2017030818053300_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:26
+
+START FOR SPE_2017022318052400_2.csv - 2017-06-28 9:15:26
+SUCCESS: Import data about "SPE_2017022318052400_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:26
+SUCCESS: Import data from "SPE_2017022318052400_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:26
+
+START FOR SPE_2017032118052700_2.csv - 2017-06-28 9:15:26
+SUCCESS: Import data about "SPE_2017032118052700_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:27
+SUCCESS: Import data from "SPE_2017032118052700_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:27
+
+START FOR SPE_2017033018053000_2.csv - 2017-06-28 9:15:27
+SUCCESS: Import data about "SPE_2017033018053000_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:27
+SUCCESS: Import data from "SPE_2017033018053000_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:27
+
+START FOR SPE_2017012418053200_2.csv - 2017-06-28 9:15:27
+SUCCESS: Import data about "SPE_2017012418053200_2.csv" was successfully added to "input_file" table. - 2017-06-28 9:15:27
+SUCCESS: Import data from "SPE_2017012418053200_2.csv" was successfully added to "spe" table. - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017022118052400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017022118052400_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017041218053400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017041218053400_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017042418053600_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017042418053600_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017051218053600_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017051218053600_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017021318052500_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017021318052500_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017041818053500_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017041818053500_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017030318052400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017030318052400_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017040418053400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017040418053400_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017052618053400_3.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017052618053400_3.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017042018053700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017042018053700_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017041918053600_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017041918053600_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017050918053400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017050918053400_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017040718053600_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017040718053600_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017031718052800_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017031718052800_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017052918054300_3.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017052918054300_3.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017021518052700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017021518052700_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017030118052300_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017030118052300_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017042818054400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017042818054400_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017011018055800_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017011018055800_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017011618054700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017011618054700_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017022818052900_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017022818052900_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017062018053800_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017062018053800_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017061518054000_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017061518054000_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017031418052600_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017031418052600_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017060918053900_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017060918053900_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017040318052700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017040318052700_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017032718060000_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017032718060000_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017032418052700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017032418052700_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017061218053900_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017061218053900_1.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017020718052300_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017020718052300_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017032318052700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017032318052700_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017030618052800_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017030618052800_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017052318053600_3.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017052318053600_3.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017020618054300_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017020618054300_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017060818054200_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017060818054200_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017012018053300_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017012018053300_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017042618055400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017042618055400_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017050418053800_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017050418053800_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017011118053400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017011118053400_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017032018053000_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017032018053000_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017030918053000_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017030918053000_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017051818053500_3.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017051818053500_3.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017042118054000_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017042118054000_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017061318053800_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017061318053800_1.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017020918052200_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017020918052200_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017062218054100_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017062218054100_1.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017061918053500_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017061918053500_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017031318053000_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017031318053000_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017022718052400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017022718052400_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017060518053800_3.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017060518053800_3.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017032918053100_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017032918053100_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017050818060100_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017050818060100_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017041018053500_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017041018053500_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017031618052500_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017031618052500_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017011718053900_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017011718053900_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017050218053400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017050218053400_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017010318054400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017010318054400_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017011318054300_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017011318054300_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017010918053500_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017010918053500_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017053118054000_3.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017053118054000_3.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017012518053100_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017012518053100_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017041418052700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017041418052700_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017041318053500_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017041318053500_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017012318053600_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017012318053600_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017010518053300_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017010518053300_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017051118053700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017051118053700_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017062718053700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017062718053700.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017020318053200_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017020318053200_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017051918053600_3.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017051918053600_3.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017011818053800_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017011818053800_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017062118053800_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017062118053800_1.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017061418053800_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017061418053800_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017062618053700_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017062618053700_1.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017012718053100_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017012718053100_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017031018052700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017031018052700_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017032218053100_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017032218053100_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017030718052500_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017030718052500_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017022218052500_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017022218052500_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017062318053200_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017062318053200_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017060118053300_3.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017060118053300_3.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017013018052700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017013018052700_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017040518053400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017040518053400_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017050318053500_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017050318053500_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017021418052600_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017021418052600_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017013118053600_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017013118053600_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017052218053500_3.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017052218053500_3.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017060718053400_3.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017060718053400_3.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017051618053300_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017051618053300_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017061618053900_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017061618053900_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017010218053200_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017010218053200_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017053018053800_3.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017053018053800_3.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017033118054900_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017033118054900_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017032818053300_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017032818053300_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017022418053800_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017022418053800_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017022018052300_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017022018052300_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017031518052600_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017031518052600_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017041118053100_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017041118053100_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017011218053700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017011218053700_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017021018052500_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017021018052500_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017021618052500_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017021618052500_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017010418053000_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017010418053000_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017051718053600_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017051718053600_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017020218053100_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017020218053100_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017052418053500_3.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017052418053500_3.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017012618052700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017012618052700_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017011918053600_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017011918053600_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017020118055000_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017020118055000_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017050518060100_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017050518060100_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017060618054400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017060618054400_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017051518053500_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017051518053500_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017051018053500_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017051018053500_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017020818052300_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017020818052300_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017040618053200_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017040618053200_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017042718053800_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017042718053800_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017021718052800_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017021718052800_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017052518053600_3.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017052518053600_3.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017030218052400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017030218052400_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017030818053300_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017030818053300_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017022318052400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017022318052400_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017032118052700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017032118052700_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017033018053000_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017033018053000_2.csv" - 2017-06-28 9:15:27
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017012418053200_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017012418053200_2.csv" - 2017-06-28 9:15:27

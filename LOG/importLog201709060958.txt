@@ -1,0 +1,29 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-09-06 7:58:15
+File importLog201709060958.txt was successfully deleted - 2017-09-06 7:58:15
+SUCCESS: TRUNCATE TABLE stk - 2017-09-06 7:58:15
+
+START FOR STK_2017090521150900.csv - 2017-09-06 7:58:15
+SUCCESS: Import data about "STK_2017090521150900.csv" was successfully added to "input_file" table. - 2017-09-06 7:58:15
+SUCCESS: Import data from "STK_2017090521150900.csv" was successfully added to "stk" table. - 2017-09-06 7:58:19
+
+START FOR RIC_2017090513002200.csv - 2017-09-06 7:58:19
+SUCCESS: Import data about "RIC_2017090513002200.csv" was successfully added to "input_file" table. - 2017-09-06 7:58:19
+WARRING: Nothing was added to "ric" table from "RIC_2017090513002200.csv" file! - 2017-09-06 7:58:19
+SUCCESS: Truncate table SIMFDB - 2017-09-06 7:58:19
+
+START FOR SIMFDB_2017090608445200.csv - 2017-09-06 7:58:19
+SUCCESS: Import data about "SIMFDB_2017090608445200.csv" was successfully added to "input_file" table. - 2017-09-06 7:58:19
+SUCCESS: Import data from "SIMFDB_2017090608445200.csv" was successfully added to "simfdb" table. - 2017-09-06 7:58:20
+
+START FOR RIC_2017090521001200.csv - 2017-09-06 7:58:20
+SUCCESS: Import data about "RIC_2017090521001200.csv" was successfully added to "input_file" table. - 2017-09-06 7:58:20
+WARRING: Nothing was added to "ric" table from "RIC_2017090521001200.csv" file! - 2017-09-06 7:58:20
+
+START FOR SPE_2017090518054600.csv - 2017-09-06 7:58:20
+SUCCESS: Import data about "SPE_2017090518054600.csv" was successfully added to "input_file" table. - 2017-09-06 7:58:20
+SUCCESS: Import data from "SPE_2017090518054600.csv" was successfully added to "spe" table. - 2017-09-06 7:58:20
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/STK_2017090521150900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/STK_2017090521150900.csv" - 2017-09-06 7:58:20
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017090513002200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017090513002200.csv" - 2017-09-06 7:58:20
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SIMFDB_2017090608445200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SIMFDB_2017090608445200.csv" - 2017-09-06 7:58:20
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017090521001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017090521001200.csv" - 2017-09-06 7:58:20
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017090518054600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017090518054600.csv" - 2017-09-06 7:58:20

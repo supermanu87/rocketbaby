@@ -1,0 +1,6 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-09-05 7:42:26
+File importLog201709050942.txt was successfully deleted - 2017-09-05 7:42:26
+SUCCESS: Truncate table DBPO - 2017-09-05 7:42:26
+
+START FOR DBPO_201709050939.xlsx - 2017-09-05 7:42:26
+SUCCESS: Import data about "DBPO_201709050939.xlsx" was successfully added to "input_file" table. - 2017-09-05 7:42:26

@@ -1,0 +1,27 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-08-02 9:22:48
+File importLog201708021122.txt was successfully deleted - 2017-08-02 9:22:48
+
+START FOR RIC_2017080113002000.csv - 2017-08-02 9:22:48
+SUCCESS: Import data about "RIC_2017080113002000.csv" was successfully added to "input_file" table. - 2017-08-02 9:22:48
+SUCCESS: Import data from "RIC_2017080113002000.csv" was successfully added to "ric" table. - 2017-08-02 9:22:48
+
+START FOR SPE_2017080118053600.csv - 2017-08-02 9:22:48
+SUCCESS: Import data about "SPE_2017080118053600.csv" was successfully added to "input_file" table. - 2017-08-02 9:22:48
+SUCCESS: Import data from "SPE_2017080118053600.csv" was successfully added to "spe" table. - 2017-08-02 9:22:48
+
+START FOR CAMBI_20170802135700.xlsx - 2017-08-02 9:22:48
+SUCCESS: Import data about "CAMBI_20170802135700.xlsx" was successfully added to "input_file" table. - 2017-08-02 9:22:48
+SUCCESS: Import data from "CAMBI_20170802135700.xlsx" was successfully added to "cambi" table. - 2017-08-02 9:22:48
+SUCCESS: Truncate table SIMFDB - 2017-08-02 9:22:48
+
+START FOR SIMFDB_2017080208514200.csv - 2017-08-02 9:22:48
+SUCCESS: Import data about "SIMFDB_2017080208514200.csv" was successfully added to "input_file" table. - 2017-08-02 9:22:48
+SUCCESS: Import data from "SIMFDB_2017080208514200.csv" was successfully added to "simfdb" table. - 2017-08-02 9:22:50
+
+START FOR RIC_2017080121001300.csv - 2017-08-02 9:22:50
+SUCCESS: Import data about "RIC_2017080121001300.csv" was successfully added to "input_file" table. - 2017-08-02 9:22:50
+WARRING: Nothing was added to "ric" table from "RIC_2017080121001300.csv" file! - 2017-08-02 9:22:50
+SUCCESS: Truncate table DBPO - 2017-08-02 9:22:50
+
+START FOR DBPO_20170802095600.xlsx - 2017-08-02 9:22:50
+SUCCESS: Import data about "DBPO_20170802095600.xlsx" was successfully added to "input_file" table. - 2017-08-02 9:22:50

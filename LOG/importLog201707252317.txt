@@ -1,0 +1,6 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-07-25 21:17:13
+File importLog201707252317.txt was successfully deleted - 2017-07-25 21:17:13
+
+START FOR RIC_ord.xlsx - 2017-07-25 21:17:13
+SUCCESS: Import data about "RIC_ord.xlsx" was successfully added to "input_file" table. - 2017-07-25 21:17:13
+PHP Notice:  Array to string conversion in /var/www/html/rocketbaby/import_20170523.php on line 539 - 2017-07-25 21:17:14

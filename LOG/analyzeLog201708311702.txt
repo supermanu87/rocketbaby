@@ -1,0 +1,14 @@
+ANALYZE PROCEDURE WAS STARTED!!! - 2017-08-31 17:02:48
+File analyzeLog201708311702.txt was successfully deleted - 2017-08-31 17:02:48
+SUCCESS: Import data from dashboard table was successfully copy to dashboard_archive - 2017-08-31 17:02:49
+SUCCESS: truncate dashboard table - 2017-08-31 17:02:49
+SUCCESS: set autoincrement=1 for dashbpard table - 2017-08-31 17:02:49
+SUCCESS: Analyze was generated to "dashboard" table! - 2017-08-31 17:02:54
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 186 - 2017-08-31 17:03:04
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 196 - 2017-08-31 17:03:04
+PHP Warning:  mysqli_multi_query(): MySQL server has gone away in /var/www/html/rocketbaby/analyze_20170520.php on line 200 - 2017-08-31 17:03:06
+PHP Warning:  mysqli_multi_query(): Error reading result set's header in /var/www/html/rocketbaby/analyze_20170520.php on line 200 - 2017-08-31 17:03:06
+PHP Warning:  mysqli::query(): MySQL server has gone away in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 19 - 2017-08-31 17:03:06
+PHP Warning:  mysqli::query(): Error reading result set's header in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 19 - 2017-08-31 17:03:06
+PHP Notice:  Error: MySQL server has gone away<br />Error No: 2006<br />SELECT Name, CreatedAt, LineitemQuantity, LineitemName, LineitemSku, PaymentMethod, Vendor, OrderSKU_Shopify, OrderITM, SKU_ITM, OrderSKU_ITM, StatusFinale, TrackCode, SIMFDB_Richiesta, SIMFDB_PRESENTE, PRO, SPE, RIC, Soldout_Report, DBPO_Report, DBPO_Total, Canceled_Report, DataEvento FROM dashboard in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-31 17:03:06
+ERROR: The "dashboard" table return null rows! - 2017-08-31 17:03:06

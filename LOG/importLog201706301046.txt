@@ -1,0 +1,68 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-06-30 10:46:31
+File importLog201706301046.txt was successfully deleted - 2017-06-30 10:46:31
+The file name for /var/www/html/rocketbaby/IN/RIC_2017062021002200.csv was change to /var/www/html/rocketbaby/IN/RIC_2017062021002200_2.csv - 2017-06-30 10:46:31
+The file name for /var/www/html/rocketbaby/IN/RIC_2017062913001700.csv was change to /var/www/html/rocketbaby/IN/RIC_2017062913001700_1.csv - 2017-06-30 10:46:31
+The file name for /var/www/html/rocketbaby/IN/RIC_2017062821001100.csv was change to /var/www/html/rocketbaby/IN/RIC_2017062821001100_1.csv - 2017-06-30 10:46:31
+The file name for /var/www/html/rocketbaby/IN/RIC_2017062621001300.csv was change to /var/www/html/rocketbaby/IN/RIC_2017062621001300_1.csv - 2017-06-30 10:46:31
+The file name for /var/www/html/rocketbaby/IN/RIC_2017062813001600.csv was change to /var/www/html/rocketbaby/IN/RIC_2017062813001600_1.csv - 2017-06-30 10:46:31
+The file name for /var/www/html/rocketbaby/IN/RIC_2017062113002000.csv was change to /var/www/html/rocketbaby/IN/RIC_2017062113002000_1.csv - 2017-06-30 10:46:31
+The file name for /var/www/html/rocketbaby/IN/RIC_2017062713001700.csv was change to /var/www/html/rocketbaby/IN/RIC_2017062713001700_1.csv - 2017-06-30 10:46:31
+The file name for /var/www/html/rocketbaby/IN/RIC_2017062721001000.csv was change to /var/www/html/rocketbaby/IN/RIC_2017062721001000_1.csv - 2017-06-30 10:46:31
+The file name for /var/www/html/rocketbaby/IN/RIC_2017062213001900.csv was change to /var/www/html/rocketbaby/IN/RIC_2017062213001900_1.csv - 2017-06-30 10:46:31
+The file name for /var/www/html/rocketbaby/IN/RIC_2017062121001300.csv was change to /var/www/html/rocketbaby/IN/RIC_2017062121001300_1.csv - 2017-06-30 10:46:31
+
+START FOR RIC_2017062621001300_1.csv - 2017-06-30 10:46:31
+SUCCESS: Import data about "RIC_2017062621001300_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:46:31
+WARRING: Nothing was added to "ric" table from "RIC_2017062621001300_1.csv" file! - 2017-06-30 10:46:31
+
+START FOR RIC_2017062121001300_1.csv - 2017-06-30 10:46:31
+SUCCESS: Import data about "RIC_2017062121001300_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:46:31
+WARRING: Nothing was added to "ric" table from "RIC_2017062121001300_1.csv" file! - 2017-06-30 10:46:31
+
+START FOR RIC_2017062021002200_2.csv - 2017-06-30 10:46:31
+SUCCESS: Import data about "RIC_2017062021002200_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:46:31
+WARRING: Nothing was added to "ric" table from "RIC_2017062021002200_2.csv" file! - 2017-06-30 10:46:31
+
+START FOR RIC_2017062721001000_1.csv - 2017-06-30 10:46:31
+SUCCESS: Import data about "RIC_2017062721001000_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:46:31
+PHP Notice:  Undefined variable: str in /var/www/html/rocketbaby/import_20170523.php on line 540 - 2017-06-30 10:46:31
+SUCCESS: Import data from "RIC_2017062721001000_1.csv" was successfully added to "ric" table. - 2017-06-30 10:46:31
+
+START FOR RIC_2017062713001700_1.csv - 2017-06-30 10:46:31
+SUCCESS: Import data about "RIC_2017062713001700_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:46:31
+SUCCESS: Import data from "RIC_2017062713001700_1.csv" was successfully added to "ric" table. - 2017-06-30 10:46:31
+
+START FOR RIC_2017062913001700_1.csv - 2017-06-30 10:46:31
+SUCCESS: Import data about "RIC_2017062913001700_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:46:31
+SUCCESS: Import data from "RIC_2017062913001700_1.csv" was successfully added to "ric" table. - 2017-06-30 10:46:31
+
+START FOR RIC_2017062113002000_1.csv - 2017-06-30 10:46:31
+SUCCESS: Import data about "RIC_2017062113002000_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:46:31
+SUCCESS: Import data from "RIC_2017062113002000_1.csv" was successfully added to "ric" table. - 2017-06-30 10:46:31
+
+START FOR RIC_2017062821001100_1.csv - 2017-06-30 10:46:31
+SUCCESS: Import data about "RIC_2017062821001100_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:46:31
+WARRING: Nothing was added to "ric" table from "RIC_2017062821001100_1.csv" file! - 2017-06-30 10:46:31
+
+START FOR RIC_2017062213001900_1.csv - 2017-06-30 10:46:31
+SUCCESS: Import data about "RIC_2017062213001900_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:46:31
+WARRING: Nothing was added to "ric" table from "RIC_2017062213001900_1.csv" file! - 2017-06-30 10:46:31
+
+START FOR RIC_2017062013001700 (1).csv - 2017-06-30 10:46:31
+SUCCESS: Import data about "RIC_2017062013001700 (1).csv" was successfully added to "input_file" table. - 2017-06-30 10:46:31
+SUCCESS: Import data from "RIC_2017062013001700 (1).csv" was successfully added to "ric" table. - 2017-06-30 10:46:31
+
+START FOR RIC_2017062813001600_1.csv - 2017-06-30 10:46:31
+SUCCESS: Import data about "RIC_2017062813001600_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:46:31
+SUCCESS: Import data from "RIC_2017062813001600_1.csv" was successfully added to "ric" table. - 2017-06-30 10:46:31
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062621001300_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062621001300_1.csv" - 2017-06-30 10:46:31
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062121001300_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062121001300_1.csv" - 2017-06-30 10:46:31
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062021002200_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062021002200_2.csv" - 2017-06-30 10:46:31
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062721001000_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062721001000_1.csv" - 2017-06-30 10:46:31
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062713001700_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062713001700_1.csv" - 2017-06-30 10:46:31
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062913001700_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062913001700_1.csv" - 2017-06-30 10:46:31
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062113002000_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062113002000_1.csv" - 2017-06-30 10:46:31
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062821001100_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062821001100_1.csv" - 2017-06-30 10:46:31
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062213001900_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062213001900_1.csv" - 2017-06-30 10:46:31
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062013001700 (1).csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062013001700 (1).csv" - 2017-06-30 10:46:31
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062813001600_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062813001600_1.csv" - 2017-06-30 10:46:31

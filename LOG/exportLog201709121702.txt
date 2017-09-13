@@ -1,0 +1,16 @@
+Selezionata tabella dashboard - 2017-09-12 15:02:10
+PHP Notice:  Undefined offset: 28 in /var/www/html/rocketbaby/export.php on line 121 - 2017-09-12 15:02:10
+Selezionata tabella dashboard - 2017-09-12 15:02:21
+PHP Notice:  Undefined offset: 28 in /var/www/html/rocketbaby/export.php on line 121 - 2017-09-12 15:02:21
+Selezionata tabella dashboard - 2017-09-12 15:02:27
+PHP Notice:  Undefined offset: 28 in /var/www/html/rocketbaby/export.php on line 121 - 2017-09-12 15:02:27
+PHP Notice:  Undefined variable: table in /var/www/html/rocketbaby/export.php on line 97 - 2017-09-12 15:02:36
+PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<br />Error No: 1064<br />SELECT * FROM  in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-09-12 15:02:36
+PHP Notice:  Undefined variable: table in /var/www/html/rocketbaby/export.php on line 101 - 2017-09-12 15:02:36
+ERROR: The "" table return null rows! - 2017-09-12 15:02:36
+Selezionata tabella dashboard - 2017-09-12 15:02:38
+PHP Notice:  Undefined offset: 28 in /var/www/html/rocketbaby/export.php on line 121 - 2017-09-12 15:02:39
+Selezionata tabella dashboard - 2017-09-12 15:02:44
+PHP Notice:  Undefined offset: 28 in /var/www/html/rocketbaby/export.php on line 121 - 2017-09-12 15:02:44
+Selezionata tabella dashboard - 2017-09-12 15:02:49
+PHP Notice:  Undefined offset: 28 in /var/www/html/rocketbaby/export.php on line 121 - 2017-09-12 15:02:50

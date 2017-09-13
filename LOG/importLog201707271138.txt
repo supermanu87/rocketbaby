@@ -1,0 +1,7 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-07-27 9:38:24
+File importLog201707271138.txt was successfully deleted - 2017-07-27 9:38:24
+
+START FOR RIC_2017072621001200.csv - 2017-07-27 9:38:24
+SUCCESS: Import data about "RIC_2017072621001200.csv" was successfully added to "input_file" table. - 2017-07-27 9:38:24
+WARRING: Nothing was added to "ric" table from "RIC_2017072621001200.csv" file! - 2017-07-27 9:38:25
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017072621001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017072621001200.csv" - 2017-07-27 9:38:25

@@ -1,0 +1,8 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-09-06 15:21:31
+File importLog201709061721.txt was successfully deleted - 2017-09-06 15:21:31
+SUCCESS: TRUNCATE TABLE stk - 2017-09-06 15:21:31
+
+START FOR STK_2017090521150900.csv - 2017-09-06 15:21:31
+SUCCESS: Import data about "STK_2017090521150900.csv" was successfully added to "input_file" table. - 2017-09-06 15:21:31
+SUCCESS: Import data from "STK_2017090521150900.csv" was successfully added to "stk" table. - 2017-09-06 15:21:35
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/STK_2017090521150900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/STK_2017090521150900.csv" - 2017-09-06 15:21:35

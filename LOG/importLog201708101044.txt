@@ -1,0 +1,7 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-08-10 8:44:44
+File importLog201708101044.txt was successfully deleted - 2017-08-10 8:44:44
+
+START FOR CAMBI_20170810145700.xlsx - 2017-08-10 8:44:44
+SUCCESS: Import data about "CAMBI_20170810145700.xlsx" was successfully added to "input_file" table. - 2017-08-10 8:44:44
+SUCCESS: Import data from "CAMBI_20170810145700.xlsx" was successfully added to "cambi" table. - 2017-08-10 8:44:44
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/CAMBI_20170810145700.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/CAMBI_20170810145700.xlsx" - 2017-08-10 8:44:44

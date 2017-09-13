@@ -1,0 +1,14 @@
+ANALYZE PROCEDURE WAS STARTED!!! - 2017-07-06 15:58:17
+File analyzeLog201707061558.txt was successfully deleted - 2017-07-06 15:58:17
+SUCCESS: Import data from dashboard table was successfully copy to dashboard_archive - 2017-07-06 15:58:17
+SUCCESS: truncate dashboard table - 2017-07-06 15:58:17
+SUCCESS: set autoincrement=1 for dashbpard table - 2017-07-06 15:58:17
+SUCCESS: Analyze was generated to "dashboard" table! - 2017-07-06 15:58:25
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 186 - 2017-07-06 15:58:31
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 196 - 2017-07-06 15:58:33
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 205 - 2017-07-06 15:59:30
+SUCCES: File analyze "dashboard_201707061758.xlsx" was saved! - 2017-07-06 16:00:24
+PHP Warning:  mysqli::query(): MySQL server has gone away in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 19 - 2017-07-06 16:00:24
+PHP Warning:  mysqli::query(): Error reading result set's header in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 19 - 2017-07-06 16:00:24
+PHP Notice:  Error: MySQL server has gone away<br />Error No: 2006<br />INSERT INTO input_file SET FileName = 'dashboard_201707061758.xlsx', Date = 'dashboard_201707061758.xlsx' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-06 16:00:24
+ERROR: Unknown error during add information to "input_file" table! - 2017-07-06 16:00:24

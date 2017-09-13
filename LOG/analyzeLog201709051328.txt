@@ -1,0 +1,25 @@
+ANALYZE PROCEDURE WAS STARTED!!! - 2017-09-05 13:28:28
+File analyzeLog201709051328.txt was successfully deleted - 2017-09-05 13:28:28
+SUCCESS: Import data from dashboard table was successfully copy to dashboard_archive - 2017-09-05 13:28:31
+SUCCESS: truncate dashboard table - 2017-09-05 13:28:31
+SUCCESS: set autoincrement=1 for dashbpard table - 2017-09-05 13:28:31
+PHP Warning:  mysqli::query(): MySQL server has gone away in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 19 - 2017-09-05 13:28:35
+PHP Warning:  mysqli::query(): Error reading result set's header in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 19 - 2017-09-05 13:28:35
+PHP Notice:  Error: MySQL server has gone away<br />Error No: 2006<br />SELECT MAX(analyze_id)+1 as next_analyze_id FROM dashboard_archive in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-09-05 13:28:35
+PHP Notice:  Trying to get property of non-object in /var/www/html/rocketbaby/analyze_20170520.php on line 167 - 2017-09-05 13:28:35
+PHP Notice:  Error: MySQL server has gone away<br />Error No: 2006<br />INSERT INTO dashboard (analyze_id, Name, CreatedAt, LineitemQuantity, LineitemName, LineitemSku, PaymentMethod, Vendor, OrderSKU_Shopify, SKU_ITM, OrderITM, OrderSKU_ITM, StatusFinale, TrackCode, SPE, SIMFDB_Richiesta, SIMFDB_PRESENTE, PRO,  RIC, Soldout_Report, DBPO_Report, Canceled_Report) SELECT DISTINCT	0, CONCAT('#', shpf.Name) as Name, shpf.CreatedAt, shpf.LineitemQuantity, shpf.LineitemName, shpf.LineitemSku, paymnt.Payment, vnd.Vendor, shpf.OrderSKU as OrderSKU_Shopify,  IF(cmb.newSKU IS NULL, shpf.LineitemSku, cmb.newSKU) as SKU_ITM, IF(cmb.newNumber IS NULL, CONCAT('#',shpf.Name), cmb.newNumber)  as OrderITM,  IF(cmb.newSKU IS NULL OR cmb.newNumber IS NULL , shpf.OrderSKU, CONCAT(cmb.newNumber, '-', cmb.newSKU) ) as OrderSKU_ITM,  '' as StatusFinale,  IF(shpf.OrderSKU = spe.OrderSku, CONCAT('', spe.TrackingNumero), '' ) as TrackCode, IF(shpf.OrderSKU = spe.OrderSku, spe.ArtQta, 0) as SPE, IF(simfdb.OrderSku = shpf.OrderSKU, simfdb.QtaRichiesta,0) as SIMFDB_Richiesta, IF(simfdb.OrderSku = shpf.OrderSKU, simfdb.QtaImpegnata,0 ) as SIMFDB_PRESENTE, IF(pro.ArtQta = shpf.OrderSKU, pro.ArtQta,0) as PRO, IF(ric.OrderSku = shpf.OrderSKU, ric.QuantitaRicevuta, 0) as RIC, IF(sldt.OrderSku = shpf.OrderSKU, sldt.QuantitaRichiesta, 0) as Soldout_Report, '' as DBPO_Report, IF(cncl.OrderSku = shpf.OrderSKU, cncl.QuantitaRichiesta, 0) as Canceled_Report FROM shopify shpf LEFT JOIN cambi cmb ON (shpf.OrderSKU = cmb.OriginalNumberSKU) LEFT JOIN spe spe ON (shpf.OrderSku = spe.OrderSku) LEFT JOIN simfdb simfdb ON (shpf.OrderSku = simfdb.OrderSku) LEFT JOIN pro pro ON (shpf.OrderSku = pro.OrderSku) LEFT JOIN ric ric ON (shpf.OrderSku = ric.OrderSku) LEFT JOIN soldout sldt ON (shpf.OrderSku = sldt.OrderSku) LEFT JOIN cancellati cncl ON (shpf.OrderSku = cncl.OrderSku) LEFT JOIN vendor vnd ON shpf.Vendor=vnd.Id LEFT JOIN payment_method paymnt on shpf.PaymentMethod=paymnt.Id order by shpf.CreatedAt desc in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-09-05 13:28:35
+ERROR: Unknown error during add information to "dashboard" table! - 2017-09-05 13:28:35
+ANALYZE PROCEDURE WAS STARTED!!! - 2017-09-05 13:28:47
+File analyzeLog201709051328.txt was successfully deleted - 2017-09-05 13:28:47
+SUCCESS: Import data from dashboard table was successfully copy to dashboard_archive - 2017-09-05 13:28:47
+SUCCESS: truncate dashboard table - 2017-09-05 13:28:47
+SUCCESS: set autoincrement=1 for dashbpard table - 2017-09-05 13:28:47
+SUCCESS: Analyze was generated to "dashboard" table! - 2017-09-05 13:28:53
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 186 - 2017-09-05 13:29:01
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 196 - 2017-09-05 13:29:02
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 205 - 2017-09-05 13:31:08
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 213 - 2017-09-05 13:31:08
+SUCCES: File analyze "dashboard_201709051528.xlsx" was saved! - 2017-09-05 13:32:31
+SUCCESS: Export info about "dashboard_201709051528.xlsx" was successfully added to "input_file" table. - 2017-09-05 13:32:31
+SUCCESS: Export data about "dashboard_201709051528.xlsx" was successfully added to "dashboard_files" table. - 2017-09-05 13:32:31
+Mailer Error: Could not instantiate mail function.\n - 2017-09-05 13:32:31

@@ -1,0 +1,2 @@
+Selezionata tabella stk_dashboard - 2017-09-01 8:20:51
+ERROR: The "stk_dashboard" table return null rows! - 2017-09-01 8:20:51

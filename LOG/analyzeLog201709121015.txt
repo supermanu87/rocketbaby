@@ -1,0 +1,9 @@
+ANALYZE PROCEDURE WAS STARTED!!! - 2017-09-12 10:15:10
+File analyzeLog201709121015.txt was successfully deleted - 2017-09-12 10:15:10
+SUCCESS: Import data from dashboard table was successfully copy to dashboard_archive - 2017-09-12 10:15:12
+SUCCESS: truncate dashboard table - 2017-09-12 10:15:12
+SUCCESS: set autoincrement=1 for dashbpard table - 2017-09-12 10:15:12
+SUCCESS: Analyze was generated to "dashboard" table! - 2017-09-12 10:15:17
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 191 - 2017-09-12 10:15:26
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 201 - 2017-09-12 10:15:27
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 210 - 2017-09-12 10:17:45

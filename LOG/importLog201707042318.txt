@@ -1,0 +1,14 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-07-04 21:18:44
+File importLog201707042318.txt was successfully deleted - 2017-07-04 21:18:44
+
+START FOR SPE_2017070318220900.csv - 2017-07-04 21:18:44
+SUCCESS: Import data about "SPE_2017070318220900.csv" was successfully added to "input_file" table. - 2017-07-04 21:18:44
+SUCCESS: Import data from "SPE_2017070318220900.csv" was successfully added to "spe" table. - 2017-07-04 21:18:45
+
+START FOR CAMBI_20170704101600.xlsx - 2017-07-04 21:18:45
+SUCCESS: Import data about "CAMBI_20170704101600.xlsx" was successfully added to "input_file" table. - 2017-07-04 21:18:45
+PHP Notice:  Error: Duplicate entry '#32210-RB3A020787' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO cambi SET DateImported = '2017-07-04 10:16:00', OriginalNumber = '32210', OriginalSku = 'RB3A020787', OriginalQuantity = '1', NewNumber = '#32210C', NewSku = 'RB3A020787', NewQuantity = '1', OriginalNumberSKU = '#32210-RB3A020787', NewNumberSku = '#32210C-RB3A020787', File = '23889' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-04 21:18:45
+ERROR: Unknown error during add information to "cambi" table. - 2017-07-04 21:18:45
+SUCCESS: Import data from "CAMBI_20170704101600.xlsx" was successfully added to "cambi" table. - 2017-07-04 21:18:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017070318220900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017070318220900.csv" - 2017-07-04 21:18:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/CAMBI_20170704101600.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/CAMBI_20170704101600.xlsx" - 2017-07-04 21:18:45

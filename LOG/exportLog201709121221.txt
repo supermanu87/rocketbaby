@@ -1,0 +1,2 @@
+Selezionata tabella stk_dashboard - 2017-09-12 10:21:48
+SUCCES: Export file  "stk_dashboard_201709121021.xlsx" was saved! - 2017-09-12 10:21:49

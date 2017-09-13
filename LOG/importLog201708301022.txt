@@ -1,0 +1,592 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-08-30 8:22:38
+File importLog201708301022.txt was successfully deleted - 2017-08-30 8:22:38
+
+START FOR CANCELLATI_20170830102000.xlsx - 2017-08-30 8:22:38
+SUCCESS: Import data about "CANCELLATI_20170830102000.xlsx" was successfully added to "input_file" table. - 2017-08-30 8:22:38
+PHP Notice:  Error: Duplicate entry '-' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO cancellati SET OrderId = '0', ORDERN = '', SKU = '', QuantitaRichiesta = '0', OrderSku = '-', File = '24854' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "cancellati" table. - 2017-08-30 8:22:39
+SUCCESS: Import data from "CANCELLATI_20170830102000.xlsx" was successfully added to "cancellati" table. - 2017-08-30 8:22:39
+
+START FOR SHOPIFY_20170830115900.xlsx - 2017-08-30 8:22:39
+SUCCESS: Import data about "SHOPIFY_20170830115900.xlsx" was successfully added to "input_file" table. - 2017-08-30 8:22:39
+PHP Notice:  Error: Duplicate entry '#36141-RBGIFT100' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '36141', LineitemQuantity = '1', PaymentMethod = '15', OrderSku = '#36141-RBGIFT100', File = '24855', Vendor = '164', CreatedAt = '2017-08-29 09:40:01', LineitemName = 'Buono Regalo da 100 Euro', LineitemSku = 'RBGIFT100' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "shopify" table. - 2017-08-30 8:22:39
+PHP Notice:  Error: Duplicate entry '#36140-RB3A020715' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '36140', LineitemQuantity = '1', PaymentMethod = '17', OrderSku = '#36140-RB3A020715', File = '24855', Vendor = '144', CreatedAt = '2017-08-29 09:03:43', LineitemName = 'Set 6 Clips Indispensabili Pesciolini Gialli', LineitemSku = 'RB3A020715' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "shopify" table. - 2017-08-30 8:22:39
+PHP Notice:  Error: Duplicate entry '#36140-RB3A021125' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '36140', LineitemQuantity = '1', PaymentMethod = '16', OrderSku = '#36140-RB3A021125', File = '24855', Vendor = '315', CreatedAt = '2017-08-29 09:03:43', LineitemName = 'Mangio da Solo 6+ Mesi Acquamarina', LineitemSku = 'RB3A021125' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "shopify" table. - 2017-08-30 8:22:39
+PHP Notice:  Error: Duplicate entry '#36140-RB3A019975' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '36140', LineitemQuantity = '1', PaymentMethod = '16', OrderSku = '#36140-RB3A019975', File = '24855', Vendor = '142', CreatedAt = '2017-08-29 09:03:43', LineitemName = 'Banana Gialla da Mordere 2 in 1', LineitemSku = 'RB3A019975' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "shopify" table. - 2017-08-30 8:22:39
+PHP Notice:  Error: Duplicate entry '#36139-RB3A010098' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '36139', LineitemQuantity = '1', PaymentMethod = '17', OrderSku = '#36139-RB3A010098', File = '24855', Vendor = '178', CreatedAt = '2017-08-29 08:57:00', LineitemName = 'Ciuccio Bedouin Stories', LineitemSku = 'RB3A010098' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "shopify" table. - 2017-08-30 8:22:39
+PHP Notice:  Error: Duplicate entry '#36139-RB3A018136' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '36139', LineitemQuantity = '1', PaymentMethod = '16', OrderSku = '#36139-RB3A018136', File = '24855', Vendor = '178', CreatedAt = '2017-08-29 08:57:00', LineitemName = 'Ciuccio Graphic Devotion', LineitemSku = 'RB3A018136' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "shopify" table. - 2017-08-30 8:22:39
+PHP Notice:  Error: Duplicate entry '#36139-RB3A010100' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '36139', LineitemQuantity = '1', PaymentMethod = '16', OrderSku = '#36139-RB3A010100', File = '24855', Vendor = '178', CreatedAt = '2017-08-29 08:57:00', LineitemName = 'Ciuccio Acchiappasogni', LineitemSku = 'RB3A010100' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "shopify" table. - 2017-08-30 8:22:39
+PHP Notice:  Error: Duplicate entry '#36139-RB3A009379' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '36139', LineitemQuantity = '1', PaymentMethod = '16', OrderSku = '#36139-RB3A009379', File = '24855', Vendor = '178', CreatedAt = '2017-08-29 08:57:00', LineitemName = '2 Ciucci Zebra e Sunshine', LineitemSku = 'RB3A009379' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "shopify" table. - 2017-08-30 8:22:39
+PHP Notice:  Error: Duplicate entry '#36138-RB3A020707' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '36138', LineitemQuantity = '1', PaymentMethod = '14', OrderSku = '#36138-RB3A020707', File = '24855', Vendor = '144', CreatedAt = '2017-08-29 08:56:21', LineitemName = 'Set 2 Teli Multiuso Swaddle Egg e Tigre - 60 x 70 cm', LineitemSku = 'RB3A020707' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "shopify" table. - 2017-08-30 8:22:39
+PHP Notice:  Error: Duplicate entry '#36138-RB3A020506' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '36138', LineitemQuantity = '1', PaymentMethod = '16', OrderSku = '#36138-RB3A020506', File = '24855', Vendor = '287', CreatedAt = '2017-08-29 08:56:21', LineitemName = 'Sneakers Soft Sole Rainbow Skulls - 0-6 Mesi', LineitemSku = 'RB3A020506' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "shopify" table. - 2017-08-30 8:22:39
+PHP Notice:  Error: Duplicate entry '#36137-RB3A017402' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '36137', LineitemQuantity = '1', PaymentMethod = '17', OrderSku = '#36137-RB3A017402', File = '24855', Vendor = '186', CreatedAt = '2017-08-29 08:51:32', LineitemName = 'Magico Bicchiere Luminoso 2 in 1 Azzurro', LineitemSku = 'RB3A017402' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "shopify" table. - 2017-08-30 8:22:39
+PHP Notice:  Error: Duplicate entry '#36137-RB3A017396' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '36137', LineitemQuantity = '1', PaymentMethod = '16', OrderSku = '#36137-RB3A017396', File = '24855', Vendor = '186', CreatedAt = '2017-08-29 08:51:32', LineitemName = 'Magico Bicchiere Luminoso 2 in 1 Blu', LineitemSku = 'RB3A017396' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "shopify" table. - 2017-08-30 8:22:39
+PHP Notice:  Error: Duplicate entry '#36136-RB3A009312' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '36136', LineitemQuantity = '1', PaymentMethod = '14', OrderSku = '#36136-RB3A009312', File = '24855', Vendor = '144', CreatedAt = '2017-08-29 02:06:44', LineitemName = 'Cesto per Passeggino Jack il Camaleonte', LineitemSku = 'RB3A009312' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "shopify" table. - 2017-08-30 8:22:39
+PHP Notice:  Error: Duplicate entry '#36135-RB3A017876' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '36135', LineitemQuantity = '1', PaymentMethod = '17', OrderSku = '#36135-RB3A017876', File = '24855', Vendor = '201', CreatedAt = '2017-08-29 01:02:41', LineitemName = 'Sacco Portagiochi Da Colorare', LineitemSku = 'RB3A017876' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "shopify" table. - 2017-08-30 8:22:39
+PHP Notice:  Error: Duplicate entry '#36134-RB3A016475' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO shopify SET Name = '36134', LineitemQuantity = '1', PaymentMethod = '17', OrderSku = '#36134-RB3A016475', File = '24855', Vendor = '144', CreatedAt = '2017-08-29 00:53:09', LineitemName = 'Cesto Passeggino Oscar il Narvalo', LineitemSku = 'RB3A016475' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:39
+ERROR: Unknown error during add information to "shopify" table. - 2017-08-30 8:22:39
+WARRING: Import data from "SHOPIFY_20170830115900.xlsx" was added to "shopify" with some errors! - 2017-08-30 8:22:39
+
+START FOR CAMBI_20170830165700.xlsx - 2017-08-30 8:22:39
+SUCCESS: Import data about "CAMBI_20170830165700.xlsx" was successfully added to "input_file" table. - 2017-08-30 8:22:39
+SUCCESS: Import data from "CAMBI_20170830165700.xlsx" was successfully added to "cambi" table. - 2017-08-30 8:22:39
+
+START FOR SOLDOUT_20170830110500.xlsx - 2017-08-30 8:22:39
+SUCCESS: Import data about "SOLDOUT_20170830110500.xlsx" was successfully added to "input_file" table. - 2017-08-30 8:22:39
+SUCCESS: Import data from "SOLDOUT_20170830110500.xlsx" was successfully added to "soldout" table. - 2017-08-30 8:22:39
+
+START FOR RIC_2017082921001300.csv - 2017-08-30 8:22:39
+SUCCESS: Import data about "RIC_2017082921001300.csv" was successfully added to "input_file" table. - 2017-08-30 8:22:39
+WARRING: Nothing was added to "ric" table from "RIC_2017082921001300.csv" file! - 2017-08-30 8:22:39
+
+START FOR SPE_2017082918053600.csv - 2017-08-30 8:22:39
+SUCCESS: Import data about "SPE_2017082918053600.csv" was successfully added to "input_file" table. - 2017-08-30 8:22:39
+SUCCESS: Import data from "SPE_2017082918053600.csv" was successfully added to "spe" table. - 2017-08-30 8:22:39
+
+START FOR RIC_2017082913001900.csv - 2017-08-30 8:22:39
+SUCCESS: Import data about "RIC_2017082913001900.csv" was successfully added to "input_file" table. - 2017-08-30 8:22:39
+SUCCESS: Import data from "RIC_2017082913001900.csv" was successfully added to "ric" table. - 2017-08-30 8:22:39
+
+START FOR STK_2017082921150900.csv - 2017-08-30 8:22:39
+SUCCESS: Import data about "STK_2017082921150900.csv" was successfully added to "input_file" table. - 2017-08-30 8:22:39
+SUCCESS: Truncate table SIMFDB - 2017-08-30 8:22:40
+
+START FOR SIMFDB_2017083008301300.csv - 2017-08-30 8:22:40
+SUCCESS: Import data about "SIMFDB_2017083008301300.csv" was successfully added to "input_file" table. - 2017-08-30 8:22:40
+PHP Notice:  Error: Duplicate entry '#36145-RB3A021126' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO simfdb SET OrderSku = '#36145-RB3A021126', NumeroOrdine = '36145', ArtCodice = 'RB3A021126', QtaRichiesta = '1', File = '24862', QtaImpegnata = '1', DataOrdine='2017-08-29' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-30 8:22:41
+ERROR: Unknown error during add information to "simfdb" table. - 2017-08-30 8:22:41
+SUCCESS: Import data from "SIMFDB_2017083008301300.csv" was successfully added to "simfdb" table. - 2017-08-30 8:22:41
+SUCCESS: Truncate table DBPO - 2017-08-30 8:22:41
+
+START FOR DBPO_20170830095600.xlsx - 2017-08-30 8:22:41
+SUCCESS: Import data about "DBPO_20170830095600.xlsx" was successfully added to "input_file" table. - 2017-08-30 8:22:41
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32921', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '8.00724e+12', NomeProdotto = 'Mappamondo Night & Day 25 cm', Sku = 'RB3A010285' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32920', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '5060168240804 ', NomeProdotto = 'Bicchierone Che Si Illumina Rosa', Sku = 'RB3A017395' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32920', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '5060168240316 ', NomeProdotto = 'Bicchierone Che Si Illumina Verde Acido', Sku = 'RB3A017403' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32920', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '5060168240033 ', NomeProdotto = 'Bicchierone Che Si Illumina Blu', Sku = 'RB3A017396' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32920', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '5060168240835 ', NomeProdotto = 'Bicchierone Che Si Illumina Verde', Sku = 'RB3A017398' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32919', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '101007.0', NomeProdotto = 'Astuccio portapenne Menta', Sku = 'RB3A011271' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32919', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '100904.0', NomeProdotto = 'Cuscino Scimmia Ada Monkey', Sku = 'RB3A009256' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32918', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = ' BEDBOX BLUE', NomeProdotto = 'Lettino da viaggio treno e aereo blu', Sku = 'RB3A015627' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32918', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = ' BEDBOX RED', NomeProdotto = 'Lettino da viaggio treno e aereo rosso', Sku = 'RB3A015626' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32917', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '09509RSMO', NomeProdotto = 'Culotte a righe Verde', Sku = 'RB3A011148' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32917', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '10669', NomeProdotto = 'Felpa con Cappuccio', Sku = 'RB2000K0-VM-9_12M-Co' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32917', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '19522', NomeProdotto = 'Body Manica Corta Scollo Tondo', Sku = 'RB2000X5-BN-9_12M-Co' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32917', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '20667', NomeProdotto = 'Leggings', Sku = 'RB2000K3-VM-9_12M-Co' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32916', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '89041', NomeProdotto = 'SCALY UP', Sku = 'RB3A014979' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32916', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '89160', NomeProdotto = 'Elefantino con Registratore Vocale BeMyBuddy', Sku = 'RB3A020995' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 3) THEN (3 - 0 - 0) ELSE 0 END), PoNumber = 'PO32915', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '3', QtaConsegnabile = '3', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'ZL-BC15CGPW02', NomeProdotto = 'Chubby Gummy rosa e bianco', Sku = 'RB3A012483' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32914', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'WG-GL428GP', NomeProdotto = 'Wean Cubes', Sku = 'RB3A014411' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32913', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'RK-4SURNGR', NomeProdotto = 'Occhiali da Sole Baby Surf  Neon Green', Sku = 'RB3A019700' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 5) THEN (5 - 0 - 0) ELSE 0 END), PoNumber = 'PO32912', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '5', QtaConsegnabile = '5', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'KC-ML8001', NomeProdotto = 'Set 10 Inserti Lavabili per Costumini Pannolini Rumparooz', Sku = 'RB3A020263' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32912', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'KCKRLLNZSXSM405', NomeProdotto = 'Set 2 Mutandine Di Transizione Clyde e Roozy', Sku = 'RB3A016498' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32912', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'KC-KRRUMPSOS-S030', NomeProdotto = 'Pannolino Impermeabile Lavabile Rumparooz  Orchid', Sku = 'RB3A011294' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32912', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'KCKRLLNZSXSM410', NomeProdotto = 'Set 2 Mutandine Di Transizione tokiBambino e Sweet', Sku = 'RB3A016513' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32911', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'IN-AQ-H01', NomeProdotto = 'Innobaby - AquaHeat - WARM Heat Pack - set of 6', Sku = 'RB3A015201' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32911', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'IN-AQ-B01', NomeProdotto = 'Innobaby - AquaHeat 10oz Stainless Bottle & Warmer', Sku = 'RB3A015198' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32911', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'IN-AQ-F02', NomeProdotto = 'Innobaby - AquaHeat Food Warmer - MEGA - 22 oz', Sku = 'RB3A015200' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 5) THEN (5 - 0 - 0) ELSE 0 END), PoNumber = 'PO32911', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '5', QtaConsegnabile = '5', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'N-AQ-H02', NomeProdotto = 'Innobaby - AquaHeat - HOT Heat Pack - set of 5', Sku = 'RB3A015202' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32910', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'KID-Sandbox', NomeProdotto = 'Set 3 Cappucci Sippy Cup Rosso, Verde e Azzurro per Bicchieri, 12+ mesi', Sku = 'RB3A019780' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32910', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'TOT-RiseNShine', NomeProdotto = 'Set 3 Cappucci Universali in Silicone per Bicchieri Baby', Sku = 'RB3A019774' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32910', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'TOT-BlueQuench', NomeProdotto = 'Set 3 Cappucci Sippy Cup Blu, Acquamarina e Azzurro per Bicchieri, 9+ mesi', Sku = 'RB3A019777' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32910', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'TOT-Sandbox', NomeProdotto = 'Set 3 Cappucci Sippy Cup Rosso, Verde e Azzurro per Bicchieri, 9+ mesi', Sku = 'RB3A019778' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32909', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '8058333230009_ARANCIONE', NomeProdotto = 'Bracciale GPS per Bambini Arancione', Sku = 'RB3A021329' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32909', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '8058333230009_VERDE', NomeProdotto = 'Bracciale GPS per Bambini Verde', Sku = 'RB3A021328' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32909', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '8058333230009_GIALLO', NomeProdotto = 'Bracciale GPS per Bambini Giallo', Sku = 'RB3A021332' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32909', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '8058333230009_BLU', NomeProdotto = 'Bracciale GPS per Bambini Blu', Sku = 'RB3A021330' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32909', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '8058333230009_ROSSO', NomeProdotto = 'Bracciale GPS per Bambini Rosso', Sku = 'RB3A021331' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32909', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '8058333230009_ROSA', NomeProdotto = 'Bracciale GPS per Bambini Rosa', Sku = 'RB3A021327' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32908', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '50420.0', NomeProdotto = 'Gioco da Carrozzina Rosso Peter', Sku = 'RB3A009451' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32908', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '40132.0', NomeProdotto = 'Zaino Pinguino Ned', Sku = 'RB3A009469' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32908', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '20720.0', NomeProdotto = 'Mini Carillon Nero Mosca Peter', Sku = 'RB3A009422' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32908', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '40753.0', NomeProdotto = 'Zaino Panda Pomme', Sku = 'RB3A009465' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32908', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '40145.0', NomeProdotto = 'Zaino Riccio Harry', Sku = 'RB3A009466' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32908', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '40152.0', NomeProdotto = 'Zaino Rana Philip', Sku = 'RB3A009467' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32907', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '5901832942849', NomeProdotto = 'Cuffia Neonato Grigia Con Pois Bianchi', Sku = 'RB3A017468' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32907', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '5901832945284', NomeProdotto = 'Berretto Di Cachemire Con Orecchie Silver', Sku = 'RB3A017508' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 3) THEN (3 - 0 - 0) ELSE 0 END), PoNumber = 'PO32907', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '3', QtaConsegnabile = '3', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '5901832942108', NomeProdotto = 'Cuffia Neonato Grigia Con Cuore Bianco', Sku = 'RB3A017457' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32907', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '13-01', NomeProdotto = 'Copertina in Cotone Rosa', Sku = 'RB3A019435' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32907', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '5901832942849', NomeProdotto = 'Cuffia Neonato Grigia Con Pois Bianchi', Sku = 'RB3A017467' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 3) THEN (3 - 0 - 0) ELSE 0 END), PoNumber = 'PO32907', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '3', QtaConsegnabile = '3', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '5901832944683', NomeProdotto = 'Cuscino Allattamento Luna Verde Menta XXL', Sku = 'RB3A017489' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32907', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '99-81', NomeProdotto = 'Paracolpi Trapuntato Universale con Pois Bianchi', Sku = 'RB3A019446' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32907', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '5901832942511', NomeProdotto = 'Lenzuolo Con Angoli Rosa e Pois Grigi', Sku = 'RB3A017421' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32907', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '5901832945284', NomeProdotto = 'Berretto Di Cachemire Con Orecchie Silver', Sku = 'RB3A017507' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32906', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'SQD217TU45', NomeProdotto = 'Pinna da Squalo Arancione', Sku = 'RB3A020267' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32905', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '205', NomeProdotto = 'Conforter con Anello in Legno Coniglietto Bunny', Sku = 'RB3A021361' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32904', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'DSM-M', NomeProdotto = 'Papera in Hevea 3 in 1 Menta', Sku = 'RB3A020914' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32904', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'VTAN-SH', NomeProdotto = 'Cavalluccio Marino Vintage in Hevea 3 in 1', Sku = 'RB3A019785' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32903', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '888443', NomeProdotto = 'Maglietta da mare Bianca', Sku = 'RB3A020831' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32902', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '004019', NomeProdotto = 'Vasca A Fiore Per Il Bagnetto Fucsia', Sku = 'RB3A017731' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32901', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=15976679774953F&locale=gb_DE', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'LSBGDINO', NomeProdotto = 'Tutine pigiamino dinosauri - pacco da 2', Sku = 'RB3A015044' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32901', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=15976679774953F&locale=gb_DE', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'TTOWL', NomeProdotto = 'Calzamaglia Gufo', Sku = 'RB3A014541' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32901', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=15976679774953F&locale=gb_DE', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'HOFLGIRLST', NomeProdotto = 'Felpa con cappuccio a strisce bambina', Sku = 'RB3A015020' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32901', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=15976679774953F&locale=gb_DE', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'LSBGBOLD', NomeProdotto = 'Body maniche lunghe a righe rosse e blu con toppe - pacco da due', Sku = 'RB3A015053' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32900', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'WT-BO-003', NomeProdotto = 'Tovaglietta in Silicone Orso Rosa', Sku = 'RB3A021080' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32900', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'WB-BC-006', NomeProdotto = 'Tovaglietta in Silicone Gatto Azzurro', Sku = 'RB3A021079' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32900', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'WB-BC-002', NomeProdotto = 'Tovaglietta in Silicone Gatto Grigio', Sku = 'RB3A021078' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 3) THEN (3 - 0 - 0) ELSE 0 END), PoNumber = 'PO32899', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '3', QtaConsegnabile = '3', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'neon04', NomeProdotto = 'Luce Al Neon Nuvola Blu', Sku = 'RB3A016481' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 3) THEN (3 - 0 - 0) ELSE 0 END), PoNumber = 'PO32899', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '3', QtaConsegnabile = '3', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CHPP001', NomeProdotto = 'Set 2 Stampelle Appendiabiti Pinguino e Orso Polare', Sku = 'RB3A018408' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 5) THEN (5 - 0 - 0) ELSE 0 END), PoNumber = 'PO32899', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '5', QtaConsegnabile = '5', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'BGMS005', NomeProdotto = 'Zaino Miss Sunshine', Sku = 'RB3A017796' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 5) THEN (5 - 0 - 0) ELSE 0 END), PoNumber = 'PO32899', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '5', QtaConsegnabile = '5', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'LTMI056', NomeProdotto = 'Lampada Mini Latte Rosa', Sku = 'RB3A017793' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 5) THEN (5 - 0 - 0) ELSE 0 END), PoNumber = 'PO32899', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '5', QtaConsegnabile = '5', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'WSMO006', NomeProdotto = 'Stickers da Muro Moon', Sku = 'RB3A010997' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 5) THEN (5 - 0 - 0) ELSE 0 END), PoNumber = 'PO32899', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '5', QtaConsegnabile = '5', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'WHPI008', NomeProdotto = 'Appendini da Muro: Gelati Limone e Pesca', Sku = 'RB3A009946' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 5) THEN (5 - 0 - 0) ELSE 0 END), PoNumber = 'PO32899', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '5', QtaConsegnabile = '5', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'POSP006', NomeProdotto = 'Poster da Muro Ragnetto', Sku = 'RB3A009937' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 5) THEN (5 - 0 - 0) ELSE 0 END), PoNumber = 'PO32899', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '5', QtaConsegnabile = '5', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'LTCB024', NomeProdotto = 'Lampada Mini Nuvoletta Blu', Sku = 'RB3A009902' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 5) THEN (5 - 0 - 0) ELSE 0 END), PoNumber = 'PO32899', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '5', QtaConsegnabile = '5', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'LTCW025', NomeProdotto = 'Lampada Mini Nuvoletta Bianca', Sku = 'RB3A009901' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 5) THEN (5 - 0 - 0) ELSE 0 END), PoNumber = 'PO32899', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '5', QtaConsegnabile = '5', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'LTLE019', NomeProdotto = 'Set di Lettere per Box Lampada: Scritte a Mano', Sku = 'RB3A009892' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 8) THEN (8 - 0 - 0) ELSE 0 END), PoNumber = 'PO32897', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '8', QtaConsegnabile = '8', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CC01AQ', NomeProdotto = 'Cordino salva Bottiglie e Gioco per la Dentizione 2 in 1 Acqua', Sku = 'RB3A021004' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32897', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CC08CL', NomeProdotto = 'Cordino salva Bottiglie e Gioco per la Dentizione 2 in 1 Corallo', Sku = 'RB3A021005' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32897', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CC11LG', NomeProdotto = 'Cordino salva Bottiglie e Gioco per la Dentizione 2 in 1 Verde', Sku = 'RB3A021006' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32896', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '307', NomeProdotto = 'Set Stickers per Maglietta Patterned Princess Girls 1-12 Mesi', Sku = 'RB3A021196' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32896', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '315', NomeProdotto = 'Set Stickers per Maglietta Kaleidescope Cutie Girls 1-12 Mesi', Sku = 'RB3A021197' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32896', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '302', NomeProdotto = 'Set Stickers per Maglietta Oh Sew Ready Maternity', Sku = 'RB3A021195' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32896', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '343', NomeProdotto = 'Calendario a Cubotti Rosa', Sku = 'RB3A021202' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32896', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '344', NomeProdotto = 'Calendario a Cubotti Blu', Sku = 'RB3A021203' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32895', TrackingLinkDelivery = 'http://www.sistemacompleto.it/Tracking-Spedizioni-Nexive.aspx?lang=it', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'FF137-00', NomeProdotto = 'Pigiama con piedini Elefante Rosa', Sku = 'RB3A010487' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32895', TrackingLinkDelivery = 'http://www.sistemacompleto.it/Tracking-Spedizioni-Nexive.aspx?lang=it', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'FL426-00', NomeProdotto = 'Body a maniche lunghe con Balena Grigio', Sku = 'RB3A018259' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32895', TrackingLinkDelivery = 'http://www.sistemacompleto.it/Tracking-Spedizioni-Nexive.aspx?lang=it', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'FL474-00', NomeProdotto = 'Body a maniche lunghe Foglie Grigio', Sku = 'RB3A010511' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32895', TrackingLinkDelivery = 'http://www.sistemacompleto.it/Tracking-Spedizioni-Nexive.aspx?lang=it', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'FL446-00', NomeProdotto = 'Body a maniche lunghe Amici del Bosco Verde', Sku = 'RB3A010529' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32895', TrackingLinkDelivery = 'http://www.sistemacompleto.it/Tracking-Spedizioni-Nexive.aspx?lang=it', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'FS325-00', NomeProdotto = 'Body Manica corta Balena Blu', Sku = 'RB3A010542' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32895', TrackingLinkDelivery = 'http://www.sistemacompleto.it/Tracking-Spedizioni-Nexive.aspx?lang=it', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'FF154-00', NomeProdotto = 'Tutina con piedini Giallo Vintage', Sku = 'RB3A018361' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32895', TrackingLinkDelivery = 'http://www.sistemacompleto.it/Tracking-Spedizioni-Nexive.aspx?lang=it', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'FT314-00', NomeProdotto = 'Pantaloni Azzurro Ceruleo', Sku = 'RB3A018316' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32895', TrackingLinkDelivery = 'http://www.sistemacompleto.it/Tracking-Spedizioni-Nexive.aspx?lang=it', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'FT300-00', NomeProdotto = 'Pantaloni Bianchi', Sku = 'RB3A010618' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32895', TrackingLinkDelivery = 'http://www.sistemacompleto.it/Tracking-Spedizioni-Nexive.aspx?lang=it', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'FC646-00', NomeProdotto = 'Cardigan Amici del bosco Verde', Sku = 'RB3A010608' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32895', TrackingLinkDelivery = 'http://www.sistemacompleto.it/Tracking-Spedizioni-Nexive.aspx?lang=it', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'F420-25', NomeProdotto = 'Accappatoio Balena', Sku = 'RB3A009249' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32895', TrackingLinkDelivery = 'http://www.sistemacompleto.it/Tracking-Spedizioni-Nexive.aspx?lang=it', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'FC618-00', NomeProdotto = 'Cardigan Volpe Blu', Sku = 'RB3A010600' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32894', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '103492', NomeProdotto = 'Cappellino Chestnut Leather', Sku = 'RB3A013451' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32894', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '103044', NomeProdotto = 'CIUCCIO SWEET HONEY HARRY', Sku = 'RB3A018139' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32894', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '103623.0', NomeProdotto = 'Borsa con fasciatoio Graphic Devotion', Sku = 'RB3A009361' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32894', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '103338.0', NomeProdotto = 'Cappellino in Cotone Marble Grey', Sku = 'RB3A010136' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32894', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '103093', NomeProdotto = 'TAPPETO DA GIOCO IMBOTTITO GRAPHIC DEVOTION FRINGE', Sku = 'RB3A018143' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32894', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '103355', NomeProdotto = 'Cappellino Gilded Petrol', Sku = 'RB3A013461' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 10) THEN (10 - 0 - 0) ELSE 0 END), PoNumber = 'PO32894', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '10', QtaConsegnabile = '10', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '103114.0', NomeProdotto = 'Cordoncino Ciuccio - Black Edition', Sku = 'RB3A009396' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 12) THEN (12 - 0 - 0) ELSE 0 END), PoNumber = 'PO32893', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '12', QtaConsegnabile = '12', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '160361_AQ', NomeProdotto = 'Pulp Mangiafrutta e Dentaruolo Plus - Acquamarina', Sku = 'RB3A021129' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32893', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '9886_ S', NomeProdotto = 'Alberello Asciuga Biberon - Acquamarina', Sku = 'RB3A021130' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 12) THEN (12 - 0 - 0) ELSE 0 END), PoNumber = 'PO32893', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '12', QtaConsegnabile = '12', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '160350_AQ', NomeProdotto = 'Pulp Mangiafrutta e Dentaruolo Medio - Acquamarina', Sku = 'RB3A021127' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 24) THEN (24 - 0 - 0) ELSE 0 END), PoNumber = 'PO32893', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '24', QtaConsegnabile = '24', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '160337_AQ', NomeProdotto = 'Pulp Mangiafrutta e Dentaruolo Grande - Acquamarina', Sku = 'RB3A021125' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32892', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '67299C001', NomeProdotto = 'Set Regalo Baby Outfit Basic Bianco Stella', Sku = 'RB3A017368' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32892', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '900001', NomeProdotto = 'Reggiseno Allattamento Bianco', Sku = 'RB3A017156' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32892', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '900006', NomeProdotto = 'Reggiseno Allattamento Nero', Sku = 'RB3A017192' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32892', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '74371', NomeProdotto = 'Cappello da Sole a Coriandoli Baby', Sku = 'RB3A018777' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32891', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'flamingo', NomeProdotto = 'Sacco Portagiochi Flamingo', Sku = 'RB3A011907' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32891', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'Pink_Elephant', NomeProdotto = 'Sacco Portagiochi Elefanti Rosa', Sku = 'RB3A017875' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 10) THEN (10 - 0 - 0) ELSE 0 END), PoNumber = 'PO32891', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '10', QtaConsegnabile = '10', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'Roadmap', NomeProdotto = 'Sacco Portagiochi Circuito', Sku = 'RB3A014990' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32891', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'diamonds_grey', NomeProdotto = 'Sacco Portagiochi a Quadretti Bianco e Grigio', Sku = 'RB3A010095' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32891', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'Color_your_map', NomeProdotto = 'Sacco Portagiochi Da Colorare', Sku = 'RB3A017876' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32891', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'classic_black', NomeProdotto = 'Sacco Portagiochi Nero', Sku = 'RB2000ZD' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32890', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'Biplane Shelf \"dashy\" wooden', NomeProdotto = 'Mensola Biplano color Legno', Sku = 'RB3A011029' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32889', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=01358910945927&locale=en_D2', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '4057257002932', NomeProdotto = 'Coperta Ovetto  in Pile grigia a pois', Sku = 'RB3A015243' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32889', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=01358910945927&locale=en_D2', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '4.26033e+12', NomeProdotto = 'Babbucce Agnellino', Sku = 'RB3A009494' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32889', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=01358910945927&locale=en_D2', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '4057257001997', NomeProdotto = 'Stivaletti di pelo Marroni', Sku = 'RB3A013413' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32889', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=01358910945927&locale=en_D2', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '4.26033e+12', NomeProdotto = 'Babbucce Volpe', Sku = 'RB3A009625' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32889', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=01358910945927&locale=en_D2', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '4.05726e+12', NomeProdotto = 'Babbucce Principessa', Sku = 'RB3A009703' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32889', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=01358910945927&locale=en_D2', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '4.26033e+12', NomeProdotto = 'Cuscino da allattamento Elefanti', Sku = 'RB3A009734' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32889', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=01358910945927&locale=en_D2', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '4260329474647', NomeProdotto = 'Coperta Ovetto  in Pile blu', Sku = 'RB3A015233' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32889', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=01358910945927&locale=en_D2', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '4.26033e+12', NomeProdotto = 'Babbucce Blu', Sku = 'RB3A009666' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32889', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=01358910945927&locale=en_D2', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '4.26033e+12', NomeProdotto = 'Copertura ricambio \"Rosso e Blu con stelle\" per cuscino allattamento', Sku = 'RB3A009832' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32889', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=01358910945927&locale=en_D2', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '4.26033e+12', NomeProdotto = 'Copertura ricambio \"Elefanti\" per Cuscino allattamento', Sku = 'RB3A009831' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32888', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '104-108-020', NomeProdotto = 'BAGNO DUO MUSLIN Hooded towel + wash glove BAMBOOM', Sku = 'RB3A013061' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32888', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '104-047-026', NomeProdotto = 'STAR TO HUG NEW VINTAGE with soother loop GRIGIO BIANCO', Sku = 'RB3A013043' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32888', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '104-047-031', NomeProdotto = 'STAR TO HUG NEW VINTAGE with soother loop BIANCO', Sku = 'RB3A013042' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32887', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '1038.0', NomeProdotto = 'Cuscino Ergonomico Amici del Bosco', Sku = 'RB3A019601' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32887', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '7006.0', NomeProdotto = 'Cuscino Ergonomico Luxe Azzurro', Sku = 'RB3A019604' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32887', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '1011.0', NomeProdotto = 'Cuscino Ergonomico con Pois Bianchi e Rosa', Sku = 'RB3A019597' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32886', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '2006002020112', NomeProdotto = 'Marsupio 3 in 1 Porta Neonato Bianco e Nero', Sku = 'RB3A017520' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32886', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '2006002020150', NomeProdotto = 'Marsupio 3 in 1 Porta Neonato Teschi', Sku = 'RB3A017516' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32886', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '2006003010006', NomeProdotto = 'Marsupio 2 in 1 Lavanda', Sku = 'RB3A017528' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32886', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '2006004020141', NomeProdotto = 'Fascia Porta Neonato Piume', Sku = 'RB3A017534' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32884', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'KK_SNS601', NomeProdotto = 'Seggiolone da Borsetta Blu Navy', Sku = 'RB3A020965' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32884', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'KK_SNS602', NomeProdotto = 'Seggiolone da Borsetta Rosso', Sku = 'RB3A020966' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 12) THEN (12 - 0 - 0) ELSE 0 END), PoNumber = 'PO32884', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '12', QtaConsegnabile = '12', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'KK_SNS611', NomeProdotto = 'Seggiolone da Borsetta Multicolor', Sku = 'RB3A020970' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32884', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'KK_SNS604', NomeProdotto = 'Seggiolone da Borsetta Blu/Turchese', Sku = 'RB3A020968' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32884', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'KK_SNS605', NomeProdotto = 'Seggiolone da Borsetta Verde', Sku = 'RB3A020969' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32883', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '20560', NomeProdotto = 'Nido della Tenerezza Grigio', Sku = 'RB3A019469' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32883', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '40622', NomeProdotto = 'Palestrina Gioco Blu', Sku = 'RB3A019473' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32883', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '20571', NomeProdotto = 'Nido della Tenerezza Rosa', Sku = 'RB3A019470' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32883', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '40508', NomeProdotto = 'Specchietto da Pavimento Morbido', Sku = 'RB3A019480' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CHBTUB', NomeProdotto = 'Vaschetta alta per Bagnetto Blu', Sku = 'RB3A017869' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 0) THEN (0 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '0', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'WODSTRM', NomeProdotto = 'Carrettino Primi Passi in MDF Menta', Sku = 'RB3A010025' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CCFTBOMB', NomeProdotto = 'Borsone Portagiochi \"Open\" Grigia e Menta', Sku = 'RB3A010002' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CHWPB', NomeProdotto = 'Set Pappa con piatto riscaldato Blu e Bianco', Sku = 'RB3A010841' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CHWPF', NomeProdotto = 'Set Pappa con piatto riscaldato Fucsia e Bianco', Sku = 'RB3A010842' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CCCB29PW', NomeProdotto = 'Cesto Contenitore Stella Rosa 32x32x29', Sku = 'RB3A009996' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CCCB30DB', NomeProdotto = 'Cesto Contenitore Stella Blu scuro 20x40x30', Sku = 'RB3A009990' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CCFOT', NomeProdotto = 'Portaoggetti Multitasche Grigio e Azzurro', Sku = 'RB3A010024' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 0) THEN (0 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '0', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'MBSR', NomeProdotto = 'CESTA PORTABEBE\' IN VIMINI', Sku = 'RB3A018243' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CCMBCJG', NomeProdotto = 'RIVESTIMENTO PER CESTA PORTABEBE\' - JERSEY GREY', Sku = 'RB3A018241' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CCPMSCMG', NomeProdotto = 'Tappeto da gioco imbottito Grigio con Nuvole 80x100', Sku = 'RB3A009975' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 15) THEN (15 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '15', QtaConsegnabile = '15', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CHSBMLW', NomeProdotto = 'Chiudi Ante Bianco', Sku = 'RB3A021141' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 15) THEN (15 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '15', QtaConsegnabile = '15', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CHSBCPW', NomeProdotto = 'Set 4 Paraspigoli Bianco', Sku = 'RB3A021140' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CHPSTB', NomeProdotto = 'Vasino Evolutivo Bianco e Blu', Sku = 'RB3A017871' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 5) THEN (5 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '5', QtaConsegnabile = '5', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CHSBDLW', NomeProdotto = 'Set 3 Chiudi Ante con Kit Intallazione', Sku = 'RB3A021142' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CCFTBRL', NomeProdotto = 'Borsone Portagiochi \"Round\" Grigia e Lime', Sku = 'RB3A010005' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CWRHW', NomeProdotto = 'Cavallo a Dondolo Bianco', Sku = 'RB3A010035' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'RCKW', NomeProdotto = 'Sedia a Dondolo per Bambini Bianca', Sku = 'RB3A010037' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CWRSCR', NomeProdotto = 'Dondolo a forma di Vespa Crema', Sku = 'RB3A010038' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CCCHMAJM', NomeProdotto = 'Fasciatoio Portatile Jersey Marin', Sku = 'RB3A017874' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CHSBG', NomeProdotto = 'Set Pappa Verde e Bianco', Sku = 'RB3A010837' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CCCB60GS', NomeProdotto = 'Cesto Contenitore Stella Grigio 60x32x32', Sku = 'RB3A009981' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CCCB20DB', NomeProdotto = 'Cesto Contenitore Stella Blu scuro 32x20x20', Sku = 'RB3A009986' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CHSBFW', NomeProdotto = 'Set 2 Fermaporta Bianco', Sku = 'RB3A021143' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'HCLCN', NomeProdotto = 'Seggiolone Lambda 2Legno Natural', Sku = 'RB3A010080' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CCASCGR', NomeProdotto = 'Cuscinetto Universale Angioletto Grigio', Sku = 'RB3A010083' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CHTDW', NomeProdotto = 'Mobile Fasciatoio in Legno con Ruote Bianco', Sku = 'RB3A019465' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CHEVOSCMA', NomeProdotto = 'Cuscino per Seggiolone Evolu 2 Navy', Sku = 'RB3A010067' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CCCOTWHPMG', NomeProdotto = 'Corpifasciatoio Grigio Chiaro', Sku = 'RB3A010161' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CWMBBWH', NomeProdotto = 'BORSA FASCIATOIO MAMMY BAG BIANCA', Sku = 'RB3A018233' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'CWMBBBL', NomeProdotto = 'BORSA FASCIATOIO MAMMY BAG NERA', Sku = 'RB3A018232' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32882', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'WAKWM', NomeProdotto = 'Fasciatoio Graduato Bianco', Sku = 'RB3A010165' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32881', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '305r', NomeProdotto = 'Moto Cross Rosso', Sku = 'RB3A020838' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32880', TrackingLinkDelivery = 'http://www.envoimoinscher.com/suivi-colis.html?reference=1708288929CHRP37SWIT', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'BEA0001.PE', NomeProdotto = 'Zaino grande Polipo Penelope', Sku = 'RB3A008467' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32880', TrackingLinkDelivery = 'http://www.envoimoinscher.com/suivi-colis.html?reference=1708288929CHRP37SWIT', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'BEA0001.PA', NomeProdotto = 'Zaino grande Gufo Papar', Sku = 'RB3A008466' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32880', TrackingLinkDelivery = 'http://www.envoimoinscher.com/suivi-colis.html?reference=1708288929CHRP37SWIT', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'BEA0001.LU', NomeProdotto = 'Zaino grande Balena Lucas', Sku = 'RB3A008465' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32880', TrackingLinkDelivery = 'http://www.envoimoinscher.com/suivi-colis.html?reference=1708288929CHRP37SWIT', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'BEA0003.CI', NomeProdotto = 'Zaino piccolo Pulcino Kiki', Sku = 'RB3A008460' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 3) THEN (3 - 0 - 0) ELSE 0 END), PoNumber = 'PO32880', TrackingLinkDelivery = 'http://www.envoimoinscher.com/suivi-colis.html?reference=1708288929CHRP37SWIT', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '3', QtaConsegnabile = '3', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'BEA0003.DP', NomeProdotto = 'Zaino piccolo Gelato Dolce & Panna', Sku = 'RB3A008448' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32880', TrackingLinkDelivery = 'http://www.envoimoinscher.com/suivi-colis.html?reference=1708288929CHRP37SWIT', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'BEA0003.LU', NomeProdotto = 'Zaino piccolo Balena Lucas', Sku = 'RB3A008452' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32880', TrackingLinkDelivery = 'http://www.envoimoinscher.com/suivi-colis.html?reference=1708288929CHRP37SWIT', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'BEA0003.PR', NomeProdotto = 'Zaino piccolo Drago Percival', Sku = 'RB3A008456' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32880', TrackingLinkDelivery = 'http://www.envoimoinscher.com/suivi-colis.html?reference=1708288929CHRP37SWIT', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'BEA0003.PA', NomeProdotto = 'Zaino piccolo Gufo Papar', Sku = 'RB3A008454' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32880', TrackingLinkDelivery = 'http://www.envoimoinscher.com/suivi-colis.html?reference=1708288929CHRP37SWIT', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'BEA0003.PE', NomeProdotto = 'Zaino piccolo Polipo Penelope', Sku = 'RB3A008455' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 3) THEN (3 - 0 - 0) ELSE 0 END), PoNumber = 'PO32877', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '3', QtaConsegnabile = '3', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'L10880', NomeProdotto = 'Zaino 1-3 anni Coccodrillo', Sku = 'RB3A018640' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32877', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'L10820', NomeProdotto = 'Zaino 1-3 anni Giraffa', Sku = 'RB3A018638' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 3) THEN (3 - 0 - 0) ELSE 0 END), PoNumber = 'PO32877', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '3', QtaConsegnabile = '3', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'L10810', NomeProdotto = 'Zaino 1-3 anni Nemo', Sku = 'RB3A018637' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32877', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'L10980', NomeProdotto = 'Zaino 1-3 anni Minnie', Sku = 'RB3A018642' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32877', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'L10830', NomeProdotto = 'Zaino 1-3 anni Dinosauro', Sku = 'RB3A018639' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32877', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'L10930', NomeProdotto = 'Zaino 1-3 anni Topolino', Sku = 'RB3A018641' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32877', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'L12330', NomeProdotto = 'Zaino 3+ anni Dinosauro', Sku = 'RB3A021325' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32877', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'L12440', NomeProdotto = 'Zaino 3+ anni Minnie', Sku = 'RB3A021326' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32868', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=15976679774953F&locale=gb_DE', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'SLAPCAT', NomeProdotto = 'Tutina pigiamino gattino', Sku = 'RB3A015063' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32868', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=15976679774953F&locale=gb_DE', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'TTOWL', NomeProdotto = 'Calzamaglia Gufo', Sku = 'RB3A014541' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32868', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=15976679774953F&locale=gb_DE', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'PJTSHEEP', NomeProdotto = 'Pigiama Maschietto Pecorelle', Sku = 'RB3A014586' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 0) THEN (0 - 0 - 0) ELSE 0 END), PoNumber = 'PO32868', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=15976679774953F&locale=gb_DE', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '0', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'SLAOTIG', NomeProdotto = 'Pigiamino lungo a righe TIgrotto Maschietto', Sku = 'RB3A014496' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32868', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=15976679774953F&locale=gb_DE', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'PJTCLOUD', NomeProdotto = 'Pigiama Maschietto Nuvole', Sku = 'RB3A014576' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32868', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=15976679774953F&locale=gb_DE', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'HASURBWHALE', NomeProdotto = 'Cappellino per il Sole Reversibile con Balene', Sku = 'RB3A018993' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32868', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=15976679774953F&locale=gb_DE', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'SNOWHOG', NomeProdotto = 'Tuta Da Sci Riccio Femminuccia', Sku = 'RB3A014506' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32868', TrackingLinkDelivery = 'https://tracking.dpd.de/parcelstatus?query=15976679774953F&locale=gb_DE', Stato = 'In Arrivo', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'SLABEAR', NomeProdotto = 'Pigiamino lungo a righe Orsetto Maschietto', Sku = 'RB3A014490' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32865', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '09509RSMA', NomeProdotto = 'Culotte a righe Rosa', Sku = 'RB3A011140' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((1 + 0) <= 1) THEN (1 - 1 - 0) ELSE 0 END), PoNumber = 'PO32865', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '1', QtaManuale = '0', SkuFornitore = '10669', NomeProdotto = 'Felpa con Cappuccio', Sku = 'RB2000K0-Ne-18_24M-Co' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((1 + 0) <= 1) THEN (1 - 1 - 0) ELSE 0 END), PoNumber = 'PO32865', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '1', QtaManuale = '0', SkuFornitore = '10543', NomeProdotto = 'Paracolpi', Sku = 'RB2000K5-De-67-Co' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((1 + 0) <= 1) THEN (1 - 1 - 0) ELSE 0 END), PoNumber = 'PO32865', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '1', QtaManuale = '0', SkuFornitore = '54526R_MAG_62-68', NomeProdotto = 'Pagliaccetto Porpora', Sku = 'RB3A018566' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32865', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '09509RSMO', NomeProdotto = 'Culotte a righe Verde', Sku = 'RB3A011148' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((1 + 0) <= 1) THEN (1 - 1 - 0) ELSE 0 END), PoNumber = 'PO32865', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '1', QtaManuale = '0', SkuFornitore = '09520', NomeProdotto = 'Body Kimono a Manica Corta', Sku = 'RB2000JV-De-M2-Co' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 5) THEN (5 - 0 - 0) ELSE 0 END), PoNumber = 'PO32863', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '5', QtaConsegnabile = '5', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '103924', NomeProdotto = 'NANNA TRA LE NOTE ACCHIAPPASOGNI', Sku = 'RB3A018210' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 3) THEN (3 - 0 - 0) ELSE 0 END), PoNumber = 'PO32863', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '3', QtaConsegnabile = '3', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '103776.0', NomeProdotto = 'Materassino da Passeggino Black Edition', Sku = 'RB20004C' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 3) THEN (3 - 0 - 0) ELSE 0 END), PoNumber = 'PO32863', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '3', QtaConsegnabile = '3', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '103783.0', NomeProdotto = 'Materassino da Passeggino Colori del Vento', Sku = 'RB3A010119' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32863', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '103663', NomeProdotto = 'Trousse Zip&Go Marble Grey', Sku = 'RB3A013439' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32863', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '103313.0', NomeProdotto = 'CARATTERI NON AMMESSI', Sku = 'RB3A010114' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 4) THEN (4 - 0 - 0) ELSE 0 END), PoNumber = 'PO32805', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = 'FRP0045EU', NomeProdotto = 'Macchinetta Del Latte In Polvere', Sku = 'RB3A017388' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((1 + 0) <= 1) THEN (1 - 1 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '1', QtaManuale = '0', SkuFornitore = '307155', NomeProdotto = 'Nuvola per passeggino', Sku = 'RB3A019892' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((1 + 0) <= 1) THEN (1 - 1 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '1', QtaManuale = '0', SkuFornitore = '252121', NomeProdotto = 'Ciotola Farfalla', Sku = 'RB3A019859' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((1 + 0) <= 1) THEN (1 - 1 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '1', QtaManuale = '0', SkuFornitore = '252057', NomeProdotto = 'Tovaglietta in Silicone Farfalla', Sku = 'RB3A019889' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((1 + 0) <= 1) THEN (1 - 1 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '1', QtaManuale = '0', SkuFornitore = '252476', NomeProdotto = 'Lunch Box Scimmietta', Sku = 'RB3A019883' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((3 + 0) <= 3) THEN (3 - 3 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '3', QtaConsegnabile = '3', QtaArrivata = '3', QtaManuale = '0', SkuFornitore = '252219', NomeProdotto = 'Set Piatto e Ciotola Riccio', Sku = 'RB3A019876' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((10 + 0) <= 10) THEN (10 - 10 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '10', QtaConsegnabile = '10', QtaArrivata = '10', QtaManuale = '0', SkuFornitore = '235100', NomeProdotto = 'Balenottera Paracolpi per rubinetti', Sku = 'RB3A019842' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((6 + 0) <= 8) THEN (8 - 6 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '8', QtaConsegnabile = '8', QtaArrivata = '6', QtaManuale = '0', SkuFornitore = '252332', NomeProdotto = 'Bottiglia da Viaggio con Cannuccia Unicorno', Sku = 'RB3A019874' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((2 + 0) <= 2) THEN (2 - 2 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '2', QtaManuale = '0', SkuFornitore = '252169', NomeProdotto = 'Piatto con Scomparti Unicorno', Sku = 'RB3A019867' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((1 + 0) <= 1) THEN (1 - 1 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '1', QtaManuale = '0', SkuFornitore = '235253', NomeProdotto = 'Accappatoio Gufetto', Sku = 'RB3A019846' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((1 + 0) <= 1) THEN (1 - 1 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '1', QtaManuale = '0', SkuFornitore = '235250', NomeProdotto = 'Accappatoio Coccinella', Sku = 'RB3A019845' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((2 + 0) <= 2) THEN (2 - 2 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '2', QtaManuale = '0', SkuFornitore = '235505', NomeProdotto = 'Cuscino Imbottito Salva Ginocchia per il Bagnetto Balenottera', Sku = 'RB3A019844' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((2 + 0) <= 2) THEN (2 - 2 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '2', QtaManuale = '0', SkuFornitore = '252051', NomeProdotto = 'Tovaglietta in Silicone Scimmietta', Sku = 'RB3A019887' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((4 + 0) <= 4) THEN (4 - 4 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '4', QtaConsegnabile = '4', QtaArrivata = '4', QtaManuale = '0', SkuFornitore = '212312', NomeProdotto = 'Trolley da Viaggio Unicorno', Sku = 'RB3A019833' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((1 + 0) <= 1) THEN (1 - 1 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '1', QtaManuale = '0', SkuFornitore = '252050', NomeProdotto = 'Tovaglietta in Silicone Gufetto', Sku = 'RB3A019886' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((3 + 0) <= 3) THEN (3 - 3 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '3', QtaConsegnabile = '3', QtaArrivata = '3', QtaManuale = '0', SkuFornitore = '252304', NomeProdotto = 'Bottiglia da Viaggio con Cannuccia Gufetto', Sku = 'RB3A019872' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((1 + 0) <= 0) THEN (0 - 1 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '0', QtaConsegnabile = '0', QtaArrivata = '1', QtaManuale = '0', SkuFornitore = '245012', NomeProdotto = 'Tappeto da Gioco Componibile Grigio e Crema', Sku = 'RB3A019850' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((2 + 0) <= 2) THEN (2 - 2 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '2', QtaManuale = '0', SkuFornitore = '252203', NomeProdotto = 'Set Piatto e Ciotola Gufetto', Sku = 'RB3A019878' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 1) THEN (1 - 0 - 0) ELSE 0 END), PoNumber = 'PO32767', TrackingLinkDelivery = '', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '1', QtaConsegnabile = '1', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '232101', NomeProdotto = 'Bavaglino MangiaPappa Cagnolino', Sku = 'RB3A019834' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((18 + 0) <= 18) THEN (18 - 18 - 0) ELSE 0 END), PoNumber = 'PO32550', TrackingLinkDelivery = 'https://wwwapps.ups.com/WebTracking/track?trackNums=1Z1W800A6891977855&track=Track', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '18', QtaConsegnabile = '18', QtaArrivata = '18', QtaManuale = '0', SkuFornitore = '100102', NomeProdotto = 'Set 2 Portagelato in Silicone Verde Acqua', Sku = 'RB3A020889' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((6 + 0) <= 6) THEN (6 - 6 - 0) ELSE 0 END), PoNumber = 'PO32550', TrackingLinkDelivery = 'https://wwwapps.ups.com/WebTracking/track?trackNums=1Z1W800A6891977855&track=Track', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '6', QtaManuale = '0', SkuFornitore = '3035', NomeProdotto = 'Tovaglietta in Silicone Macchinina Grigia', Sku = 'RB3A020882' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((6 + 0) <= 6) THEN (6 - 6 - 0) ELSE 0 END), PoNumber = 'PO32550', TrackingLinkDelivery = 'https://wwwapps.ups.com/WebTracking/track?trackNums=1Z1W800A6891977855&track=Track', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '6', QtaManuale = '0', SkuFornitore = '3029', NomeProdotto = 'Tovaglietta in Silicone Macchinina Verde Acqua', Sku = 'RB3A020881' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((6 + 0) <= 6) THEN (6 - 6 - 0) ELSE 0 END), PoNumber = 'PO32550', TrackingLinkDelivery = 'https://wwwapps.ups.com/WebTracking/track?trackNums=1Z1W800A6891977855&track=Track', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '6', QtaManuale = '0', SkuFornitore = '3028', NomeProdotto = 'Tovaglietta in Silicone Macchinina Rosa', Sku = 'RB3A020880' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((12 + 0) <= 12) THEN (12 - 12 - 0) ELSE 0 END), PoNumber = 'PO32550', TrackingLinkDelivery = 'https://wwwapps.ups.com/WebTracking/track?trackNums=1Z1W800A6891977855&track=Track', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '12', QtaConsegnabile = '12', QtaArrivata = '12', QtaManuale = '0', SkuFornitore = '3036', NomeProdotto = 'Tovaglietta in Silicone Nuvoletta Rosa', Sku = 'RB3A020878' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((12 + 0) <= 12) THEN (12 - 12 - 0) ELSE 0 END), PoNumber = 'PO32550', TrackingLinkDelivery = 'https://wwwapps.ups.com/WebTracking/track?trackNums=1Z1W800A6891977855&track=Track', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '12', QtaConsegnabile = '12', QtaArrivata = '12', QtaManuale = '0', SkuFornitore = '3040', NomeProdotto = 'Tovaglietta in Silicone Nuvoletta Verde Acqua', Sku = 'RB3A020879' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((17 + 0) <= 18) THEN (18 - 17 - 0) ELSE 0 END), PoNumber = 'PO32550', TrackingLinkDelivery = 'https://wwwapps.ups.com/WebTracking/track?trackNums=1Z1W800A6891977855&track=Track', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '18', QtaConsegnabile = '18', QtaArrivata = '17', QtaManuale = '0', SkuFornitore = '100103', NomeProdotto = 'Set 2 Portagelato in Silicone Verde Turchese', Sku = 'RB3A020890' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((18 + 0) <= 18) THEN (18 - 18 - 0) ELSE 0 END), PoNumber = 'PO32550', TrackingLinkDelivery = 'https://wwwapps.ups.com/WebTracking/track?trackNums=1Z1W800A6891977855&track=Track', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '18', QtaConsegnabile = '18', QtaArrivata = '18', QtaManuale = '0', SkuFornitore = '100104', NomeProdotto = 'Set 2 Portagelato in Silicone Verde Fucsia', Sku = 'RB3A020891' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((12 + 0) <= 12) THEN (12 - 12 - 0) ELSE 0 END), PoNumber = 'PO32550', TrackingLinkDelivery = 'https://wwwapps.ups.com/WebTracking/track?trackNums=1Z1W800A6891977855&track=Track', Stato = 'Arrivato Parziale', File = '24863', QtaOrdinata = '12', QtaConsegnabile = '12', QtaArrivata = '12', QtaManuale = '0', SkuFornitore = '3037', NomeProdotto = 'Tovaglietta in Silicone Nuvoletta Azzurra', Sku = 'RB3A020877' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 5) THEN (5 - 0 - 0) ELSE 0 END), PoNumber = 'PO32413', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '5', QtaConsegnabile = '5', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '3760222211192', NomeProdotto = 'YoYo Telaio nero', Sku = 'RB3A015628' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 10) THEN (10 - 0 - 0) ELSE 0 END), PoNumber = 'PO32299', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '10', QtaConsegnabile = '10', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '71152PK2', NomeProdotto = 'Set 2 bavaglini contenitori rosa e verde', Sku = 'RB3A012819' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32299', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '71350BG2', NomeProdotto = 'Set 2 ciotole impugnatura facile blu e verde', Sku = 'RB3A012830' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 10) THEN (10 - 0 - 0) ELSE 0 END), PoNumber = 'PO32299', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '10', QtaConsegnabile = '10', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '71145GN2', NomeProdotto = 'Set 2 bavaglini contenitori blu e verde', Sku = 'RB3A012820' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32299', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '71312BG2', NomeProdotto = 'Tazza di transizione 4 in 1 blu e verde', Sku = 'RB3A012836' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32299', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '71299BG2', NomeProdotto = 'Tazzina impugnatura facile blu e verde', Sku = 'RB3A012824' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32299', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '71336BG2', NomeProdotto = 'Porta snack impugnatura facile blu e verde', Sku = 'RB3A012832' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32299', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '70032BG2', NomeProdotto = 'Contenitori svezzamento prima fase', Sku = 'RB3A012826' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32299', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '70025BG2', NomeProdotto = 'Contenitori svezzamento seconda fase', Sku = 'RB3A012827' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32299', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '71237BG2', NomeProdotto = 'Set pappa impugnatura facile verde e blu', Sku = 'RB3A012828' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 6) THEN (6 - 0 - 0) ELSE 0 END), PoNumber = 'PO32299', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '6', QtaConsegnabile = '6', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '71220PG2', NomeProdotto = 'Set pappa impugnatura facile rosa e verde', Sku = 'RB3A012829' - 2017-08-30 8:22:42
+
+INSERT INTO dbpo SET InArrivo = (CASE WHEN ((0 + 0) <= 2) THEN (2 - 0 - 0) ELSE 0 END), PoNumber = 'PO32299', TrackingLinkDelivery = '', Stato = 'PO Inviato', File = '24863', QtaOrdinata = '2', QtaConsegnabile = '2', QtaArrivata = '0', QtaManuale = '0', SkuFornitore = '71329PG2', NomeProdotto = 'Porta snack impugnatura facile rosa e verde', Sku = 'RB3A012833' - 2017-08-30 8:22:42
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/CANCELLATI_20170830102000.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/CANCELLATI_20170830102000.xlsx" - 2017-08-30 8:22:42
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SHOPIFY_20170830115900.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/SHOPIFY_20170830115900.xlsx" - 2017-08-30 8:22:42
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/CAMBI_20170830165700.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/CAMBI_20170830165700.xlsx" - 2017-08-30 8:22:42
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SOLDOUT_20170830110500.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/SOLDOUT_20170830110500.xlsx" - 2017-08-30 8:22:42
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017082921001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017082921001300.csv" - 2017-08-30 8:22:42
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017082918053600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017082918053600.csv" - 2017-08-30 8:22:42
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017082913001900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017082913001900.csv" - 2017-08-30 8:22:42
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/STK_2017082921150900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/STK_2017082921150900.csv" - 2017-08-30 8:22:42
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SIMFDB_2017083008301300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SIMFDB_2017083008301300.csv" - 2017-08-30 8:22:42
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/DBPO_20170830095600.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/DBPO_20170830095600.xlsx" - 2017-08-30 8:22:42

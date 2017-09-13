@@ -1,0 +1,2 @@
+Selezionata tabella dashboard - 2017-09-13 9:11:34
+ERROR: The "dashboard" table return null rows! - 2017-09-13 9:11:34

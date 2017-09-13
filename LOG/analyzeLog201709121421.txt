@@ -1,0 +1,7 @@
+ANALYZE PROCEDURE WAS STARTED!!! - 2017-09-12 14:21:02
+File analyzeLog201709121421.txt was successfully deleted - 2017-09-12 14:21:02
+PHP Notice:  Error: Column count doesn't match value count at row 1<br />Error No: 1136<br />INSERT INTO dashboard_archive SELECT * FROM dashboard in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-09-12 14:21:02
+SUCCESS: Analyze was generated to "dashboard" table! - 2017-09-12 14:21:07
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 191 - 2017-09-12 14:21:34
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 201 - 2017-09-12 14:21:36
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 210 - 2017-09-12 14:28:13

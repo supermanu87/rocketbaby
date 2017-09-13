@@ -1,0 +1,10 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-08-04 8:18:21
+File importLog201708041018.txt was successfully deleted - 2017-08-04 8:18:21
+
+START FOR RIC_2017080313001600.csv - 2017-08-04 8:18:21
+SUCCESS: Import data about "RIC_2017080313001600.csv" was successfully added to "input_file" table. - 2017-08-04 8:18:21
+SUCCESS: Import data from "RIC_2017080313001600.csv" was successfully added to "ric" table. - 2017-08-04 8:18:22
+SUCCESS: Truncate table DBPO - 2017-08-04 8:18:22
+
+START FOR DBPO_20170804095600.xlsx - 2017-08-04 8:18:22
+SUCCESS: Import data about "DBPO_20170804095600.xlsx" was successfully added to "input_file" table. - 2017-08-04 8:18:22

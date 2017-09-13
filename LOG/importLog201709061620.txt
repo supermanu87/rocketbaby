@@ -1,0 +1,7 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-09-06 14:20:22
+File importLog201709061620.txt was successfully deleted - 2017-09-06 14:20:22
+
+START FOR SPE_20170831171200.csv - 2017-09-06 14:20:22
+SUCCESS: Import data about "SPE_20170831171200.csv" was successfully added to "input_file" table. - 2017-09-06 14:20:22
+SUCCESS: Import data from "SPE_20170831171200.csv" was successfully added to "spe" table. - 2017-09-06 14:20:23
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_20170831171200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_20170831171200.csv" - 2017-09-06 14:20:23

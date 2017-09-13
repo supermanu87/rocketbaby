@@ -1,0 +1,14 @@
+PHP Notice:  Undefined variable: table in /var/www/html/rocketbaby/export.php on line 97 - 2017-07-04 11:03:03
+PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<br />Error No: 1064<br />SELECT * FROM  in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-04 11:03:03
+PHP Notice:  Undefined variable: table in /var/www/html/rocketbaby/export.php on line 101 - 2017-07-04 11:03:03
+ERROR: The "" table return null rows! - 2017-07-04 11:03:03
+PHP Notice:  Undefined variable: table in /var/www/html/rocketbaby/export.php on line 97 - 2017-07-04 11:03:07
+PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<br />Error No: 1064<br />SELECT * FROM  in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-04 11:03:07
+PHP Notice:  Undefined variable: table in /var/www/html/rocketbaby/export.php on line 101 - 2017-07-04 11:03:07
+ERROR: The "" table return null rows! - 2017-07-04 11:03:07
+PHP Notice:  Undefined variable: table in /var/www/html/rocketbaby/export.php on line 97 - 2017-07-04 11:03:13
+PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<br />Error No: 1064<br />SELECT * FROM  in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-04 11:03:13
+PHP Notice:  Undefined variable: table in /var/www/html/rocketbaby/export.php on line 101 - 2017-07-04 11:03:13
+ERROR: The "" table return null rows! - 2017-07-04 11:03:13
+Selezionata tabella spe - 2017-07-04 11:03:17
+SUCCES: Export file  "spe_201707041103.xlsx" was saved! - 2017-07-04 11:03:28

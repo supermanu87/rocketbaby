@@ -1,0 +1,10 @@
+Selezionata tabella stk_dashboard - 2017-09-01 8:19:03
+ERROR: The "stk_dashboard" table return null rows! - 2017-09-01 8:19:03
+PHP Notice:  Undefined variable: table in /var/www/html/rocketbaby/export.php on line 97 - 2017-09-01 8:19:06
+PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1<br />Error No: 1064<br />SELECT * FROM  in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-09-01 8:19:06
+PHP Notice:  Undefined variable: table in /var/www/html/rocketbaby/export.php on line 101 - 2017-09-01 8:19:06
+ERROR: The "" table return null rows! - 2017-09-01 8:19:06
+Selezionata tabella stk_dashboard - 2017-09-01 8:19:12
+ERROR: The "stk_dashboard" table return null rows! - 2017-09-01 8:19:12
+Selezionata tabella stk_dashboard - 2017-09-01 8:19:18
+ERROR: The "stk_dashboard" table return null rows! - 2017-09-01 8:19:18

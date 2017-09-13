@@ -1,0 +1,36 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-07-17 8:05:41
+File importLog201707171005.txt was successfully deleted - 2017-07-17 8:05:41
+The file name for /var/www/html/rocketbaby/IN/RIC_2017071313002000.csv was change to /var/www/html/rocketbaby/IN/RIC_2017071313002000_1.csv - 2017-07-17 8:05:41
+The file name for /var/www/html/rocketbaby/IN/RIC_2017071321001200.csv was change to /var/www/html/rocketbaby/IN/RIC_2017071321001200_1.csv - 2017-07-17 8:05:41
+
+START FOR RIC_2017071321001200_1.csv - 2017-07-17 8:05:41
+SUCCESS: Import data about "RIC_2017071321001200_1.csv" was successfully added to "input_file" table. - 2017-07-17 8:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017071321001200_1.csv" file! - 2017-07-17 8:05:41
+
+START FOR RIC_2017071313002000_1.csv - 2017-07-17 8:05:41
+SUCCESS: Import data about "RIC_2017071313002000_1.csv" was successfully added to "input_file" table. - 2017-07-17 8:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017071313002000_1.csv" file! - 2017-07-17 8:05:41
+SUCCESS: Truncate table SIMFDB - 2017-07-17 8:05:41
+
+START FOR SIMFDB_2017071708271600.csv - 2017-07-17 8:05:41
+SUCCESS: Import data about "SIMFDB_2017071708271600.csv" was successfully added to "input_file" table. - 2017-07-17 8:05:41
+SUCCESS: Import data from "SIMFDB_2017071708271600.csv" was successfully added to "simfdb" table. - 2017-07-17 8:05:43
+
+START FOR RIC_2017071413001700.csv - 2017-07-17 8:05:43
+SUCCESS: Import data about "RIC_2017071413001700.csv" was successfully added to "input_file" table. - 2017-07-17 8:05:43
+PHP Notice:  Undefined variable: str in /var/www/html/rocketbaby/import_20170523.php on line 540 - 2017-07-17 8:05:43
+SUCCESS: Import data from "RIC_2017071413001700.csv" was successfully added to "ric" table. - 2017-07-17 8:05:43
+
+START FOR SPE_2017071418053200.csv - 2017-07-17 8:05:43
+SUCCESS: Import data about "SPE_2017071418053200.csv" was successfully added to "input_file" table. - 2017-07-17 8:05:43
+SUCCESS: Import data from "SPE_2017071418053200.csv" was successfully added to "spe" table. - 2017-07-17 8:05:43
+
+START FOR RIC_2017071421001300.csv - 2017-07-17 8:05:43
+SUCCESS: Import data about "RIC_2017071421001300.csv" was successfully added to "input_file" table. - 2017-07-17 8:05:43
+WARRING: Nothing was added to "ric" table from "RIC_2017071421001300.csv" file! - 2017-07-17 8:05:43
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017071321001200_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017071321001200_1.csv" - 2017-07-17 8:05:43
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017071313002000_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017071313002000_1.csv" - 2017-07-17 8:05:43
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SIMFDB_2017071708271600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SIMFDB_2017071708271600.csv" - 2017-07-17 8:05:43
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017071413001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017071413001700.csv" - 2017-07-17 8:05:43
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017071418053200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017071418053200.csv" - 2017-07-17 8:05:43
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017071421001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017071421001300.csv" - 2017-07-17 8:05:43

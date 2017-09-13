@@ -1,0 +1,12 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-09-05 12:51:04
+File importLog201709051451.txt was successfully deleted - 2017-09-05 12:51:04
+
+START FOR CAMBI_20170905175700.xlsx - 2017-09-05 12:51:04
+SUCCESS: Import data about "CAMBI_20170905175700.xlsx" was successfully added to "input_file" table. - 2017-09-05 12:51:04
+SUCCESS: Import data from "CAMBI_20170905175700.xlsx" was successfully added to "cambi" table. - 2017-09-05 12:51:04
+
+START FOR CANCELLATI_20170905102000.xlsx - 2017-09-05 12:51:04
+SUCCESS: Import data about "CANCELLATI_20170905102000.xlsx" was successfully added to "input_file" table. - 2017-09-05 12:51:04
+SUCCESS: Import data from "CANCELLATI_20170905102000.xlsx" was successfully added to "cancellati" table. - 2017-09-05 12:51:04
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/CAMBI_20170905175700.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/CAMBI_20170905175700.xlsx" - 2017-09-05 12:51:04
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/CANCELLATI_20170905102000.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/CANCELLATI_20170905102000.xlsx" - 2017-09-05 12:51:04

@@ -1,0 +1,24 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-07-11 10:24:14
+File importLog201707111224.txt was successfully deleted - 2017-07-11 10:24:14
+The file name for /var/www/html/rocketbaby/IN/CANCELLATI_20170710102000.xlsx was change to /var/www/html/rocketbaby/IN/CANCELLATI_20170710102000_1.xlsx - 2017-07-11 10:24:14
+
+START FOR CANCELLATI_20170710102000_1.xlsx - 2017-07-11 10:24:14
+SUCCESS: Import data about "CANCELLATI_20170710102000_1.xlsx" was successfully added to "input_file" table. - 2017-07-11 10:24:14
+PHP Notice:  Error: Duplicate entry '#32978-RB3A013472' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO cancellati SET OrderId = '32978', ORDERN = '#32978', SKU = 'RB3A013472', QuantitaRichiesta = '1', OrderSku = '#32978-RB3A013472', File = '23922' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-11 10:24:14
+ERROR: Unknown error during add information to "cancellati" table. - 2017-07-11 10:24:14
+PHP Notice:  Error: Duplicate entry '#32978-RB3A013571' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO cancellati SET OrderId = '32978', ORDERN = '#32978', SKU = 'RB3A013571', QuantitaRichiesta = '1', OrderSku = '#32978-RB3A013571', File = '23922' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-11 10:24:14
+ERROR: Unknown error during add information to "cancellati" table. - 2017-07-11 10:24:14
+PHP Notice:  Error: Duplicate entry '#32978-RB3A019515' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO cancellati SET OrderId = '32978', ORDERN = '#32978', SKU = 'RB3A019515', QuantitaRichiesta = '1', OrderSku = '#32978-RB3A019515', File = '23922' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-11 10:24:14
+ERROR: Unknown error during add information to "cancellati" table. - 2017-07-11 10:24:14
+PHP Notice:  Error: Duplicate entry '#32822-RB20006J' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO cancellati SET OrderId = '32822', ORDERN = '#32822', SKU = 'RB20006J', QuantitaRichiesta = '1', OrderSku = '#32822-RB20006J', File = '23922' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-11 10:24:14
+ERROR: Unknown error during add information to "cancellati" table. - 2017-07-11 10:24:14
+PHP Notice:  Error: Duplicate entry '#32822-RB3A017538' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO cancellati SET OrderId = '32822', ORDERN = '#32822', SKU = 'RB3A017538', QuantitaRichiesta = '1', OrderSku = '#32822-RB3A017538', File = '23922' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-11 10:24:14
+ERROR: Unknown error during add information to "cancellati" table. - 2017-07-11 10:24:14
+PHP Notice:  Error: Duplicate entry '#32822-RB3A019595' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO cancellati SET OrderId = '32822', ORDERN = '#32822', SKU = 'RB3A019595', QuantitaRichiesta = '1', OrderSku = '#32822-RB3A019595', File = '23922' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-11 10:24:14
+ERROR: Unknown error during add information to "cancellati" table. - 2017-07-11 10:24:14
+PHP Notice:  Error: Duplicate entry '#32822-RB3A020872' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO cancellati SET OrderId = '32822', ORDERN = '#32822', SKU = 'RB3A020872', QuantitaRichiesta = '1', OrderSku = '#32822-RB3A020872', File = '23922' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-11 10:24:14
+ERROR: Unknown error during add information to "cancellati" table. - 2017-07-11 10:24:14
+PHP Notice:  Error: Duplicate entry '#32437-RB3A019631' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO cancellati SET OrderId = '32437', ORDERN = '#32437', SKU = 'RB3A019631', QuantitaRichiesta = '1', OrderSku = '#32437-RB3A019631', File = '23922' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-11 10:24:14
+ERROR: Unknown error during add information to "cancellati" table. - 2017-07-11 10:24:14
+WARRING: Nothing was added to "cancellati" table from "CANCELLATI_20170710102000_1.xlsx" file! - 2017-07-11 10:24:14
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/CANCELLATI_20170710102000_1.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/CANCELLATI_20170710102000_1.xlsx" - 2017-07-11 10:24:14

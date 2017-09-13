@@ -1,0 +1,33 @@
+ANALYZE PROCEDURE WAS STARTED!!! - 2017-07-20 10:42:42
+File analyzeLog201707201042.txt was successfully deleted - 2017-07-20 10:42:42
+SUCCESS: Import data from dashboard table was successfully copy to dashboard_archive - 2017-07-20 10:42:42
+SUCCESS: truncate dashboard table - 2017-07-20 10:42:42
+SUCCESS: set autoincrement=1 for dashbpard table - 2017-07-20 10:42:42
+SUCCESS: Analyze was generated to "dashboard" table! - 2017-07-20 10:42:45
+ANALYZE PROCEDURE WAS STARTED!!! - 2017-07-20 10:42:47
+File analyzeLog201707201042.txt was successfully deleted - 2017-07-20 10:42:47
+SUCCESS: Import data from dashboard table was successfully copy to dashboard_archive - 2017-07-20 10:42:48
+SUCCESS: truncate dashboard table - 2017-07-20 10:42:48
+SUCCESS: set autoincrement=1 for dashbpard table - 2017-07-20 10:42:48
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 186 - 2017-07-20 10:42:50
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 196 - 2017-07-20 10:42:50
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 205 - 2017-07-20 10:42:50
+ERROR: The "dashboard" table return null rows! - 2017-07-20 10:42:50
+SUCCESS: Analyze was generated to "dashboard" table! - 2017-07-20 10:42:50
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 186 - 2017-07-20 10:42:58
+ANALYZE PROCEDURE WAS STARTED!!! - 2017-07-20 10:42:58
+File analyzeLog201707201042.txt was successfully deleted - 2017-07-20 10:42:58
+SUCCESS: Import data from dashboard table was successfully copy to dashboard_archive - 2017-07-20 10:42:59
+SUCCESS: truncate dashboard table - 2017-07-20 10:42:59
+SUCCESS: set autoincrement=1 for dashbpard table - 2017-07-20 10:42:59
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 196 - 2017-07-20 10:42:59
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 205 - 2017-07-20 10:42:59
+ERROR: The "dashboard" table return null rows! - 2017-07-20 10:42:59
+SUCCESS: Analyze was generated to "dashboard" table! - 2017-07-20 10:43:01
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 186 - 2017-07-20 10:43:13
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 196 - 2017-07-20 10:43:15
+PHP Unknown:  mysqli_next_result(): There is no next result set. Please, call mysqli_more_results()/mysqli::more_results() to check whether to call this function/method in /var/www/html/rocketbaby/analyze_20170520.php on line 205 - 2017-07-20 10:45:37
+SUCCES: File analyze "dashboard_201707201242.xlsx" was saved! - 2017-07-20 10:46:42
+SUCCESS: Export info about "dashboard_201707201242.xlsx" was successfully added to "input_file" table. - 2017-07-20 10:46:42
+SUCCESS: Export data about "dashboard_201707201242.xlsx" was successfully added to "dashboard_files" table. - 2017-07-20 10:46:42
+Message has been sent successfully\n - 2017-07-20 10:46:42

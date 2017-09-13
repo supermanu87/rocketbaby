@@ -1,0 +1,4 @@
+Selezionata tabella dashboard - 2017-08-11 15:13:21
+Selezionata tabella dashboard - 2017-08-11 15:13:30
+Selezionata tabella dashboard - 2017-08-11 15:13:50
+SUCCES: Export file  "dashboard_201708111513.xlsx" was saved! - 2017-08-11 15:16:13

@@ -1,0 +1,24 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-08-31 7:59:25
+File importLog201708310959.txt was successfully deleted - 2017-08-31 7:59:25
+
+START FOR SPE_2017083018053300.csv - 2017-08-31 7:59:25
+SUCCESS: Import data about "SPE_2017083018053300.csv" was successfully added to "input_file" table. - 2017-08-31 7:59:25
+SUCCESS: Import data from "SPE_2017083018053300.csv" was successfully added to "spe" table. - 2017-08-31 7:59:26
+SUCCESS: Truncate table SIMFDB - 2017-08-31 7:59:26
+
+START FOR SIMFDB_2017083108394500.csv - 2017-08-31 7:59:26
+SUCCESS: Import data about "SIMFDB_2017083108394500.csv" was successfully added to "input_file" table. - 2017-08-31 7:59:26
+SUCCESS: Import data from "SIMFDB_2017083108394500.csv" was successfully added to "simfdb" table. - 2017-08-31 7:59:27
+
+START FOR RIC_2017083021001500.csv - 2017-08-31 7:59:27
+SUCCESS: Import data about "RIC_2017083021001500.csv" was successfully added to "input_file" table. - 2017-08-31 7:59:27
+WARRING: Nothing was added to "ric" table from "RIC_2017083021001500.csv" file! - 2017-08-31 7:59:27
+SUCCESS: TRUNCATE TABLE stk - 2017-08-31 7:59:27
+
+START FOR STK_2017083021151000.csv - 2017-08-31 7:59:27
+SUCCESS: Import data about "STK_2017083021151000.csv" was successfully added to "input_file" table. - 2017-08-31 7:59:27
+SUCCESS: Import data from "STK_2017083021151000.csv" was successfully added to "stk" table. - 2017-08-31 7:59:31
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017083018053300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017083018053300.csv" - 2017-08-31 7:59:31
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SIMFDB_2017083108394500.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SIMFDB_2017083108394500.csv" - 2017-08-31 7:59:31
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017083021001500.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017083021001500.csv" - 2017-08-31 7:59:31
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/STK_2017083021151000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/STK_2017083021151000.csv" - 2017-08-31 7:59:31

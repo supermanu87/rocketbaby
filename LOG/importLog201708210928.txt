@@ -1,0 +1,60 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-08-21 7:28:30
+File importLog201708210928.txt was successfully deleted - 2017-08-21 7:28:30
+The file name for /var/www/html/rocketbaby/IN/RIC_2017081013001500.csv was change to /var/www/html/rocketbaby/IN/RIC_2017081013001500_1.csv - 2017-08-21 7:28:30
+The file name for /var/www/html/rocketbaby/IN/RIC_2017081021001400.csv was change to /var/www/html/rocketbaby/IN/RIC_2017081021001400_1.csv - 2017-08-21 7:28:30
+The file name for /var/www/html/rocketbaby/IN/RIC_2017080921001300.csv was change to /var/www/html/rocketbaby/IN/RIC_2017080921001300_1.csv - 2017-08-21 7:28:30
+The file name for /var/www/html/rocketbaby/IN/CANCELLATI_20170811102000.xlsx was change to /var/www/html/rocketbaby/IN/CANCELLATI_20170811102000_1.xlsx - 2017-08-21 7:28:30
+
+START FOR CANCELLATI_20170811102000_1.xlsx - 2017-08-21 7:28:30
+SUCCESS: Import data about "CANCELLATI_20170811102000_1.xlsx" was successfully added to "input_file" table. - 2017-08-21 7:28:30
+PHP Notice:  Error: Duplicate entry '-' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO cancellati SET OrderId = '0', ORDERN = '', SKU = '', QuantitaRichiesta = '0', OrderSku = '-', File = '24808' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-21 7:28:30
+ERROR: Unknown error during add information to "cancellati" table. - 2017-08-21 7:28:30
+PHP Notice:  Error: Duplicate entry '-' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO cancellati SET OrderId = '0', ORDERN = '', SKU = '', QuantitaRichiesta = '0', OrderSku = '-', File = '24808' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-08-21 7:28:30
+ERROR: Unknown error during add information to "cancellati" table. - 2017-08-21 7:28:30
+SUCCESS: Import data from "CANCELLATI_20170811102000_1.xlsx" was successfully added to "cancellati" table. - 2017-08-21 7:28:30
+
+START FOR STK_2017082021150800.csv - 2017-08-21 7:28:30
+SUCCESS: Import data about "STK_2017082021150800.csv" was successfully added to "input_file" table. - 2017-08-21 7:28:30
+
+START FOR CAMBI_20170811165700.xlsx - 2017-08-21 7:28:31
+SUCCESS: Import data about "CAMBI_20170811165700.xlsx" was successfully added to "input_file" table. - 2017-08-21 7:28:31
+SUCCESS: Import data from "CAMBI_20170811165700.xlsx" was successfully added to "cambi" table. - 2017-08-21 7:28:31
+
+START FOR SPE_2017081118053400.csv - 2017-08-21 7:28:31
+SUCCESS: Import data about "SPE_2017081118053400.csv" was successfully added to "input_file" table. - 2017-08-21 7:28:31
+SUCCESS: Import data from "SPE_2017081118053400.csv" was successfully added to "spe" table. - 2017-08-21 7:28:31
+
+START FOR RIC_2017081121001100.csv - 2017-08-21 7:28:31
+SUCCESS: Import data about "RIC_2017081121001100.csv" was successfully added to "input_file" table. - 2017-08-21 7:28:31
+SUCCESS: Import data from "RIC_2017081121001100.csv" was successfully added to "ric" table. - 2017-08-21 7:28:31
+
+START FOR RIC_2017081013001500_1.csv - 2017-08-21 7:28:31
+SUCCESS: Import data about "RIC_2017081013001500_1.csv" was successfully added to "input_file" table. - 2017-08-21 7:28:31
+SUCCESS: Import data from "RIC_2017081013001500_1.csv" was successfully added to "ric" table. - 2017-08-21 7:28:31
+SUCCESS: Truncate table SIMFDB - 2017-08-21 7:28:31
+
+START FOR SIMFDB_2017082109082100.csv - 2017-08-21 7:28:31
+SUCCESS: Import data about "SIMFDB_2017082109082100.csv" was successfully added to "input_file" table. - 2017-08-21 7:28:31
+SUCCESS: Import data from "SIMFDB_2017082109082100.csv" was successfully added to "simfdb" table. - 2017-08-21 7:28:33
+
+START FOR RIC_2017081021001400_1.csv - 2017-08-21 7:28:33
+SUCCESS: Import data about "RIC_2017081021001400_1.csv" was successfully added to "input_file" table. - 2017-08-21 7:28:33
+SUCCESS: Import data from "RIC_2017081021001400_1.csv" was successfully added to "ric" table. - 2017-08-21 7:28:33
+
+START FOR RIC_2017080921001300_1.csv - 2017-08-21 7:28:33
+SUCCESS: Import data about "RIC_2017080921001300_1.csv" was successfully added to "input_file" table. - 2017-08-21 7:28:33
+SUCCESS: Import data from "RIC_2017080921001300_1.csv" was successfully added to "ric" table. - 2017-08-21 7:28:34
+
+START FOR RIC_2017081113001500.csv - 2017-08-21 7:28:34
+SUCCESS: Import data about "RIC_2017081113001500.csv" was successfully added to "input_file" table. - 2017-08-21 7:28:34
+SUCCESS: Import data from "RIC_2017081113001500.csv" was successfully added to "ric" table. - 2017-08-21 7:28:34
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/CANCELLATI_20170811102000_1.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/CANCELLATI_20170811102000_1.xlsx" - 2017-08-21 7:28:34
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/STK_2017082021150800.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/STK_2017082021150800.csv" - 2017-08-21 7:28:34
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/CAMBI_20170811165700.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/CAMBI_20170811165700.xlsx" - 2017-08-21 7:28:34
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_2017081118053400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_2017081118053400.csv" - 2017-08-21 7:28:34
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017081121001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017081121001100.csv" - 2017-08-21 7:28:34
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017081013001500_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017081013001500_1.csv" - 2017-08-21 7:28:34
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SIMFDB_2017082109082100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SIMFDB_2017082109082100.csv" - 2017-08-21 7:28:34
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017081021001400_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017081021001400_1.csv" - 2017-08-21 7:28:34
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017080921001300_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017080921001300_1.csv" - 2017-08-21 7:28:34
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017081113001500.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017081113001500.csv" - 2017-08-21 7:28:34

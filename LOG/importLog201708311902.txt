@@ -1,0 +1,2 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-08-31 17:02:46
+File importLog201708311902.txt was successfully deleted - 2017-08-31 17:02:46

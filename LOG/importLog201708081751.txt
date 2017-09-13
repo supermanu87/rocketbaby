@@ -1,0 +1,7 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-08-08 15:51:44
+File importLog201708081751.txt was successfully deleted - 2017-08-08 15:51:44
+
+START FOR SPE_20170808171200.xlsx - 2017-08-08 15:51:44
+SUCCESS: Import data about "SPE_20170808171200.xlsx" was successfully added to "input_file" table. - 2017-08-08 15:51:44
+SUCCESS: Import data from "SPE_20170808171200.xlsx" was successfully added to "spe" table. - 2017-08-08 15:51:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_20170808171200.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_20170808171200.xlsx" - 2017-08-08 15:51:45

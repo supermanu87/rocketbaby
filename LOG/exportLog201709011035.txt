@@ -1,0 +1,6 @@
+Selezionata tabella stk_dashboard - 2017-09-01 8:35:42
+ERROR: The "stk_dashboard" table return null rows! - 2017-09-01 8:35:42
+Selezionata tabella brt - 2017-09-01 8:35:45
+Selezionata tabella stk_dashboard - 2017-09-01 8:35:53
+ERROR: The "stk_dashboard" table return null rows! - 2017-09-01 8:35:53
+SUCCES: Export file  "brt_201709010835.xlsx" was saved! - 2017-09-01 8:36:00

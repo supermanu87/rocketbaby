@@ -1,0 +1,1348 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-06-30 10:05:30
+File importLog201706301005.txt was successfully deleted - 2017-06-30 10:05:30
+
+START FOR RIC_2017011721001600.csv - 2017-06-30 10:05:30
+SUCCESS: Import data about "RIC_2017011721001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:30
+WARRING: Nothing was added to "ric" table from "RIC_2017011721001600.csv" file! - 2017-06-30 10:05:30
+
+START FOR RIC_2017011013002400.csv - 2017-06-30 10:05:30
+SUCCESS: Import data about "RIC_2017011013002400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:30
+PHP Notice:  Undefined variable: str in /var/www/html/rocketbaby/import_20170523.php on line 540 - 2017-06-30 10:05:30
+WARRING: Nothing was added to "ric" table from "RIC_2017011013002400.csv" file! - 2017-06-30 10:05:30
+
+START FOR RIC_2017052213002100.csv - 2017-06-30 10:05:30
+SUCCESS: Import data about "RIC_2017052213002100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:30
+SUCCESS: Import data from "RIC_2017052213002100.csv" was successfully added to "ric" table. - 2017-06-30 10:05:30
+
+START FOR RIC_2017052421001800.csv - 2017-06-30 10:05:30
+SUCCESS: Import data about "RIC_2017052421001800.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:30
+WARRING: Nothing was added to "ric" table from "RIC_2017052421001800.csv" file! - 2017-06-30 10:05:30
+
+START FOR RIC_2017052921001300_2.csv - 2017-06-30 10:05:30
+SUCCESS: Import data about "RIC_2017052921001300_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:30
+WARRING: Nothing was added to "ric" table from "RIC_2017052921001300_2.csv" file! - 2017-06-30 10:05:30
+
+START FOR RIC_2017060821001600_1.csv - 2017-06-30 10:05:30
+SUCCESS: Import data about "RIC_2017060821001600_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:30
+SUCCESS: Import data from "RIC_2017060821001600_1.csv" was successfully added to "ric" table. - 2017-06-30 10:05:30
+
+START FOR RIC_2017022721001100.csv - 2017-06-30 10:05:30
+SUCCESS: Import data about "RIC_2017022721001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:30
+WARRING: Nothing was added to "ric" table from "RIC_2017022721001100.csv" file! - 2017-06-30 10:05:30
+
+START FOR RIC_2017062313002000.csv - 2017-06-30 10:05:30
+SUCCESS: Import data about "RIC_2017062313002000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:30
+WARRING: Nothing was added to "ric" table from "RIC_2017062313002000.csv" file! - 2017-06-30 10:05:30
+
+START FOR RIC_2017061413001600.csv - 2017-06-30 10:05:30
+SUCCESS: Import data about "RIC_2017061413001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:30
+SUCCESS: Import data from "RIC_2017061413001600.csv" was successfully added to "ric" table. - 2017-06-30 10:05:30
+
+START FOR RIC_2017012713002000.csv - 2017-06-30 10:05:30
+SUCCESS: Import data about "RIC_2017012713002000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:30
+SUCCESS: Import data from "RIC_2017012713002000.csv" was successfully added to "ric" table. - 2017-06-30 10:05:31
+
+START FOR RIC_2017060813002000_1.csv - 2017-06-30 10:05:31
+SUCCESS: Import data about "RIC_2017060813002000_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:31
+WARRING: Nothing was added to "ric" table from "RIC_2017060813002000_1.csv" file! - 2017-06-30 10:05:31
+
+START FOR RIC_2017040713002200.csv - 2017-06-30 10:05:31
+SUCCESS: Import data about "RIC_2017040713002200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:31
+WARRING: Nothing was added to "ric" table from "RIC_2017040713002200.csv" file! - 2017-06-30 10:05:31
+
+START FOR RIC_2017051021001600.csv - 2017-06-30 10:05:31
+SUCCESS: Import data about "RIC_2017051021001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:31
+WARRING: Nothing was added to "ric" table from "RIC_2017051021001600.csv" file! - 2017-06-30 10:05:31
+
+START FOR RIC_2017061421001300.csv - 2017-06-30 10:05:31
+SUCCESS: Import data about "RIC_2017061421001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:31
+WARRING: Nothing was added to "ric" table from "RIC_2017061421001300.csv" file! - 2017-06-30 10:05:31
+
+START FOR RIC_2017020613002000.csv - 2017-06-30 10:05:31
+SUCCESS: Import data about "RIC_2017020613002000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:31
+WARRING: Nothing was added to "ric" table from "RIC_2017020613002000.csv" file! - 2017-06-30 10:05:31
+
+START FOR RIC_2017051613001600.csv - 2017-06-30 10:05:31
+SUCCESS: Import data about "RIC_2017051613001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:31
+WARRING: Nothing was added to "ric" table from "RIC_2017051613001600.csv" file! - 2017-06-30 10:05:31
+
+START FOR RIC_2017053121001300_1.csv - 2017-06-30 10:05:31
+SUCCESS: Import data about "RIC_2017053121001300_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:31
+WARRING: Nothing was added to "ric" table from "RIC_2017053121001300_1.csv" file! - 2017-06-30 10:05:31
+
+START FOR RIC_2017032113001800.csv - 2017-06-30 10:05:31
+SUCCESS: Import data about "RIC_2017032113001800.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:31
+WARRING: Nothing was added to "ric" table from "RIC_2017032113001800.csv" file! - 2017-06-30 10:05:31
+
+START FOR RIC_2017022321001200.csv - 2017-06-30 10:05:31
+SUCCESS: Import data about "RIC_2017022321001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:31
+WARRING: Nothing was added to "ric" table from "RIC_2017022321001200.csv" file! - 2017-06-30 10:05:31
+
+START FOR RIC_2017051821001400.csv - 2017-06-30 10:05:31
+SUCCESS: Import data about "RIC_2017051821001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:31
+WARRING: Nothing was added to "ric" table from "RIC_2017051821001400.csv" file! - 2017-06-30 10:05:31
+
+START FOR RIC_2017030621001100.csv - 2017-06-30 10:05:31
+SUCCESS: Import data about "RIC_2017030621001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:31
+WARRING: Nothing was added to "ric" table from "RIC_2017030621001100.csv" file! - 2017-06-30 10:05:31
+
+START FOR RIC_2017042613002000.csv - 2017-06-30 10:05:31
+SUCCESS: Import data about "RIC_2017042613002000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:31
+WARRING: Nothing was added to "ric" table from "RIC_2017042613002000.csv" file! - 2017-06-30 10:05:31
+
+START FOR RIC_2017060113002000_1.csv - 2017-06-30 10:05:31
+SUCCESS: Import data about "RIC_2017060113002000_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:31
+SUCCESS: Import data from "RIC_2017060113002000_1.csv" was successfully added to "ric" table. - 2017-06-30 10:05:32
+
+START FOR RIC_2017051821001400_1.csv - 2017-06-30 10:05:32
+SUCCESS: Import data about "RIC_2017051821001400_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:32
+WARRING: Nothing was added to "ric" table from "RIC_2017051821001400_1.csv" file! - 2017-06-30 10:05:32
+
+START FOR RIC_2017052913002700_2.csv - 2017-06-30 10:05:32
+SUCCESS: Import data about "RIC_2017052913002700_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:32
+WARRING: Nothing was added to "ric" table from "RIC_2017052913002700_2.csv" file! - 2017-06-30 10:05:32
+
+START FOR RIC_2017053113002100.csv - 2017-06-30 10:05:32
+SUCCESS: Import data about "RIC_2017053113002100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:32
+WARRING: Nothing was added to "ric" table from "RIC_2017053113002100.csv" file! - 2017-06-30 10:05:32
+
+START FOR RIC_2017022213002100.csv - 2017-06-30 10:05:32
+SUCCESS: Import data about "RIC_2017022213002100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:32
+SUCCESS: Import data from "RIC_2017022213002100.csv" was successfully added to "ric" table. - 2017-06-30 10:05:32
+
+START FOR RIC_2017012721001200.csv - 2017-06-30 10:05:32
+SUCCESS: Import data about "RIC_2017012721001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:32
+SUCCESS: Import data from "RIC_2017012721001200.csv" was successfully added to "ric" table. - 2017-06-30 10:05:32
+
+START FOR RIC_2017011713003200.csv - 2017-06-30 10:05:32
+SUCCESS: Import data about "RIC_2017011713003200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:32
+WARRING: Nothing was added to "ric" table from "RIC_2017011713003200.csv" file! - 2017-06-30 10:05:32
+
+START FOR RIC_2017060721001400.csv - 2017-06-30 10:05:32
+SUCCESS: Import data about "RIC_2017060721001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:32
+WARRING: Nothing was added to "ric" table from "RIC_2017060721001400.csv" file! - 2017-06-30 10:05:32
+
+START FOR RIC_2017042021001200.csv - 2017-06-30 10:05:32
+SUCCESS: Import data about "RIC_2017042021001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:32
+WARRING: Nothing was added to "ric" table from "RIC_2017042021001200.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017030821001100.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017030821001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017030821001100.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017061513002100_1.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017061513002100_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017061513002100_1.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017041113001400.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017041113001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017041113001400.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017041021001400.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017041021001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+SUCCESS: Import data from "RIC_2017041021001400.csv" was successfully added to "ric" table. - 2017-06-30 10:05:33
+
+START FOR RIC_2017061913002201.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017061913002201.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017061913002201.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017021321001000.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017021321001000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017021321001000.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017032921001200.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017032921001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017032921001200.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017061221002400.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017061221002400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017061221002400.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017012321001800.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017012321001800.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017012321001800.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017041221001400.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017041221001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017041221001400.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017013021003800.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017013021003800.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017013021003800.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017051221001600.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017051221001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017051221001600.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017041421001300.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017041421001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017041421001300.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017020913001700.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017020913001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+SUCCESS: Import data from "RIC_2017020913001700.csv" was successfully added to "ric" table. - 2017-06-30 10:05:33
+
+START FOR RIC_2017060513002000_2.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017060513002000_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017060513002000_2.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017060121002000_2.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017060121002000_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017060121002000_2.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017041121001400.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017041121001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017041121001400.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017052313001800_1.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017052313001800_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017052313001800_1.csv" file! - 2017-06-30 10:05:33
+
+START FOR RIC_2017020713001700.csv - 2017-06-30 10:05:33
+SUCCESS: Import data about "RIC_2017020713001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:33
+WARRING: Nothing was added to "ric" table from "RIC_2017020713001700.csv" file! - 2017-06-30 10:05:34
+
+START FOR RIC_2017060621001500.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017060621001500.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+WARRING: Nothing was added to "ric" table from "RIC_2017060621001500.csv" file! - 2017-06-30 10:05:34
+
+START FOR RIC_2017060113002000.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017060113002000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+SUCCESS: Import data from "RIC_2017060113002000.csv" was successfully added to "ric" table. - 2017-06-30 10:05:34
+
+START FOR RIC_2017060721001400_1.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017060721001400_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+WARRING: Nothing was added to "ric" table from "RIC_2017060721001400_1.csv" file! - 2017-06-30 10:05:34
+
+START FOR RIC_2017033113002100.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017033113002100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+WARRING: Nothing was added to "ric" table from "RIC_2017033113002100.csv" file! - 2017-06-30 10:05:34
+
+START FOR RIC_2017060121002000.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017060121002000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+WARRING: Nothing was added to "ric" table from "RIC_2017060121002000.csv" file! - 2017-06-30 10:05:34
+
+START FOR RIC_2017032813002000.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017032813002000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+SUCCESS: Import data from "RIC_2017032813002000.csv" was successfully added to "ric" table. - 2017-06-30 10:05:34
+
+START FOR RIC_2017060613002000.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017060613002000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+WARRING: Nothing was added to "ric" table from "RIC_2017060613002000.csv" file! - 2017-06-30 10:05:34
+
+START FOR RIC_2017060621001500_1.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017060621001500_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+WARRING: Nothing was added to "ric" table from "RIC_2017060621001500_1.csv" file! - 2017-06-30 10:05:34
+
+START FOR RIC_2017032021001000.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017032021001000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+WARRING: Nothing was added to "ric" table from "RIC_2017032021001000.csv" file! - 2017-06-30 10:05:34
+
+START FOR RIC_2017021421000900.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017021421000900.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+WARRING: Nothing was added to "ric" table from "RIC_2017021421000900.csv" file! - 2017-06-30 10:05:34
+
+START FOR RIC_2017061913002200.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017061913002200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+WARRING: Nothing was added to "ric" table from "RIC_2017061913002200.csv" file! - 2017-06-30 10:05:34
+
+START FOR RIC_2017020321001200.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017020321001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+WARRING: Nothing was added to "ric" table from "RIC_2017020321001200.csv" file! - 2017-06-30 10:05:34
+
+START FOR RIC_2017020121001000.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017020121001000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+WARRING: Nothing was added to "ric" table from "RIC_2017020121001000.csv" file! - 2017-06-30 10:05:34
+
+START FOR RIC_2017052421001800_1.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017052421001800_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+WARRING: Nothing was added to "ric" table from "RIC_2017052421001800_1.csv" file! - 2017-06-30 10:05:34
+
+START FOR RIC_2017020221001200.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017020221001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+SUCCESS: Import data from "RIC_2017020221001200.csv" was successfully added to "ric" table. - 2017-06-30 10:05:34
+
+START FOR RIC_2017032321001200.csv - 2017-06-30 10:05:34
+SUCCESS: Import data about "RIC_2017032321001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:34
+WARRING: Nothing was added to "ric" table from "RIC_2017032321001200.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017061921001700.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017061921001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017061921001700.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017040313001700.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017040313001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017040313001700.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017022113001600.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017022113001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017022113001600.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017061213002400.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017061213002400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017061213002400.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017052213002100_2.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017052213002100_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+SUCCESS: Import data from "RIC_2017052213002100_2.csv" was successfully added to "ric" table. - 2017-06-30 10:05:35
+
+START FOR RIC_2017012421001100.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017012421001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017012421001100.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017053113002100_2.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017053113002100_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017053113002100_2.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017022021000900.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017022021000900.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+SUCCESS: Import data from "RIC_2017022021000900.csv" was successfully added to "ric" table. - 2017-06-30 10:05:35
+
+START FOR RIC_2017032013001300.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017032013001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017032013001300.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017010321001700.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017010321001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017010321001700.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017061613001700.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017061613001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017061613001700.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017033121001400.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017033121001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017033121001400.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017060713001700.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017060713001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+SUCCESS: Import data from "RIC_2017060713001700.csv" was successfully added to "ric" table. - 2017-06-30 10:05:35
+
+START FOR RIC_2017021021001100.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017021021001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017021021001100.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017030921001100.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017030921001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017030921001100.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017050221001200.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017050221001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017050221001200.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017022221001000.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017022221001000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017022221001000.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017030321001100.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017030321001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017030321001100.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017060121002000_1.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017060121002000_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017060121002000_1.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017031021001300.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017031021001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017031021001300.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017010413003200.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017010413003200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017010413003200.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017061613001700_1.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017061613001700_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017061613001700_1.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017052913002700_1.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017052913002700_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017052913002700_1.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017052221001400_2.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017052221001400_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017052221001400_2.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017011913002700.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017011913002700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017011913002700.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017050313001700.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017050313001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017050313001700.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017051113001700.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017051113001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017051113001700.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017053113002100_1.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017053113002100_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017053113002100_1.csv" file! - 2017-06-30 10:05:35
+
+START FOR RIC_2017062021002200.csv - 2017-06-30 10:05:35
+SUCCESS: Import data about "RIC_2017062021002200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:35
+WARRING: Nothing was added to "ric" table from "RIC_2017062021002200.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017053021001500.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017053021001500.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017053021001500.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017051521001300.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017051521001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017051521001300.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017052521001400.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017052521001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017052521001400.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017052913002700.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017052913002700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017052913002700.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017022813001700.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017022813001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+SUCCESS: Import data from "RIC_2017022813001700.csv" was successfully added to "ric" table. - 2017-06-30 10:05:36
+
+START FOR RIC_2017061521001500_1.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017061521001500_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017061521001500_1.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017052521001400_2.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017052521001400_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017052521001400_2.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017052921001300_1.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017052921001300_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017052921001300_1.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017061513002100.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017061513002100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017061513002100.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017062013001700.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017062013001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+SUCCESS: Import data from "RIC_2017062013001700.csv" was successfully added to "ric" table. - 2017-06-30 10:05:36
+
+START FOR RIC_2017042621001100.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017042621001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017042621001100.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017052413001700.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017052413001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017052413001700.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017052313001800_2.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017052313001800_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017052313001800_2.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017061921001700_1.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017061921001700_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017061921001700_1.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017050913002000.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017050913002000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017050913002000.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017031013001600.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017031013001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017031013001600.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017051921001100.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017051921001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+SUCCESS: Import data from "RIC_2017051921001100.csv" was successfully added to "ric" table. - 2017-06-30 10:05:36
+
+START FOR RIC_2017062913001700.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017062913001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+SUCCESS: Import data from "RIC_2017062913001700.csv" was successfully added to "ric" table. - 2017-06-30 10:05:36
+
+START FOR RIC_2017031421000900.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017031421000900.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017031421000900.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017051013002100.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017051013002100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017051013002100.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017013113002100.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017013113002100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017013113002100.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017030121001100.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017030121001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017030121001100.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017030721001000.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017030721001000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017030721001000.csv" file! - 2017-06-30 10:05:36
+
+START FOR RIC_2017012613002200.csv - 2017-06-30 10:05:36
+SUCCESS: Import data about "RIC_2017012613002200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:36
+WARRING: Nothing was added to "ric" table from "RIC_2017012613002200.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017050413001700.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017050413001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017050413001700.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017051813001700_1.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017051813001700_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017051813001700_1.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017021713001600.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017021713001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017021713001600.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017060713001700_1.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017060713001700_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+SUCCESS: Import data from "RIC_2017060713001700_1.csv" was successfully added to "ric" table. - 2017-06-30 10:05:37
+
+START FOR RIC_2017061321001600.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017061321001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017061321001600.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017032221001100.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017032221001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+SUCCESS: Import data from "RIC_2017032221001100.csv" was successfully added to "ric" table. - 2017-06-30 10:05:37
+
+START FOR RIC_2017032121001000.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017032121001000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017032121001000.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017033021001200.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017033021001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017033021001200.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017010921001600.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017010921001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017010921001600.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017020721001000.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017020721001000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017020721001000.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017020213002300.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017020213002300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017020213002300.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017061621001400_1.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017061621001400_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+SUCCESS: Import data from "RIC_2017061621001400_1.csv" was successfully added to "ric" table. - 2017-06-30 10:05:37
+
+START FOR RIC_2017060521002500_2.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017060521002500_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017060521002500_2.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017062821001100.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017062821001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017062821001100.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017022421001200.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017022421001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017022421001200.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017010313002200.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017010313002200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017010313002200.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017042713004400.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017042713004400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017042713004400.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017020821001100.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017020821001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017020821001100.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017052513001700_2.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017052513001700_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017052513001700_2.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017060613002000_1.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017060613002000_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017060613002000_1.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017062621001300.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017062621001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017062621001300.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017051813001700_2.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017051813001700_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017051813001700_2.csv" file! - 2017-06-30 10:05:37
+
+START FOR RIC_2017012521001400.csv - 2017-06-30 10:05:37
+SUCCESS: Import data about "RIC_2017012521001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:37
+WARRING: Nothing was added to "ric" table from "RIC_2017012521001400.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017051513002000.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017051513002000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017051513002000.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017060821001600.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017060821001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+SUCCESS: Import data from "RIC_2017060821001600.csv" was successfully added to "ric" table. - 2017-06-30 10:05:38
+
+START FOR RIC_2017012313003200.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017012313003200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017012313003200.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017032913001900.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017032913001900.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017032913001900.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017062321001400.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017062321001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017062321001400.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017052313001800.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017052313001800.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017052313001800.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017052621001400_2.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017052621001400_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017052621001400_2.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017011313002600.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017011313002600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017011313002600.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017032721001200.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017032721001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017032721001200.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017051121001200.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017051121001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017051121001200.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017050521004100.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017050521004100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017050521004100.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017020621001200.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017020621001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017020621001200.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017031713001700.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017031713001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017031713001700.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017030613001800.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017030613001800.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017030613001800.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017050921001300.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017050921001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017050921001300.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017061621001400.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017061621001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+SUCCESS: Import data from "RIC_2017061621001400.csv" was successfully added to "ric" table. - 2017-06-30 10:05:38
+
+START FOR RIC_2017052413001700_1.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017052413001700_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017052413001700_1.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017011021001700.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017011021001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017011021001700.csv" file! - 2017-06-30 10:05:38
+
+START FOR RIC_2017050813001900.csv - 2017-06-30 10:05:38
+SUCCESS: Import data about "RIC_2017050813001900.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:38
+WARRING: Nothing was added to "ric" table from "RIC_2017050813001900.csv" file! - 2017-06-30 10:05:39
+
+START FOR RIC_2017052413001700_2.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017052413001700_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+WARRING: Nothing was added to "ric" table from "RIC_2017052413001700_2.csv" file! - 2017-06-30 10:05:39
+
+START FOR RIC_2017031721001100.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017031721001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+SUCCESS: Import data from "RIC_2017031721001100.csv" was successfully added to "ric" table. - 2017-06-30 10:05:39
+
+START FOR RIC_2017051621001300.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017051621001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+WARRING: Nothing was added to "ric" table from "RIC_2017051621001300.csv" file! - 2017-06-30 10:05:39
+
+START FOR RIC_2017053013002100.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017053013002100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+WARRING: Nothing was added to "ric" table from "RIC_2017053013002100.csv" file! - 2017-06-30 10:05:39
+
+START FOR RIC_2017031313001500.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017031313001500.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+WARRING: Nothing was added to "ric" table from "RIC_2017031313001500.csv" file! - 2017-06-30 10:05:39
+
+START FOR RIC_2017060913002300_1.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017060913002300_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+WARRING: Nothing was added to "ric" table from "RIC_2017060913002300_1.csv" file! - 2017-06-30 10:05:39
+
+START FOR RIC_2017011321001600.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017011321001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+WARRING: Nothing was added to "ric" table from "RIC_2017011321001600.csv" file! - 2017-06-30 10:05:39
+
+START FOR RIC_2017042113002200.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017042113002200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+SUCCESS: Import data from "RIC_2017042113002200.csv" was successfully added to "ric" table. - 2017-06-30 10:05:39
+
+START FOR RIC_2017031521001200.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017031521001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+SUCCESS: Import data from "RIC_2017031521001200.csv" was successfully added to "ric" table. - 2017-06-30 10:05:39
+
+START FOR RIC_2017031613001800.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017031613001800.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+WARRING: Nothing was added to "ric" table from "RIC_2017031613001800.csv" file! - 2017-06-30 10:05:39
+
+START FOR RIC_2017050821004200.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017050821004200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+WARRING: Nothing was added to "ric" table from "RIC_2017050821004200.csv" file! - 2017-06-30 10:05:39
+
+START FOR RIC_2017051721001100.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017051721001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+WARRING: Nothing was added to "ric" table from "RIC_2017051721001100.csv" file! - 2017-06-30 10:05:39
+
+START FOR RIC_2017062813001600.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017062813001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+SUCCESS: Import data from "RIC_2017062813001600.csv" was successfully added to "ric" table. - 2017-06-30 10:05:39
+
+START FOR RIC_2017060721001400_2.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017060721001400_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+WARRING: Nothing was added to "ric" table from "RIC_2017060721001400_2.csv" file! - 2017-06-30 10:05:39
+
+START FOR RIC_2017060813002000.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017060813002000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+WARRING: Nothing was added to "ric" table from "RIC_2017060813002000.csv" file! - 2017-06-30 10:05:39
+
+START FOR RIC_2017061413001600_1.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017061413001600_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+SUCCESS: Import data from "RIC_2017061413001600_1.csv" was successfully added to "ric" table. - 2017-06-30 10:05:39
+
+START FOR RIC_2017060521002500.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017060521002500.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+WARRING: Nothing was added to "ric" table from "RIC_2017060521002500.csv" file! - 2017-06-30 10:05:39
+
+START FOR RIC_2017030813001600.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017030813001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+SUCCESS: Import data from "RIC_2017030813001600.csv" was successfully added to "ric" table. - 2017-06-30 10:05:39
+
+START FOR RIC_2017053121001300_2.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017053121001300_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+WARRING: Nothing was added to "ric" table from "RIC_2017053121001300_2.csv" file! - 2017-06-30 10:05:39
+
+START FOR RIC_2017052513001700_1.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017052513001700_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+WARRING: Nothing was added to "ric" table from "RIC_2017052513001700_1.csv" file! - 2017-06-30 10:05:39
+
+START FOR RIC_2017013121001300.csv - 2017-06-30 10:05:39
+SUCCESS: Import data about "RIC_2017013121001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:39
+SUCCESS: Import data from "RIC_2017013121001300.csv" was successfully added to "ric" table. - 2017-06-30 10:05:40
+
+START FOR RIC_2017020921001100.csv - 2017-06-30 10:05:40
+SUCCESS: Import data about "RIC_2017020921001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:40
+WARRING: Nothing was added to "ric" table from "RIC_2017020921001100.csv" file! - 2017-06-30 10:05:40
+
+START FOR RIC_2017051921001100_2.csv - 2017-06-30 10:05:40
+SUCCESS: Import data about "RIC_2017051921001100_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:40
+SUCCESS: Import data from "RIC_2017051921001100_2.csv" was successfully added to "ric" table. - 2017-06-30 10:05:40
+
+START FOR RIC_2017021313001800.csv - 2017-06-30 10:05:40
+SUCCESS: Import data about "RIC_2017021313001800.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:40
+WARRING: Nothing was added to "ric" table from "RIC_2017021313001800.csv" file! - 2017-06-30 10:05:40
+
+START FOR RIC_2017011113002900.csv - 2017-06-30 10:05:40
+SUCCESS: Import data about "RIC_2017011113002900.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:40
+WARRING: Nothing was added to "ric" table from "RIC_2017011113002900.csv" file! - 2017-06-30 10:05:40
+
+START FOR RIC_2017062113002000.csv - 2017-06-30 10:05:40
+SUCCESS: Import data about "RIC_2017062113002000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:40
+SUCCESS: Import data from "RIC_2017062113002000.csv" was successfully added to "ric" table. - 2017-06-30 10:05:40
+
+START FOR RIC_2017021521001100.csv - 2017-06-30 10:05:40
+SUCCESS: Import data about "RIC_2017021521001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:40
+WARRING: Nothing was added to "ric" table from "RIC_2017021521001100.csv" file! - 2017-06-30 10:05:40
+
+START FOR RIC_2017012513002100.csv - 2017-06-30 10:05:40
+SUCCESS: Import data about "RIC_2017012513002100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:40
+SUCCESS: Import data from "RIC_2017012513002100.csv" was successfully added to "ric" table. - 2017-06-30 10:05:41
+
+START FOR RIC_2017030713002000.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017030713002000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017030713002000.csv" file! - 2017-06-30 10:05:41
+
+START FOR RIC_2017060713001700_2.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017060713001700_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+SUCCESS: Import data from "RIC_2017060713001700_2.csv" was successfully added to "ric" table. - 2017-06-30 10:05:41
+
+START FOR RIC_2017031621001300.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017031621001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017031621001300.csv" file! - 2017-06-30 10:05:41
+
+START FOR RIC_2017050321001200.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017050321001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017050321001200.csv" file! - 2017-06-30 10:05:41
+
+START FOR RIC_2017052621001400.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017052621001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017052621001400.csv" file! - 2017-06-30 10:05:41
+
+START FOR RIC_2017011621001600.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017011621001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017011621001600.csv" file! - 2017-06-30 10:05:41
+
+START FOR RIC_2017052521001400_1.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017052521001400_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017052521001400_1.csv" file! - 2017-06-30 10:05:41
+
+START FOR RIC_2017061913002200_1.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017061913002200_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017061913002200_1.csv" file! - 2017-06-30 10:05:41
+
+START FOR RIC_2017052921001300.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017052921001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017052921001300.csv" file! - 2017-06-30 10:05:41
+
+START FOR RIC_2017040621001400.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017040621001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017040621001400.csv" file! - 2017-06-30 10:05:41
+
+START FOR RIC_2017042121001200.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017042121001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017042121001200.csv" file! - 2017-06-30 10:05:41
+
+START FOR RIC_2017062013001700_1.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017062013001700_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+SUCCESS: Import data from "RIC_2017062013001700_1.csv" was successfully added to "ric" table. - 2017-06-30 10:05:41
+
+START FOR RIC_2017052421001800_2.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017052421001800_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017052421001800_2.csv" file! - 2017-06-30 10:05:41
+
+START FOR RIC_2017021013001600.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017021013001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017021013001600.csv" file! - 2017-06-30 10:05:41
+
+START FOR RIC_2017031413001500.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017031413001500.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017031413001500.csv" file! - 2017-06-30 10:05:41
+
+START FOR RIC_2017050213001400.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017050213001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017050213001400.csv" file! - 2017-06-30 10:05:41
+
+START FOR RIC_2017050513004300.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017050513004300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+SUCCESS: Import data from "RIC_2017050513004300.csv" was successfully added to "ric" table. - 2017-06-30 10:05:41
+
+START FOR RIC_2017012021001700.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017012021001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+WARRING: Nothing was added to "ric" table from "RIC_2017012021001700.csv" file! - 2017-06-30 10:05:41
+
+START FOR RIC_2017060113002000_2.csv - 2017-06-30 10:05:41
+SUCCESS: Import data about "RIC_2017060113002000_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:41
+SUCCESS: Import data from "RIC_2017060113002000_2.csv" was successfully added to "ric" table. - 2017-06-30 10:05:42
+
+START FOR RIC_2017012621001300.csv - 2017-06-30 10:05:42
+SUCCESS: Import data about "RIC_2017012621001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:42
+WARRING: Nothing was added to "ric" table from "RIC_2017012621001300.csv" file! - 2017-06-30 10:05:42
+
+START FOR RIC_2017041921001100.csv - 2017-06-30 10:05:42
+SUCCESS: Import data about "RIC_2017041921001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:42
+WARRING: Nothing was added to "ric" table from "RIC_2017041921001100.csv" file! - 2017-06-30 10:05:42
+
+START FOR RIC_2017052213002100_1.csv - 2017-06-30 10:05:42
+SUCCESS: Import data about "RIC_2017052213002100_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:42
+SUCCESS: Import data from "RIC_2017052213002100_1.csv" was successfully added to "ric" table. - 2017-06-30 10:05:42
+
+START FOR RIC_2017042413001600.csv - 2017-06-30 10:05:42
+SUCCESS: Import data about "RIC_2017042413001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:42
+WARRING: Nothing was added to "ric" table from "RIC_2017042413001600.csv" file! - 2017-06-30 10:05:42
+
+START FOR RIC_2017062713001700.csv - 2017-06-30 10:05:42
+SUCCESS: Import data about "RIC_2017062713001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:42
+SUCCESS: Import data from "RIC_2017062713001700.csv" was successfully added to "ric" table. - 2017-06-30 10:05:42
+
+START FOR RIC_2017051213001900.csv - 2017-06-30 10:05:42
+SUCCESS: Import data about "RIC_2017051213001900.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:42
+WARRING: Nothing was added to "ric" table from "RIC_2017051213001900.csv" file! - 2017-06-30 10:05:42
+
+START FOR RIC_2017032821001400.csv - 2017-06-30 10:05:42
+SUCCESS: Import data about "RIC_2017032821001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:42
+WARRING: Nothing was added to "ric" table from "RIC_2017032821001400.csv" file! - 2017-06-30 10:05:42
+
+START FOR RIC_2017032421001200.csv - 2017-06-30 10:05:42
+SUCCESS: Import data about "RIC_2017032421001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:42
+WARRING: Nothing was added to "ric" table from "RIC_2017032421001200.csv" file! - 2017-06-30 10:05:42
+
+START FOR RIC_2017011821001800.csv - 2017-06-30 10:05:42
+SUCCESS: Import data about "RIC_2017011821001800.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:42
+WARRING: Nothing was added to "ric" table from "RIC_2017011821001800.csv" file! - 2017-06-30 10:05:42
+
+START FOR RIC_2017051821001400_2.csv - 2017-06-30 10:05:42
+SUCCESS: Import data about "RIC_2017051821001400_2.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:42
+WARRING: Nothing was added to "ric" table from "RIC_2017051821001400_2.csv" file! - 2017-06-30 10:05:42
+
+START FOR RIC_2017052221001400.csv - 2017-06-30 10:05:42
+SUCCESS: Import data about "RIC_2017052221001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:42
+WARRING: Nothing was added to "ric" table from "RIC_2017052221001400.csv" file! - 2017-06-30 10:05:42
+
+START FOR RIC_2017061313001900.csv - 2017-06-30 10:05:42
+SUCCESS: Import data about "RIC_2017061313001900.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:42
+WARRING: Nothing was added to "ric" table from "RIC_2017061313001900.csv" file! - 2017-06-30 10:05:42
+
+START FOR RIC_2017062721001000.csv - 2017-06-30 10:05:42
+SUCCESS: Import data about "RIC_2017062721001000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:42
+SUCCESS: Import data from "RIC_2017062721001000.csv" was successfully added to "ric" table. - 2017-06-30 10:05:42
+
+START FOR RIC_2017052513001700.csv - 2017-06-30 10:05:42
+SUCCESS: Import data about "RIC_2017052513001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:42
+WARRING: Nothing was added to "ric" table from "RIC_2017052513001700.csv" file! - 2017-06-30 10:05:42
+
+START FOR RIC_2017060513002000.csv - 2017-06-30 10:05:42
+SUCCESS: Import data about "RIC_2017060513002000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:42
+WARRING: Nothing was added to "ric" table from "RIC_2017060513002000.csv" file! - 2017-06-30 10:05:43
+
+START FOR RIC_2017021621001100.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017021621001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+WARRING: Nothing was added to "ric" table from "RIC_2017021621001100.csv" file! - 2017-06-30 10:05:43
+
+START FOR RIC_2017060513002000_1.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017060513002000_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+WARRING: Nothing was added to "ric" table from "RIC_2017060513002000_1.csv" file! - 2017-06-30 10:05:43
+
+START FOR RIC_2017011813002500.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017011813002500.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+WARRING: Nothing was added to "ric" table from "RIC_2017011813002500.csv" file! - 2017-06-30 10:05:43
+
+START FOR RIC_2017041321001300.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017041321001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+SUCCESS: Import data from "RIC_2017041321001300.csv" was successfully added to "ric" table. - 2017-06-30 10:05:43
+
+START FOR RIC_2017032713001800.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017032713001800.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+WARRING: Nothing was added to "ric" table from "RIC_2017032713001800.csv" file! - 2017-06-30 10:05:43
+
+START FOR RIC_2017031321001100.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017031321001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+WARRING: Nothing was added to "ric" table from "RIC_2017031321001100.csv" file! - 2017-06-30 10:05:43
+
+START FOR RIC_2017051921001100_1.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017051921001100_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+SUCCESS: Import data from "RIC_2017051921001100_1.csv" was successfully added to "ric" table. - 2017-06-30 10:05:43
+
+START FOR RIC_2017042821001200.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017042821001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+WARRING: Nothing was added to "ric" table from "RIC_2017042821001200.csv" file! - 2017-06-30 10:05:43
+
+START FOR RIC_2017052221001400_1.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017052221001400_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+WARRING: Nothing was added to "ric" table from "RIC_2017052221001400_1.csv" file! - 2017-06-30 10:05:43
+
+START FOR RIC_2017040613002100.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017040613002100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+WARRING: Nothing was added to "ric" table from "RIC_2017040613002100.csv" file! - 2017-06-30 10:05:43
+
+START FOR RIC_2017010213002600.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017010213002600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+WARRING: Nothing was added to "ric" table from "RIC_2017010213002600.csv" file! - 2017-06-30 10:05:43
+
+START FOR RIC_2017041821001700.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017041821001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+WARRING: Nothing was added to "ric" table from "RIC_2017041821001700.csv" file! - 2017-06-30 10:05:43
+
+START FOR RIC_2017061521001500.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017061521001500.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+WARRING: Nothing was added to "ric" table from "RIC_2017061521001500.csv" file! - 2017-06-30 10:05:43
+
+START FOR RIC_2017012013002700.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017012013002700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+WARRING: Nothing was added to "ric" table from "RIC_2017012013002700.csv" file! - 2017-06-30 10:05:43
+
+START FOR RIC_2017053121001300.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017053121001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+WARRING: Nothing was added to "ric" table from "RIC_2017053121001300.csv" file! - 2017-06-30 10:05:43
+
+START FOR RIC_2017061421001300_1.csv - 2017-06-30 10:05:43
+SUCCESS: Import data about "RIC_2017061421001300_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:43
+WARRING: Nothing was added to "ric" table from "RIC_2017061421001300_1.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017022121001100.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017022121001100.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017022121001100.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017021721001000.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017021721001000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017021721001000.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017042721001200.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017042721001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017042721001200.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017042813001600.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017042813001600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017042813001600.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017062021002200_1.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017062021002200_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017062021002200_1.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017062313002000_1.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017062313002000_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017062313002000_1.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017060913002300.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017060913002300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017060913002300.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017051813001700.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017051813001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017051813001700.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017021613001400.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017021613001400.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017021613001400.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017062213001900.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017062213001900.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017062213001900.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017012413003000.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017012413003000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017012413003000.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017050421001300.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017050421001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017050421001300.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017011213002600.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017011213002600.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017011213002600.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017040421001500.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017040421001500.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+SUCCESS: Import data from "RIC_2017040421001500.csv" was successfully added to "ric" table. - 2017-06-30 10:05:44
+
+START FOR RIC_2017010521001300.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017010521001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017010521001300.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017052621001400_1.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017052621001400_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017052621001400_1.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017041913001800.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017041913001800.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017041913001800.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017062321001400_1.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017062321001400_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017062321001400_1.csv" file! - 2017-06-30 10:05:44
+
+START FOR RIC_2017022821001000.csv - 2017-06-30 10:05:44
+SUCCESS: Import data about "RIC_2017022821001000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:44
+WARRING: Nothing was added to "ric" table from "RIC_2017022821001000.csv" file! - 2017-06-30 10:05:45
+
+START FOR RIC_2017020813001700.csv - 2017-06-30 10:05:45
+SUCCESS: Import data about "RIC_2017020813001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:45
+WARRING: Nothing was added to "ric" table from "RIC_2017020813001700.csv" file! - 2017-06-30 10:05:45
+
+START FOR RIC_2017062121001300.csv - 2017-06-30 10:05:45
+SUCCESS: Import data about "RIC_2017062121001300.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:45
+WARRING: Nothing was added to "ric" table from "RIC_2017062121001300.csv" file! - 2017-06-30 10:05:45
+
+START FOR RIC_2017040321001500.csv - 2017-06-30 10:05:45
+SUCCESS: Import data about "RIC_2017040321001500.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:45
+WARRING: Nothing was added to "ric" table from "RIC_2017040321001500.csv" file! - 2017-06-30 10:05:45
+
+START FOR RIC_2017042013001700.csv - 2017-06-30 10:05:45
+SUCCESS: Import data about "RIC_2017042013001700.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:45
+WARRING: Nothing was added to "ric" table from "RIC_2017042013001700.csv" file! - 2017-06-30 10:05:45
+
+START FOR RIC_2017011921001900.csv - 2017-06-30 10:05:45
+SUCCESS: Import data about "RIC_2017011921001900.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:45
+WARRING: Nothing was added to "ric" table from "RIC_2017011921001900.csv" file! - 2017-06-30 10:05:45
+
+START FOR RIC_2017041313001900.csv - 2017-06-30 10:05:45
+SUCCESS: Import data about "RIC_2017041313001900.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:45
+WARRING: Nothing was added to "ric" table from "RIC_2017041313001900.csv" file! - 2017-06-30 10:05:45
+
+START FOR RIC_2017030221001000.csv - 2017-06-30 10:05:45
+SUCCESS: Import data about "RIC_2017030221001000.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:45
+WARRING: Nothing was added to "ric" table from "RIC_2017030221001000.csv" file! - 2017-06-30 10:05:45
+
+START FOR RIC_2017040521001200.csv - 2017-06-30 10:05:45
+SUCCESS: Import data about "RIC_2017040521001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:45
+WARRING: Nothing was added to "ric" table from "RIC_2017040521001200.csv" file! - 2017-06-30 10:05:45
+
+START FOR RIC_2017040721001200.csv - 2017-06-30 10:05:45
+SUCCESS: Import data about "RIC_2017040721001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:45
+WARRING: Nothing was added to "ric" table from "RIC_2017040721001200.csv" file! - 2017-06-30 10:05:45
+
+START FOR RIC_2017062221001200.csv - 2017-06-30 10:05:45
+SUCCESS: Import data about "RIC_2017062221001200.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:45
+WARRING: Nothing was added to "ric" table from "RIC_2017062221001200.csv" file! - 2017-06-30 10:05:45
+
+START FOR RIC_2017060521002500_1.csv - 2017-06-30 10:05:45
+SUCCESS: Import data about "RIC_2017060521002500_1.csv" was successfully added to "input_file" table. - 2017-06-30 10:05:45
+WARRING: Nothing was added to "ric" table from "RIC_2017060521002500_1.csv" file! - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017011721001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017011721001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017011013002400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017011013002400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052213002100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052213002100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052421001800.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052421001800.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052921001300_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052921001300_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060821001600_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060821001600_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017022721001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017022721001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062313002000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062313002000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061413001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061413001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017012713002000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017012713002000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060813002000_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060813002000_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017040713002200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017040713002200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051021001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051021001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061421001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061421001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017020613002000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017020613002000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051613001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051613001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017053121001300_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017053121001300_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017032113001800.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017032113001800.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017022321001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017022321001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051821001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051821001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017030621001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017030621001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017042613002000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017042613002000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060113002000_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060113002000_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051821001400_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051821001400_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052913002700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052913002700_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017053113002100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017053113002100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017022213002100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017022213002100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017012721001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017012721001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017011713003200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017011713003200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060721001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060721001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017042021001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017042021001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017030821001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017030821001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061513002100_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061513002100_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017041113001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017041113001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017041021001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017041021001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061913002201.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061913002201.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017021321001000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017021321001000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017032921001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017032921001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061221002400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061221002400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017012321001800.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017012321001800.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017041221001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017041221001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017013021003800.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017013021003800.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051221001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051221001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017041421001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017041421001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017020913001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017020913001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060513002000_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060513002000_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060121002000_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060121002000_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017041121001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017041121001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052313001800_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052313001800_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017020713001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017020713001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060621001500.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060621001500.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060113002000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060113002000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060721001400_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060721001400_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017033113002100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017033113002100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060121002000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060121002000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017032813002000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017032813002000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060613002000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060613002000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060621001500_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060621001500_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017032021001000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017032021001000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017021421000900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017021421000900.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061913002200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061913002200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017020321001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017020321001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017020121001000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017020121001000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052421001800_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052421001800_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017020221001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017020221001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017032321001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017032321001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061921001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061921001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017040313001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017040313001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017022113001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017022113001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061213002400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061213002400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052213002100_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052213002100_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017012421001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017012421001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017053113002100_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017053113002100_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017022021000900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017022021000900.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017032013001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017032013001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017010321001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017010321001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061613001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061613001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017033121001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017033121001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060713001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060713001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017021021001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017021021001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017030921001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017030921001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017050221001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017050221001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017022221001000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017022221001000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017030321001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017030321001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060121002000_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060121002000_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017031021001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017031021001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017010413003200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017010413003200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061613001700_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061613001700_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052913002700_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052913002700_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052221001400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052221001400_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017011913002700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017011913002700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017050313001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017050313001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051113001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051113001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017053113002100_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017053113002100_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062021002200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062021002200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017053021001500.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017053021001500.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051521001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051521001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052521001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052521001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052913002700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052913002700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017022813001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017022813001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061521001500_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061521001500_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052521001400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052521001400_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052921001300_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052921001300_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061513002100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061513002100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062013001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062013001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017042621001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017042621001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052413001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052413001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052313001800_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052313001800_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061921001700_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061921001700_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017050913002000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017050913002000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017031013001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017031013001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051921001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051921001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062913001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062913001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017031421000900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017031421000900.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051013002100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051013002100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017013113002100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017013113002100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017030121001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017030121001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017030721001000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017030721001000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017012613002200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017012613002200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017050413001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017050413001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051813001700_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051813001700_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017021713001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017021713001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060713001700_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060713001700_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061321001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061321001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017032221001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017032221001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017032121001000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017032121001000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017033021001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017033021001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017010921001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017010921001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017020721001000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017020721001000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017020213002300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017020213002300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061621001400_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061621001400_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060521002500_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060521002500_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062821001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062821001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017022421001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017022421001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017010313002200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017010313002200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017042713004400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017042713004400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017020821001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017020821001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052513001700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052513001700_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060613002000_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060613002000_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062621001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062621001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051813001700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051813001700_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017012521001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017012521001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051513002000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051513002000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060821001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060821001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017012313003200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017012313003200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017032913001900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017032913001900.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062321001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062321001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052313001800.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052313001800.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052621001400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052621001400_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017011313002600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017011313002600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017032721001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017032721001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051121001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051121001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017050521004100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017050521004100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017020621001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017020621001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017031713001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017031713001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017030613001800.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017030613001800.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017050921001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017050921001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061621001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061621001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052413001700_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052413001700_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017011021001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017011021001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017050813001900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017050813001900.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052413001700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052413001700_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017031721001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017031721001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051621001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051621001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017053013002100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017053013002100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017031313001500.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017031313001500.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060913002300_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060913002300_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017011321001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017011321001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017042113002200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017042113002200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017031521001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017031521001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017031613001800.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017031613001800.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017050821004200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017050821004200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051721001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051721001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062813001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062813001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060721001400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060721001400_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060813002000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060813002000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061413001600_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061413001600_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060521002500.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060521002500.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017030813001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017030813001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017053121001300_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017053121001300_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052513001700_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052513001700_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017013121001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017013121001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017020921001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017020921001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051921001100_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051921001100_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017021313001800.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017021313001800.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017011113002900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017011113002900.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062113002000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062113002000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017021521001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017021521001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017012513002100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017012513002100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017030713002000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017030713002000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060713001700_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060713001700_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017031621001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017031621001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017050321001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017050321001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052621001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052621001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017011621001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017011621001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052521001400_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052521001400_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061913002200_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061913002200_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052921001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052921001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017040621001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017040621001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017042121001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017042121001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062013001700_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062013001700_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052421001800_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052421001800_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017021013001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017021013001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017031413001500.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017031413001500.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017050213001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017050213001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017050513004300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017050513004300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017012021001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017012021001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060113002000_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060113002000_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017012621001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017012621001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017041921001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017041921001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052213002100_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052213002100_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017042413001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017042413001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062713001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062713001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051213001900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051213001900.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017032821001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017032821001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017032421001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017032421001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017011821001800.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017011821001800.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051821001400_2.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051821001400_2.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052221001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052221001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061313001900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061313001900.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062721001000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062721001000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052513001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052513001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060513002000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060513002000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017021621001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017021621001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060513002000_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060513002000_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017011813002500.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017011813002500.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017041321001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017041321001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017032713001800.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017032713001800.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017031321001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017031321001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051921001100_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051921001100_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017042821001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017042821001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052221001400_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052221001400_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017040613002100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017040613002100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017010213002600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017010213002600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017041821001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017041821001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061521001500.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061521001500.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017012013002700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017012013002700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017053121001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017053121001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017061421001300_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017061421001300_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017022121001100.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017022121001100.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017021721001000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017021721001000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017042721001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017042721001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017042813001600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017042813001600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062021002200_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062021002200_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062313002000_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062313002000_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060913002300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060913002300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017051813001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017051813001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017021613001400.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017021613001400.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062213001900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062213001900.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017012413003000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017012413003000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017050421001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017050421001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017011213002600.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017011213002600.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017040421001500.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017040421001500.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017010521001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017010521001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017052621001400_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017052621001400_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017041913001800.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017041913001800.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062321001400_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062321001400_1.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017022821001000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017022821001000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017020813001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017020813001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062121001300.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062121001300.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017040321001500.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017040321001500.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017042013001700.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017042013001700.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017011921001900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017011921001900.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017041313001900.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017041313001900.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017030221001000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017030221001000.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017040521001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017040521001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017040721001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017040721001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017062221001200.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017062221001200.csv" - 2017-06-30 10:05:45
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/RIC_2017060521002500_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/RIC_2017060521002500_1.csv" - 2017-06-30 10:05:45

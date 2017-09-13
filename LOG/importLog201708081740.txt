@@ -1,0 +1,10 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-08-08 15:40:54
+File importLog201708081740.txt was successfully deleted - 2017-08-08 15:40:54
+The file name for /var/www/html/rocketbaby/IN/SPE_20170808161200.csv was change to /var/www/html/rocketbaby/IN/SPE_20170808161200_1.csv - 2017-08-08 15:40:54
+
+START FOR SPE_20170808161200_1.csv - 2017-08-08 15:40:54
+SUCCESS: Import data about "SPE_20170808161200_1.csv" was successfully added to "input_file" table. - 2017-08-08 15:40:54
+SUCCESS: Import data from "SPE_20170808161200_1.csv" was successfully added to "spe" table. - 2017-08-08 15:40:55
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SPE_20170808161200_1.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SPE_20170808161200_1.csv" - 2017-08-08 15:40:55
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-08-08 15:40:58
+File importLog201708081740.txt was successfully deleted - 2017-08-08 15:40:58

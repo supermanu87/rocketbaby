@@ -1,0 +1,16 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-07-13 9:10:17
+File importLog201707131110.txt was successfully deleted - 2017-07-13 9:10:17
+
+START FOR CANCELLATI_20170713112000.xlsx - 2017-07-13 9:10:17
+SUCCESS: Import data about "CANCELLATI_20170713112000.xlsx" was successfully added to "input_file" table. - 2017-07-13 9:10:17
+PHP Notice:  Error: Duplicate entry '-' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO cancellati SET OrderId = '0', ORDERN = '', SKU = '', QuantitaRichiesta = '0', OrderSku = '-', File = '24511' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-13 9:10:17
+ERROR: Unknown error during add information to "cancellati" table. - 2017-07-13 9:10:17
+PHP Notice:  Error: Duplicate entry '-' for key 'PRIMARY'<br />Error No: 1062<br />INSERT INTO cancellati SET OrderId = '0', ORDERN = '', SKU = '', QuantitaRichiesta = '0', OrderSku = '-', File = '24511' in /var/www/html/rocketbaby/system/library/db/mysqli.php on line 41 - 2017-07-13 9:10:17
+ERROR: Unknown error during add information to "cancellati" table. - 2017-07-13 9:10:17
+SUCCESS: Import data from "CANCELLATI_20170713112000.xlsx" was successfully added to "cancellati" table. - 2017-07-13 9:10:17
+
+START FOR CAMBI_20170713114800.xlsx - 2017-07-13 9:10:17
+SUCCESS: Import data about "CAMBI_20170713114800.xlsx" was successfully added to "input_file" table. - 2017-07-13 9:10:17
+SUCCESS: Import data from "CAMBI_20170713114800.xlsx" was successfully added to "cambi" table. - 2017-07-13 9:10:17
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/CANCELLATI_20170713112000.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/CANCELLATI_20170713112000.xlsx" - 2017-07-13 9:10:17
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/CAMBI_20170713114800.xlsx" was moved to "/var/www/html/rocketbaby/ARCHIVE/CAMBI_20170713114800.xlsx" - 2017-07-13 9:10:17

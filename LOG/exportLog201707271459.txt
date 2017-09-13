@@ -1,0 +1,4 @@
+Selezionata tabella dbpo - 2017-07-27 12:59:24
+SUCCES: Export file  "dbpo_201707271259.xlsx" was saved! - 2017-07-27 12:59:24
+Selezionata tabella brt - 2017-07-27 12:59:57
+SUCCES: Export file  "brt_201707271300.xlsx" was saved! - 2017-07-27 13:00:10

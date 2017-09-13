@@ -1,0 +1,8 @@
+IMPORTING PROCEDURE WAS STARTED!!! - 2017-09-12 7:51:20
+File importLog201709120951.txt was successfully deleted - 2017-09-12 7:51:20
+SUCCESS: Truncate table SIMFDB - 2017-09-12 7:51:20
+
+START FOR SIMFDB_2017091209082000.csv - 2017-09-12 7:51:20
+SUCCESS: Import data about "SIMFDB_2017091209082000.csv" was successfully added to "input_file" table. - 2017-09-12 7:51:20
+SUCCESS: Import data from "SIMFDB_2017091209082000.csv" was successfully added to "simfdb" table. - 2017-09-12 7:51:22
+SUCCESS: FIle "/var/www/html/rocketbaby/IN/SIMFDB_2017091209082000.csv" was moved to "/var/www/html/rocketbaby/ARCHIVE/SIMFDB_2017091209082000.csv" - 2017-09-12 7:51:22
